@@ -1164,3 +1164,4 @@ function _copy_image_file( $attachment_id ) {
 
 	return $dst_file;
 }
+
