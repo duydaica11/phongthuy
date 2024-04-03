@@ -1,0 +1,773 @@
+# Copyright (C) 2023 WCBoost
+# This file is distributed under the same license as the WCBoost - Wishlist plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WCBoost - Wishlist 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wcboost-wishlist\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-22T01:24:51+00:00\n"
+"PO-Revision-Date: 2024-03-28 10:43+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: wcboost-wishlist\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3"
+
+#. Plugin Name of the plugin
+msgid "WCBoost - Wishlist"
+msgstr "WCBoost - Ưa Thích"
+
+#. Plugin URI of the plugin
+msgid ""
+"https://wcboost.com/plugin/woocommerce-wishlist/?utm_source=wp-"
+"plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Our WooCommerce Wishlist plugin enables customers to create personalized "
+"collections of products that they like but aren't ready to purchase "
+"immediately. Enhance the shopping experience by saving products for further "
+"consideration, making decisions easier than ever."
+msgstr ""
+"WooCommerce chúng tôi muốn được tặng Quà cho phép khách hàng để tạo ra bộ "
+"sưu tập cá nhân của sản phẩm mà họ thích, nhưng không sẵn sàng để mua ngay "
+"lập tức. Tăng cường kinh nghiệm mua sắm bởi sản phẩm tiết kiệm cho một chỉ "
+"xem xét việc ra quyết định dễ dàng hơn bao giờ hết."
+
+#. Author of the plugin
+msgid "WCBoost"
+msgstr "WCBoost"
+
+#. Author URI of the plugin
+msgid ""
+"https://wcboost.com/?utm_source=wp-plugins&utm_campaign=author-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+
+#: includes/admin/settings.php:17 includes/helper.php:187
+#: includes/widgets/wishlist.php:19 includes/widgets/wishlist.php:23
+msgid "Wishlist"
+msgstr "Danh sách ưa thích"
+
+#: includes/admin/settings.php:41
+msgid "General"
+msgstr "Tổng"
+
+#: includes/admin/settings.php:42
+msgid "This section controls how the wishlist work."
+msgstr "Phần này điều khiển thế ưa thích làm việc."
+
+#: includes/admin/settings.php:46
+msgid "Guest wishlists"
+msgstr "Khách danh sách"
+
+#: includes/admin/settings.php:47
+msgid "Allow guests to create wishlists"
+msgstr "Cho phép khách hàng để tạo danh sách mong muốn"
+
+#: includes/admin/settings.php:53
+msgid "Guest behaviour"
+msgstr "Khách hành vi"
+
+#: includes/admin/settings.php:58
+msgid "Redirect to My Account page"
+msgstr "Chuyển vào tài Khoản của Tôi trang"
+
+#: includes/admin/settings.php:59
+msgid "Display a message"
+msgstr "Hiển thị một tin nhắn"
+
+#: includes/admin/settings.php:63
+msgid "Guest message"
+msgstr "Khách tin nhắn"
+
+#: includes/admin/settings.php:65 includes/form-handler.php:45
+msgid "You need to login to add products to your wishlist"
+msgstr "Bạn cần phải login thêm sản phẩm ưa thích của bạn"
+
+#: includes/admin/settings.php:70
+msgid "Add variations"
+msgstr "Thêm biến"
+
+#: includes/admin/settings.php:71
+msgid "Allow adding variations to the wishlist"
+msgstr "Cho phép thêm biến thể để danh sách ưa thích"
+
+#: includes/admin/settings.php:77
+msgid "AJAX loading"
+msgstr "AJAX tải"
+
+#: includes/admin/settings.php:78
+msgid "Loads wishlist items via AJAX to bypass the cache"
+msgstr "Vô danh sách ưa thích mục qua AJAX để bỏ qua bộ nhớ"
+
+#: includes/admin/settings.php:84
+msgid "Auto removal"
+msgstr "Loại bỏ tự động"
+
+#: includes/admin/settings.php:85
+msgid "Automatically delete products from the wishlist"
+msgstr "Tự động sạch sản phẩm từ danh sách ưa thích"
+
+#: includes/admin/settings.php:90
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: includes/admin/settings.php:91
+msgid "On added to cart"
+msgstr "Trên thêm vào giỏ"
+
+#: includes/admin/settings.php:92
+msgid "On checkout"
+msgstr "Về thanh toán,"
+
+#: includes/admin/settings.php:102
+msgid "Wishlist button"
+msgstr "Danh sách ưa thích nút"
+
+#. translators: %s: URL to the Customizer section
+#: includes/admin/settings.php:104
+msgid ""
+"This section controls how the wishlist button is displayed and worked. Some "
+"visual settings can be configured in the <a href=\"%s\" target=\"_blank\">"
+"Customizer</a>."
+msgstr ""
+
+#: includes/admin/settings.php:108
+msgid "Add to wishlist behaviour"
+msgstr "Thêm vào danh sách ưa thích hành vi"
+
+#: includes/admin/settings.php:109
+msgid "Redirect to the wishlist page after successful addition"
+msgstr "Chuyển hướng đến sự ưa thích trang sau khi thành công ngoài"
+
+#: includes/admin/settings.php:116
+msgid "Enable AJAX add to wishlist"
+msgstr "Cho phép AJAX thêm vào danh sách ưa thích"
+
+#: includes/admin/settings.php:123
+msgid "Button display for exists items"
+msgstr "Hiển thị nút cho mục tồn tại"
+
+#: includes/admin/settings.php:124
+msgid ""
+"Choose how to display the button with products that are already in the "
+"wishlist."
+msgstr "Chọn cách hiển thị nút với sản phẩm đó đã có trong danh sách ưa thích."
+
+#: includes/admin/settings.php:129
+msgid "Hide button"
+msgstr "Ẩn nút"
+
+#: includes/admin/settings.php:130 includes/customizer/customizer.php:345
+#: includes/form-handler.php:96 includes/frontend.php:620
+#: includes/helper.php:213
+msgid "View wishlist"
+msgstr "Xem danh sách ưa thích"
+
+#: includes/admin/settings.php:131 includes/customizer/customizer.php:336
+#: includes/helper.php:212
+msgid "Remove from wishlist"
+msgstr "Bỏ từ danh sách ưa thích"
+
+#: includes/admin/settings.php:135 includes/customizer/customizer.php:214
+msgid "Button position"
+msgstr "Nút vị trí"
+
+#: includes/admin/settings.php:136 includes/customizer/customizer.php:215
+msgid "Choose where to show \"Add to wishlist\" button on the product page."
+msgstr ""
+"Lựa chọn nơi để cho thấy \"Thêm vào danh sách ưa thích\" nút trên trang sản "
+"phẩm."
+
+#: includes/admin/settings.php:137 includes/admin/settings.php:152
+msgid "Manually use the button shortcode: [wcboost_wishlist_button]"
+msgstr ""
+
+#: includes/admin/settings.php:142 includes/admin/settings.php:158
+#: includes/customizer/customizer.php:219
+#: includes/customizer/customizer.php:248
+msgid "Before \"Add to cart\" button"
+msgstr "Trước khi \"Thêm vào giỏ hàng\" "
+
+#: includes/admin/settings.php:143 includes/admin/settings.php:159
+#: includes/customizer/customizer.php:220
+#: includes/customizer/customizer.php:249
+msgid "After \"Add to cart\" button"
+msgstr "Sau khi \"Thêm vào giỏ hàng\" "
+
+#: includes/admin/settings.php:144 includes/customizer/customizer.php:221
+msgid "After product name"
+msgstr "Sau khi tên sản phẩm"
+
+#: includes/admin/settings.php:145 includes/customizer/customizer.php:222
+msgid "After product short description"
+msgstr "Sau khi sản phẩm ngắn mô tả"
+
+#: includes/admin/settings.php:146 includes/admin/settings.php:160
+#: includes/customizer/customizer.php:223
+#: includes/customizer/customizer.php:250
+msgid "Manually use shortcode"
+msgstr "Tay sử dụng ngắn"
+
+#: includes/admin/settings.php:150 includes/customizer/customizer.php:242
+msgid "Button in loop"
+msgstr "Nút trong vòng lặp"
+
+#: includes/admin/settings.php:151 includes/customizer/customizer.php:243
+msgid ""
+"Choose where to show \"Add to wishlist\" button on the product catalog pages."
+msgstr ""
+"Lựa chọn nơi để cho thấy \"Thêm vào danh sách ưa thích\" nút trên các sản "
+"phẩm cửa hàng trang."
+
+#: includes/admin/settings.php:157 includes/customizer/customizer.php:247
+msgid "Hide the button"
+msgstr "Ẩn nút"
+
+#: includes/admin/settings.php:170 includes/customizer/customizer.php:68
+msgid "Wishlist Page"
+msgstr "Trang Ưa Thích"
+
+#. translators: %s: URL to the Customizer section
+#: includes/admin/settings.php:172
+msgid ""
+"This section controls how the wishlist page is displayed. Some visual "
+"settings can be configured in the <a href=\"%s\" target=\"_blank\">"
+"Customizer</a>."
+msgstr ""
+
+#: includes/admin/settings.php:176
+msgid "Page"
+msgstr "Trang"
+
+#: includes/admin/settings.php:177
+msgid "Page content: [wcboost_wishlist]"
+msgstr ""
+
+#: includes/admin/settings.php:189
+msgid "The default wishlist title"
+msgstr "Mặc định danh sách ưa thích tiêu đề"
+
+#: includes/admin/settings.php:192 includes/data-stores/wishlist.php:26
+msgid "My Wishlist"
+msgstr "Ưa Thích Của Tôi"
+
+#: includes/admin/settings.php:195 includes/customizer/customizer.php:151
+msgid "Table columns"
+msgstr "Bàn cột"
+
+#: includes/admin/settings.php:196 includes/customizer/customizer.php:131
+msgid "Product price"
+msgstr "Sản phẩm giá"
+
+#: includes/admin/settings.php:204 includes/customizer/customizer.php:132
+#: templates/wishlist/wishlist-table.php:36
+#: templates/wishlist/wishlist-table.php:132
+msgid "Stock status"
+msgstr "Cổ tình trạng"
+
+#: includes/admin/settings.php:212 includes/customizer/customizer.php:133
+#: templates/wishlist/wishlist-table.php:33
+#: templates/wishlist/wishlist-table.php:111
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: includes/admin/settings.php:220
+msgid "Added date"
+msgstr "Thêm vào ngày"
+
+#: includes/admin/settings.php:228 includes/customizer/customizer.php:135
+msgid "Add to cart"
+msgstr "Thêm vào giỏ"
+
+#: includes/admin/settings.php:236
+msgid "Social share"
+msgstr "Xã hội chia sẻ"
+
+#: includes/admin/settings.php:237
+msgid "Show sharing buttons at the bottom of wishlist"
+msgstr "Hiện tại nút ở cuối danh sách ưa thích"
+
+#: includes/admin/settings.php:238
+msgid "These buttons will be displayed on public and shareable wishlists only"
+msgstr ""
+"Các nút này sẽ được hiển thị trên công và thể chia sẻ ước muốn duy nhất"
+
+#: includes/admin/settings.php:244
+msgid "Social media"
+msgstr "Xã hội"
+
+#: includes/admin/settings.php:245
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/admin/settings.php:253
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/admin/settings.php:261
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/admin/settings.php:269
+msgid "Tumble"
+msgstr "Tumble"
+
+#: includes/admin/settings.php:277
+msgid "Reddit"
+msgstr "Tin tức"
+
+#: includes/admin/settings.php:285
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: includes/admin/settings.php:293
+msgid "Telegram"
+msgstr "Bức điện"
+
+#: includes/admin/settings.php:301
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: includes/admin/settings.php:309
+msgid "Pocket"
+msgstr "Túi"
+
+#: includes/admin/settings.php:317
+msgid "Digg"
+msgstr "Dig"
+
+#: includes/admin/settings.php:325
+msgid "VK"
+msgstr "VC"
+
+#: includes/admin/settings.php:333
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/settings.php:341 includes/helper.php:309
+msgid "Copy link"
+msgstr "Sao chép liên kết"
+
+#: includes/admin/settings.php:375
+msgid "Wishlist Endpoints"
+msgstr "Thiết Bị Đầu Cuối Danh Sách Ưa Thích"
+
+#: includes/admin/settings.php:376
+msgid ""
+"Endpoints are appended to the page URL to handle specific actions on the "
+"wishlist page. They should be unique."
+msgstr ""
+"Thiết bị đầu cuối được nối vào trang địa chỉ để xử lý cụ thể hành động trên "
+"danh sách ưa thích trang. Họ phải là duy nhất."
+
+#: includes/admin/settings.php:380 includes/frontend.php:359
+msgid "Edit wishlist"
+msgstr "Chỉnh sửa ưa thích"
+
+#: includes/admin/settings.php:381
+msgid "Endpoint for the \"Wishlist &rarr; Edit wishlist\" page."
+msgstr "Điểm cho \"danh sách ưa Thích → Sửa ưa thích\" trang."
+
+#. translators: %s: product name
+#: includes/ajax-handler.php:67 includes/form-handler.php:89
+msgid "%s has been added to your wishlist"
+msgstr "%s đã được thêm vào danh sách yêu thích"
+
+#: includes/customizer/customizer.php:75
+msgid "Wishlist Button"
+msgstr "Danh Sách Ưa Thích Nút"
+
+#: includes/customizer/customizer.php:104
+msgid "Show the wishlist title"
+msgstr "Hiển thị các ưa thích tiêu đề"
+
+#: includes/customizer/customizer.php:124
+msgid "Show the wishlist description"
+msgstr "Hiển thị các sách mô tả"
+
+#: includes/customizer/customizer.php:134
+msgid "Date added"
+msgstr "Được thêm ngày"
+
+#: includes/customizer/customizer.php:152
+msgid "Choose wishlist table columns"
+msgstr "Chọn sách yêu thích bàn cột"
+
+#: includes/customizer/customizer.php:268
+msgid "Button icon"
+msgstr "Nút biểu tượng"
+
+#: includes/customizer/customizer.php:272
+msgid "No icon"
+msgstr "Không có biểu tượng"
+
+#: includes/customizer/customizer.php:273
+msgid "Heart"
+msgstr "Trái tim"
+
+#: includes/customizer/customizer.php:274
+msgid "Star"
+msgstr "Sao"
+
+#: includes/customizer/customizer.php:275
+msgid "Bookmark"
+msgstr "Đánh dấu"
+
+#: includes/customizer/customizer.php:276
+#: includes/customizer/customizer.php:304
+msgid "Custom icon"
+msgstr "Biểu tượng"
+
+#: includes/customizer/customizer.php:305
+msgid "Default icon."
+msgstr "Biểu tượng mặc định."
+
+#: includes/customizer/customizer.php:317
+msgid "Added icon."
+msgstr "Thêm biểu tượng."
+
+#: includes/customizer/customizer.php:327 includes/helper.php:211
+#: templates/loop/add-to-wishlist.php:30
+#: templates/single-product/add-to-wishlist.php:30
+msgid "Add to wishlist"
+msgstr "Yêu thích"
+
+#: includes/customizer/customizer.php:354
+msgid "Button text"
+msgstr "Nút văn bản"
+
+#: includes/customizer/customizer.php:355
+msgid "Button add"
+msgstr "Nút thêm"
+
+#: includes/customizer/customizer.php:364
+msgid "Button remove"
+msgstr "Nút hủy bỏ"
+
+#: includes/customizer/customizer.php:373
+msgid "Button view"
+msgstr "Nút xem"
+
+#: includes/customizer/customizer.php:393
+msgid "Button type"
+msgstr "Nút loại"
+
+#: includes/customizer/customizer.php:397
+msgid "Normal button"
+msgstr "Nút bình thường"
+
+#: includes/customizer/customizer.php:398
+msgid "Text button"
+msgstr "Văn bản nút"
+
+#: includes/customizer/customizer.php:399
+msgid "Custom button"
+msgstr "Tùy chỉnh nút"
+
+#: includes/customizer/customizer.php:442
+msgid "Button"
+msgstr "Nút"
+
+#: includes/customizer/customizer.php:443
+#: includes/customizer/customizer.php:505
+msgid "Background color"
+msgstr "Màu nền"
+
+#: includes/customizer/customizer.php:452
+#: includes/customizer/customizer.php:514
+msgid "Border color"
+msgstr "Màu biên giới"
+
+#: includes/customizer/customizer.php:461
+#: includes/customizer/customizer.php:523
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: includes/customizer/customizer.php:504
+msgid "Button Hover"
+msgstr "Nút Di"
+
+#: includes/data-stores/wishlist-item.php:148
+msgid "Invalid item."
+msgstr "Không hợp lệ mục."
+
+#: includes/data-stores/wishlist-item.php:159
+msgid "No item found with given id."
+msgstr "Không tìm thấy mục với cho id."
+
+#: includes/data-stores/wishlist.php:197 includes/data-stores/wishlist.php:215
+#: includes/data-stores/wishlist.php:256
+msgid "Invalid wishlist."
+msgstr "Không hợp lệ danh sách ưa thích."
+
+#: includes/form-handler.php:93
+msgid "Continue shopping"
+msgstr "Tiếp tục mua sắm"
+
+#. translators: %s: product name
+#: includes/form-handler.php:117
+msgid "%s already exists in your wishlist"
+msgstr "%s đã tồn tại trong danh sách yêu thích"
+
+#. translators: %s: product name
+#: includes/form-handler.php:122
+msgid "%s cannot be added to the wishlist"
+msgstr "%s không thể được thêm vào danh sách"
+
+#. translators: %s: product name
+#: includes/form-handler.php:127
+msgid "Failed to add %s to your wishlist"
+msgstr "Không thể thêm %s vào mục yêu thích của bạn"
+
+#. translators: %s: product name
+#: includes/form-handler.php:154
+msgid "%s is removed from the wishlist."
+msgstr "%s được lấy ra từ sách ưa thích."
+
+#: includes/form-handler.php:155
+msgid "Undo?"
+msgstr "Lùi lại?"
+
+#: includes/form-handler.php:171
+msgid "You are not allowed to remove this item"
+msgstr "Bạn không được phép để bỏ mục này"
+
+#: includes/form-handler.php:175
+msgid "Failed to remove the wishlist item"
+msgstr "Thất bại để loại bỏ các mục ưa thích"
+
+#: includes/form-handler.php:211
+msgid "You are not allowed to restore this item"
+msgstr "Bạn không được phép để khôi phục lại mục này"
+
+#: includes/form-handler.php:215
+msgid "Failed to restore the wishlist item"
+msgstr "Thất bại để khôi phục lại sự ưa thích mục"
+
+#: includes/form-handler.php:293
+msgid "Wishlist updated"
+msgstr "Danh sách yêu cầu cập nhật"
+
+#: includes/form-handler.php:322
+msgid "You cannot delete the default wishlist"
+msgstr "Bạn không thể loại bỏ những định danh sách ưa thích"
+
+#: includes/form-handler.php:325
+msgid "Wishlist deleted"
+msgstr "Danh sách ưa thích bị xóa"
+
+#: includes/frontend.php:140
+msgid "The wishlist link is copied to clipboard"
+msgstr "Danh sách liên kết được sao chép đến tạm"
+
+#: includes/frontend.php:141
+msgid "Close"
+msgstr "Gần"
+
+#: includes/frontend.php:337
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: includes/frontend.php:395
+msgid ""
+"You cannot delete your default wishlist. You have to set another list as "
+"default to delete this one."
+msgstr ""
+"Bạn không thể hủy bỏ mặc định của bạn ưa thích. Bạn phải thiết lập một danh "
+"sách như định để hủy bỏ điều này."
+
+#: includes/frontend.php:397
+msgid ""
+"This action moves the wishlist to Trash. It will be kept in Trash for 30 "
+"days."
+msgstr ""
+"Hành động này di chuyển quà vào thùng Rác. Nó sẽ được giữ trong thùng Rác "
+"trong 30 ngày."
+
+#: includes/frontend.php:401
+msgid "Delete this wishlist"
+msgstr "Hủy bỏ điều này ưa thích"
+
+#: includes/frontend.php:494 templates/loop/add-to-wishlist.php:28
+#: templates/single-product/add-to-wishlist.php:28
+msgid "Add %s to the wishlist"
+msgstr "Thêm %s vào mục yêu thích"
+
+#: includes/frontend.php:529
+msgid "Remove %s from the wishlist"
+msgstr "Bỏ %s từ danh sách ưa thích"
+
+#: includes/frontend.php:535
+msgid "Open the wishlist"
+msgstr "Mở sách yêu thích"
+
+#: includes/helper.php:283
+msgid "I have some thing to share with you"
+msgstr "Tôi có một số điều để chia sẻ với bạn"
+
+#: includes/helper.php:317
+msgid "Share on %s"
+msgstr "Chia sẻ trên %s"
+
+#: includes/install.php:144
+msgctxt "Page slug"
+msgid "wishlist"
+msgstr "danh sách ưa thích"
+
+#: includes/install.php:146
+msgctxt "Page title"
+msgid "Wishlist"
+msgstr "Danh sách ưa thích"
+
+#: includes/install.php:172
+msgid "View wishlist documentation"
+msgstr "Xem danh sách ưa thích tài liệu"
+
+#: includes/install.php:172
+msgid "Docs"
+msgstr "Tài liệu"
+
+#: includes/install.php:173
+msgid "Visit community forums"
+msgstr "Truy cập cộng đồng forums"
+
+#: includes/install.php:173
+msgid "Community support"
+msgstr "Hỗ trợ cộng đồng"
+
+#: includes/plugin.php:50 includes/plugin.php:57
+msgid "Foul!"
+msgstr "Hôi!"
+
+#: includes/widgets/wishlist.php:17
+msgid "Display the customer wishlist."
+msgstr "Hiển thị các khách hàng danh sách ưa thích."
+
+#: includes/widgets/wishlist.php:24
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: includes/widgets/wishlist.php:29
+msgid "Hide if wishlist is empty"
+msgstr "Ẩn nếu ưa thích là trống rỗng"
+
+#: includes/wishlist.php:442
+msgid ""
+"A product has been removed from your wishlist because it does not exist "
+"anymore."
+msgstr "Một sản phẩm đã được lấy ra từ ưa thích vì nó không tồn tại nữa."
+
+#: includes/wishlist.php:445
+msgid ""
+"The product \"%s\" has been removed from your wishlist because it can no "
+"longer be purchased."
+msgstr ""
+"Sản phẩm \"%s\" đã được lấy ra từ ưa thích vì nó không còn có thể mua được."
+
+#: includes/wishlist.php:453
+msgid "This item already exists"
+msgstr "Mục này đã tồn tại"
+
+#: includes/wishlist.php:483 includes/wishlist.php:513
+msgid "You are not allowed to edit the wishlist"
+msgstr "Bạn không được phép để chỉnh sửa ưa thích"
+
+#: includes/wishlist.php:487 includes/wishlist.php:519
+msgid "Invalid wishlist item"
+msgstr "Không hợp lệ mục ưa thích"
+
+#: templates/wishlist/form-delete-wishlist.php:31
+msgid "Delete wishlist"
+msgstr "Xóa sách yêu thích"
+
+#: templates/wishlist/form-edit-wishlist.php:21
+msgid "Edit Wishlist"
+msgstr "Chỉnh Sửa Ưa Thích"
+
+#: templates/wishlist/form-edit-wishlist.php:30
+msgid "Wishlist name"
+msgstr "Danh sách ưa thích tên"
+
+#: templates/wishlist/form-edit-wishlist.php:42
+msgid "Description"
+msgstr "Mô tả"
+
+#: templates/wishlist/form-edit-wishlist.php:57
+msgid "Privacy settings"
+msgstr "Chính cài đặt"
+
+#: templates/wishlist/form-edit-wishlist.php:59
+msgid "Public - Anyone can view this list. Everyone can share this list."
+msgstr ""
+"Công bất cứ Ai cũng có thể xem danh sách này. Mọi người đều có thể chia sẻ "
+"danh sách này."
+
+#: templates/wishlist/form-edit-wishlist.php:60
+msgid ""
+"Shared - Only people with the link can view this list. Only you can share "
+"this list."
+msgstr ""
+"Miễn phí - Chỉ những người có sự liên kết có thể xem danh sách này. Chỉ có "
+"bạn mới có thể chia sẻ danh sách này."
+
+#: templates/wishlist/form-edit-wishlist.php:61
+msgid "Private - Only you can view this list."
+msgstr "Riêng tư Duy nhất bạn có thể xem danh sách này."
+
+#: templates/wishlist/form-edit-wishlist.php:72
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: templates/wishlist/share.php:19
+msgid "Share the wishlist"
+msgstr "Chia sẻ sự ưa thích"
+
+#: templates/wishlist/wishlist-empty.php:17
+msgid "The wishlist is empty."
+msgstr "Danh sách yêu thích rỗng."
+
+#: templates/wishlist/wishlist-empty.php:26
+msgid "Return to shop"
+msgstr "Trở lại cửa hàng"
+
+#: templates/wishlist/wishlist-none.php:18
+msgid "This wishlist is not available."
+msgstr "Này ưa thích là không có sẵn."
+
+#: templates/wishlist/wishlist-table.php:28
+#: templates/wishlist/wishlist-table.php:88
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: templates/wishlist/wishlist-table.php:30
+#: templates/wishlist/wishlist-table.php:105
+msgid "Price"
+msgstr "Giá"
+
+#: templates/wishlist/wishlist-table.php:39
+msgid "Added Date"
+msgstr "Thêm Vào Ngày"
+
+#: templates/wishlist/wishlist-table.php:68
+msgid "Remove this item"
+msgstr "Bỏ mục này"
+
+#: templates/wishlist/wishlist-table.php:135
+#: templates/wishlist/wishlist-widget.php:65
+msgid "In Stock"
+msgstr "Trong Kho"
+
+#: templates/wishlist/wishlist-table.php:169
+msgid "Update wishlist"
+msgstr "Bản danh sách ưa thích"
+
+#: templates/wishlist/wishlist-widget.php:103
+msgid "No products in the wishlist"
+msgstr "Không sản phẩm trong danh sách ưa thích"

@@ -1,0 +1,5116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Razzi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-12 09:05+0000\n"
+"PO-Revision-Date: 2024-04-01 10:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: razzi"
+
+#: inc/woocommerce/class-razzi-woo-template-general.php:559
+msgid " Free Shipping"
+msgstr ""
+
+#: inc/woocommerce/class-razzi-woo-elements-product-deal-2.php:228
+#: inc/woocommerce/class-razzi-woo-elements-product-deal-3.php:226
+#: inc/woocommerce/class-razzi-woo-elements-product-listing.php:79
+msgid " in stock"
+msgstr ""
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:190
+#: inc/admin/class-razzi-admin-meta-boxes.php:217
+#: inc/admin/class-razzi-admin-meta-boxes.php:324
+#: inc/admin/class-razzi-admin-meta-boxes.php:337
+#: inc/admin/class-razzi-admin-meta-boxes.php:387
+#: inc/admin/class-razzi-admin-meta-boxes.php:409
+msgid " px"
+msgstr ""
+
+#. 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:57
+#, php-format
+msgid "%1$s"
+msgid_plural "%1$s"
+msgstr[0] "%1$s"
+
+#: inc/class-razzi-comments.php:236
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s tại %2$s"
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s cài đặt và kích hoạt thành công."
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s cài đặt thành công."
+
+#: inc/class-razzi-breadcrumbs.php:292 inc/class-razzi-breadcrumbs.php:298
+#: inc/class-razzi-breadcrumbs.php:304
+#, php-format
+msgid "%s %s"
+msgstr "%s %s"
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:24
+#, php-format
+msgid "%s quantity"
+msgstr "%s số lượng"
+
+#. used between list items, there is a space after the comma
+#: inc/class-razzi-helper.php:485
+msgid ", "
+msgstr ""
+
+#: inc/class-razzi-options.php:788 inc/class-razzi-options.php:7078
+#: inc/class-razzi-options.php:7089
+msgid "1 Column"
+msgstr "1 Cột"
+
+#: inc/class-razzi-options.php:789 inc/class-razzi-options.php:3678
+#: inc/class-razzi-options.php:3942 inc/class-razzi-options.php:4021
+#: inc/class-razzi-options.php:7079 inc/class-razzi-options.php:7090
+msgid "2 Columns"
+msgstr "2 Cột"
+
+#: inc/class-razzi-options.php:3679 inc/class-razzi-options.php:3941
+#: inc/class-razzi-options.php:4022 inc/class-razzi-options.php:7080
+#: inc/class-razzi-options.php:7091
+msgid "3 Columns"
+msgstr "3 Cột"
+
+#: inc/class-razzi-options.php:3940 inc/class-razzi-options.php:4023
+msgid "4 Columns"
+msgstr "4 Cột"
+
+#: 404.php:16
+msgid "404. Page not found."
+msgstr "404. Không tìm thấy trang."
+
+#: inc/class-razzi-options.php:4024
+msgid "5 Columns"
+msgstr "5, Cột"
+
+#. 1: Orders URL 2: Address URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:46
+#, php-format
+msgid ""
+"<p>From your account dashboard you can view your <a href=\"%1$s\">Recent "
+"orders</a>.</p><p>Manage your <a href=\"%2$s\">Billing address</a>.</p><p>"
+"Edit your <a href=\"%3$s\">Password and account details</a>.</p>"
+msgstr ""
+
+#. 1: Orders URL 2: Addresses URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:49
+#, php-format
+msgid ""
+"<p>From your account dashboard you can view your <a href=\"%1$s\">Recent "
+"orders</a>.</p><p>Manage your <a href=\"%2$s\">Shipping and Billing "
+"addresses</a>.</p><p>Edit your <a href=\"%3$s\">Password and account "
+"details</a>.</p>"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "A password will be sent to your email address."
+msgstr "Một mật khẩu sẽ được gửi đến địa chỉ email của bạn."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1194
+msgid ""
+"A small content bar at the top of the browser window which includes relevant "
+"product information and an add-to-cart button. It slides into view once the "
+"standard add-to-cart button has scrolled out of view."
+msgstr ""
+"Một nội dung của các duyệt cửa sổ trong đó bao gồm có liên quan thông tin "
+"sản phẩm và một thêm vào giỏ hàng nút. Nó chiếu vào xem khi các tiêu chuẩn "
+"thêm vào giỏ hàng nút có cuộn ra xem."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2213
+msgid "Above the Products"
+msgstr "Trên các sản Phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:393
+msgid "Above the Title"
+msgstr "Trên các tiêu Đề"
+
+#: inc/class-razzi-options.php:227 inc/class-razzi-options.php:427
+#: template-parts/navigation-bar/account.php:13
+msgid "Account"
+msgstr "Tài khoản"
+
+#: inc/class-razzi-header.php:745 inc/class-razzi-header.php:766
+#: inc/class-razzi-options.php:178 inc/class-razzi-options.php:244
+msgid "Account Icon"
+msgstr "Biểu Tượng Tài Khoản"
+
+#: inc/class-razzi-options.php:3040
+msgid "Account Icon Behaviour"
+msgstr "Biểu Tượng Tài Khoản Hành Vi"
+
+#: woocommerce/myaccount/orders.php:87
+msgid "Actions"
+msgstr "Hành động"
+
+#: inc/libs/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:158
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Kích hoạt cài cắm"
+
+#: inc/libs/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Hoạt động"
+
+#: inc/class-razzi-options.php:2340
+msgid "Active Primary Menu Color"
+msgstr "Hoạt Động Chính Đơn Màu"
+
+#: woocommerce/loop/add-to-wishlist.php:28
+#, php-format
+msgid "Add %s to the wishlist"
+msgstr "Thêm %s để ưa thích"
+
+#: inc/class-razzi-options.php:2792
+msgid "Add custom links of the quick links popup"
+msgstr "Thêm tùy liên kết của các liên kết nhanh bật lên"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2263
+#: inc/woocommerce/class-razzi-woo-customizer.php:2420
+msgid ""
+"Add Razzi - Product filter widget in Appearance > Widgets > Catalog Filters "
+"sidebar."
+msgstr ""
+
+#: inc/class-razzi-options.php:2705
+msgid "Add search form using shortcode such as [aws_search_form id=\"1\"]"
+msgstr ""
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:89
+msgid "Add sidebar for catalog filters on the mobile version"
+msgstr "Thêm bên cho cửa hàng bộ lọc trên phiên bản di động"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:79
+msgid "Add sidebar for filters toolbar of the catalog page"
+msgstr "Thêm bên cho các bộ lọc thanh công cụ của các cửa hàng trang"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:69
+msgid "Add sidebar for the catalog page"
+msgstr "Thêm bên cho các cửa hàng trang"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:99
+#: inc/woocommerce/class-razzi-woo-sidebars.php:109
+msgid "Add sidebar for the product page"
+msgstr "Thêm bên cho các sản phẩm trang"
+
+#: inc/mobile/class-razzi-mobile-navigation-bar.php:445
+msgid "Add to Cart"
+msgstr "Thêm vào Giỏ"
+
+#: inc/woocommerce/class-razzi-woo-modules-sticky-atc.php:139
+#: inc/woocommerce/class-razzi-woo-modules-sticky-atc.php:156
+#: inc/woocommerce/class-razzi-woo-template-product-loop.php:1410
+msgid "Add to cart"
+msgstr "Thêm vào giỏ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1222
+msgid "Add To Cart Form"
+msgstr "Thêm Vào Giỏ Thức"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:994
+msgid "Add to cart with AJAX"
+msgstr "Thêm vào giỏ với AJAX"
+
+#: woocommerce/loop/add-to-wishlist.php:32
+msgid "Add to wishlist"
+msgstr "Yêu thích"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:226
+msgid "Add video thumbnail"
+msgstr "Thêm nhỏ video"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:701
+msgid "Added to Cart Notice"
+msgstr "Thêm vào Giỏ hàng không Báo trước"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:811
+msgid "Added to Compare Notification"
+msgstr "Thêm vào so Sánh thông Báo"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:788
+msgid "Added to Wishlist Notification"
+msgstr "Thêm vào danh sách ưa Thích thông Báo"
+
+#: inc/class-razzi-options.php:2075
+msgid "Adjust Header Bottom height when the Sticky Header enabled"
+msgstr "Điều chỉnh tiêu Đề Dưới độ cao khi tiêu Đề Dính kích hoạt"
+
+#: inc/class-razzi-options.php:1946
+msgid "Adjust Header Main height when the Sticky Header enabled"
+msgstr "Điều chỉnh tiêu Đề Chính chiều cao, khi tiêu Đề Dính kích hoạt"
+
+#: inc/class-razzi-options.php:2363
+msgid "After Header"
+msgstr "Sau Khi Tiêu Đề"
+
+#: inc/class-razzi-options.php:2760
+msgid "AJAX Product Numbers"
+msgstr "AJAX sản Phẩm Số"
+
+#: inc/class-razzi-options.php:2746
+msgid "AJAX Search"
+msgstr "AJAX Tìm kiếm"
+
+#: inc/class-razzi-options.php:7491
+msgid "Align Item"
+msgstr "Sắp Xếp Hàng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:259
+msgid "Alignment Items"
+msgstr "Sự Liên Kết Các Mặt Hàng"
+
+#: inc/blog/class-razzi-blog-post.php:76
+#: inc/blog/class-razzi-blog-posts.php:119
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:924
+msgid "All"
+msgstr "Tất cả"
+
+#: template-parts/search-form/form-cat.php:36
+#: template-parts/search-form/form-cat.php:45
+#: template-parts/search-form/form-modal.php:27
+#: template-parts/search-form/form-modal.php:36
+msgid "All Categories"
+msgstr "Tất Cả Các Loại"
+
+#: inc/libs/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Tất cả cài đặt và kích hoạt đã được hoàn thành."
+
+#: inc/libs/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Cài đặt tất cả đã được hoàn thành."
+
+#. 1: dashboard link.
+#: inc/libs/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả bổ sung cài đặt và kích hoạt thành công. %1$s"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:161
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tất cả bổ sung cài đặt và kích hoạt thành công. %s"
+
+#: inc/class-razzi-options.php:4248
+msgid "All rights reserved"
+msgstr "Tất cả các quyền"
+
+#: template-parts/modals/account.php:98
+msgid "Already has an account"
+msgstr "Đã có một tài khoản"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:331
+msgid "Always Display Wishlist"
+msgstr "Luôn Luôn Hiển Thị Ưa Thích"
+
+#: inc/class-razzi-options.php:7041
+msgid "Always Show Featured Icons"
+msgstr "Luôn Luôn Hiển Thị Các Biểu Tượng"
+
+#. 1: plugin name, 2: error message.
+#: inc/libs/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:956
+msgid "Apply Auto Background For"
+msgstr "Áp Dụng Cho Nền Tự Động"
+
+#: woocommerce/cart/cart.php:162
+msgid "Apply coupon"
+msgstr "Áp dụng phiếu"
+
+#: inc/class-razzi-breadcrumbs.php:101
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1264
+msgid "Arrows"
+msgstr "Mũi tên"
+
+#: inc/libs/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "không rõ"
+
+#: inc/class-razzi-options.php:3817
+msgid "ASC"
+msgstr "HOẠCH"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1862
+msgid "Attachs the sidebar to the page when the user scrolls"
+msgstr "Đính kèm bên để trang khi dùng cuộn"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:358
+msgid "Attributes"
+msgstr "Tính"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:376
+#: inc/woocommerce/class-razzi-woo-customizer.php:1009
+msgid "Author"
+msgstr "Giả"
+
+#: inc/class-razzi-breadcrumbs.php:106
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: inc/class-razzi-options.php:6049
+#: inc/admin/class-razzi-admin-meta-boxes.php:504
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:936
+msgid "Auto Background"
+msgstr "Nền Tự Động"
+
+#: inc/woocommerce/class-razzi-woo-elements-product-deal-2.php:236
+#: inc/woocommerce/class-razzi-woo-elements-product-deal-3.php:236
+#: inc/woocommerce/class-razzi-woo-elements-product-listing.php:87
+msgid "Availability: "
+msgstr ""
+
+#: woocommerce/cart/cart.php:85
+msgid "Available on backorder"
+msgstr "Có trên đặt mua"
+
+#: inc/libs/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Có phiên bản:"
+
+#: inc/woocommerce/class-razzi-woo-modules-sticky-atc.php:112
+#: woocommerce/single-product/product-image.php:58
+msgid "Awaiting product image"
+msgstr "Đang chờ ảnh sản phẩm"
+
+#: inc/class-razzi-options.php:6884
+msgid "Back to history"
+msgstr "Trở lại lịch sử"
+
+#: inc/class-razzi-options.php:327 inc/class-razzi-options.php:4414
+msgid "Back To Top"
+msgstr "Lại"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1440
+#: inc/woocommerce/class-razzi-woo-customizer.php:1522
+#: inc/woocommerce/class-razzi-woo-customizer.php:1589
+#: inc/woocommerce/class-razzi-woo-customizer.php:1655
+#: inc/woocommerce/class-razzi-woo-customizer.php:1714
+msgid "Background"
+msgstr "Nền"
+
+#: inc/class-razzi-options.php:6024
+#: inc/admin/class-razzi-admin-meta-boxes.php:489
+msgid "Background Attachment"
+msgstr "Nền Đính Kèm"
+
+#: inc/class-razzi-options.php:689 inc/class-razzi-options.php:1526
+#: inc/class-razzi-options.php:2147 inc/class-razzi-options.php:2246
+#: inc/class-razzi-options.php:2432 inc/class-razzi-options.php:2846
+#: inc/class-razzi-options.php:3091 inc/class-razzi-options.php:3182
+#: inc/class-razzi-options.php:3302 inc/class-razzi-options.php:3567
+#: inc/class-razzi-options.php:4728 inc/class-razzi-options.php:4858
+#: inc/class-razzi-options.php:4982 inc/class-razzi-options.php:5249
+#: inc/class-razzi-options.php:5424 inc/class-razzi-options.php:5547
+#: inc/class-razzi-options.php:5935
+#: inc/admin/class-razzi-admin-meta-boxes.php:442
+#: inc/woocommerce/class-razzi-woo-customizer.php:623
+msgid "Background Color"
+msgstr "Màu Nền"
+
+#: inc/class-razzi-options.php:3587
+msgid "Background Gradient Color"
+msgstr "Nền Màu"
+
+#: inc/class-razzi-options.php:5963
+#: inc/admin/class-razzi-admin-meta-boxes.php:455
+msgid "Background Horizontal"
+msgstr "Nền Ngang"
+
+#: inc/class-razzi-options.php:2428 inc/class-razzi-options.php:4715
+#: inc/class-razzi-options.php:4840 inc/class-razzi-options.php:4964
+#: inc/class-razzi-options.php:5231 inc/class-razzi-options.php:5406
+#: inc/class-razzi-options.php:5529 inc/class-razzi-options.php:5949
+#: inc/admin/class-razzi-admin-meta-boxes.php:448
+msgid "Background Image"
+msgstr "Ảnh Nền"
+
+#: inc/class-razzi-options.php:5761 inc/class-razzi-options.php:7178
+#: inc/woocommerce/class-razzi-woo-customizer.php:2064
+msgid "Background Overlay"
+msgstr "Phủ Nền"
+
+#: inc/class-razzi-options.php:6003
+#: inc/admin/class-razzi-admin-meta-boxes.php:477
+msgid "Background Repeat"
+msgstr "Lặp Lại Nền"
+
+#: inc/class-razzi-options.php:4703
+msgid "Background Scheme"
+msgstr "Chương Trình Nền"
+
+#: inc/class-razzi-options.php:6043
+#: inc/admin/class-razzi-admin-meta-boxes.php:499
+msgid "Background Size"
+msgstr "Kích Thước Nền"
+
+#: inc/class-razzi-options.php:5983
+#: inc/admin/class-razzi-admin-meta-boxes.php:466
+msgid "Background Vertical"
+msgstr "Nền Dọc"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:120
+msgid "Badges"
+msgstr "Huy hiệu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1351
+msgid "Badges Layout"
+msgstr "Phù Hiệu Bố Trí"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:119
+#: inc/woocommerce/class-razzi-woo-settings-category.php:203
+msgid "Banner Links"
+msgstr "Banner Liên Kết"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:197
+#: inc/woocommerce/class-razzi-woo-settings-category.php:105
+#: inc/woocommerce/class-razzi-woo-settings-category.php:161
+msgid "Banners"
+msgstr "Banner"
+
+#: inc/class-razzi-options.php:2364
+msgid "Before Header"
+msgstr "Trước Khi Tiêu Đề"
+
+#: inc/libs/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt cắm"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:157
+#: inc/libs/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài cắm"
+
+#: inc/libs/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật cắm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2214
+msgid "Below the Products"
+msgstr "Dưới đây, các sản Phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:394
+msgid "Below the Title"
+msgstr "Dưới đây, tiêu Đề"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2326
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:882
+msgid "Best Sellers"
+msgstr "Bán chạy nhất"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:721
+msgid "Best selling products"
+msgstr "Sản phẩm bán chạy nhất"
+
+#: woocommerce/order/order-details-customer.php:26
+msgid "Billing & Shipping Details"
+msgstr "Thanh Toán Và Vận Chuyển Thông Tin Chi Tiết"
+
+#: woocommerce/order/order-details-customer.php:39
+msgid "Billing address"
+msgstr "Địa chỉ thanh toán"
+
+#: woocommerce/order/order-details-customer.php:28
+msgid "Billing Details"
+msgstr "Thanh Toán Chi Tiết"
+
+#: inc/class-razzi-breadcrumbs.php:102 inc/class-razzi-options.php:290
+#: inc/class-razzi-options.php:360 inc/class-razzi-options.php:606
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/class-razzi-options.php:1182
+msgid "Blog Header Title"
+msgstr "Blog Tiêu Đề"
+
+#: inc/class-razzi-options.php:3692
+msgid "Blog Layout"
+msgstr "Bố Trí Blog"
+
+#: inc/class-razzi-options.php:474
+msgid "Blog Page"
+msgstr "Trang Blog"
+
+#: inc/class-razzi-options.php:481
+msgid "Blog Page Header"
+msgstr "Blog Trang Đầu"
+
+#: inc/class-razzi-options.php:1226
+msgid "Blog Post Excerpt"
+msgstr "Blog Bài Trích"
+
+#: inc/class-razzi-options.php:1204
+msgid "Blog Post Title"
+msgstr "Tiêu Đề Bài Viết Blog"
+
+#: inc/class-razzi-widgets.php:60
+msgid "Blog Sidebar"
+msgstr "Bên Blog"
+
+#: inc/class-razzi-options.php:3661
+msgid "Blog Type"
+msgstr "Loại Blog"
+
+#: inc/class-razzi-options.php:963
+msgid "Body"
+msgstr "Cơ thể"
+
+#: inc/class-razzi-options.php:1654 inc/class-razzi-options.php:2215
+#: inc/class-razzi-options.php:2314 inc/class-razzi-options.php:2930
+#: inc/class-razzi-options.php:3342 inc/class-razzi-options.php:3627
+#: inc/class-razzi-options.php:3993 inc/class-razzi-options.php:4044
+#: inc/class-razzi-options.php:4180 inc/class-razzi-options.php:4456
+#: inc/class-razzi-options.php:4533 inc/class-razzi-options.php:4638
+#: inc/class-razzi-options.php:5035
+#: inc/admin/class-razzi-admin-meta-boxes.php:547
+#: inc/woocommerce/class-razzi-woo-customizer.php:674
+msgid "Border Color"
+msgstr "Màu Biên Giới"
+
+#: inc/class-razzi-options.php:5275
+msgid "Border Color Dropdown"
+msgstr "Biên Giới Màu Thả Xuống"
+
+#: inc/class-razzi-options.php:2958
+msgid "Border Color Hover"
+msgstr "Biên Giới Màu Di"
+
+#: inc/class-razzi-options.php:2982
+msgid "Border Items Color"
+msgstr "Biên Giới Vật Phẩm Màu"
+
+#: inc/class-razzi-options.php:1648 inc/class-razzi-options.php:4037
+#: inc/class-razzi-options.php:4173 inc/class-razzi-options.php:4449
+#: inc/class-razzi-options.php:4526 inc/class-razzi-options.php:4631
+msgid "Border Line"
+msgstr "Đường Biên Giới"
+
+#: inc/class-razzi-options.php:3987
+msgid "Border Top"
+msgstr "Biên Giới Đầu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1388
+msgid "Both"
+msgstr "Cả hai"
+
+#: inc/class-razzi-options.php:4090 inc/class-razzi-options.php:4226
+#: inc/class-razzi-options.php:4502 inc/class-razzi-options.php:4579
+#: inc/class-razzi-options.php:4684 inc/class-razzi-options.php:5991
+#: inc/admin/class-razzi-admin-meta-boxes.php:473
+#: inc/woocommerce/class-razzi-woo-customizer.php:1204
+msgid "Bottom"
+msgstr "Dưới"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:333
+msgid "Bottom Spacing"
+msgstr "Dưới Khoảng Cách"
+
+#: inc/class-razzi-options.php:2609
+msgid "Boxed"
+msgstr "Đóng hộp"
+
+#: inc/class-razzi-options.php:319 inc/class-razzi-options.php:5928
+msgid "Boxed Layout"
+msgstr "Bố Trí Đóng Hộp"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:430
+msgid "Boxed Layout Settings"
+msgstr "Bố Trí Đóng Hộp Cài Đặt"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:375
+#: inc/woocommerce/class-razzi-woo-customizer.php:1008
+msgid "Brand"
+msgstr "Thương hiệu"
+
+#: inc/class-razzi-options.php:5705 inc/class-razzi-options.php:6092
+#: inc/class-razzi-options.php:6507 inc/class-razzi-options.php:6540
+#: inc/class-razzi-options.php:7336
+#: inc/woocommerce/class-razzi-woo-customizer.php:1972
+msgid "BreadCrumb"
+msgstr "Mẩu bánh mì"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:986
+msgid "Breadcrumb"
+msgstr "Mẩu bánh mì"
+
+#: inc/class-razzi-options.php:5822 inc/class-razzi-options.php:7233
+#: inc/woocommerce/class-razzi-woo-customizer.php:2115
+msgid "Breadcrumb Color"
+msgstr "Mẩu Bánh Mì, Màu Sắc"
+
+#: woocommerce/myaccount/orders.php:119
+msgid "Browse products"
+msgstr "Duyệt sản phẩm"
+
+#: inc/class-razzi-options.php:1682
+msgid "Build my own"
+msgstr "Xây dựng của riêng tôi"
+
+#: inc/class-razzi-options.php:3253 inc/class-razzi-options.php:3479
+msgid "Built-in Icon"
+msgstr "Được xây dựng trong Biểu tượng"
+
+#: inc/class-razzi-options.php:3006 inc/class-razzi-options.php:5149
+msgid "Button Background Color"
+msgstr "Nút Màu Nền"
+
+#: inc/class-razzi-options.php:3022
+msgid "Button Border Color"
+msgstr "Nút Màu Biên Giới"
+
+#: inc/class-razzi-options.php:5180
+msgid "Button Color"
+msgstr "Nút Màu"
+
+#: inc/class-razzi-options.php:6300
+msgid "Button Link"
+msgstr "Nút Liên Kết"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1221
+msgid "Button Only"
+msgstr "Nút Chỉ"
+
+#: inc/class-razzi-options.php:6286
+msgid "Button Text"
+msgstr "Nút Văn Bản"
+
+#: inc/class-razzi-options.php:2419
+msgid "Campaign"
+msgstr "Chiến dịch"
+
+#: inc/class-razzi-options.php:415 inc/class-razzi-options.php:590
+#: inc/class-razzi-options.php:2352 inc/class-razzi-options.php:6981
+#: inc/woocommerce/class-razzi-woo-customizer.php:961
+msgid "Campaign Bar"
+msgstr "Chiến Dịch Bar"
+
+#: inc/class-razzi-options.php:2413
+msgid "Campaigns"
+msgstr "Chiến dịch"
+
+#: inc/class-razzi-options.php:224 inc/class-razzi-options.php:439
+#: inc/woocommerce/class-razzi-woo-customizer.php:93
+#: inc/woocommerce/class-razzi-woo-customizer.php:316
+#: template-parts/navigation-bar/cart.php:14
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: inc/class-razzi-options.php:3371
+msgid "Cart Button"
+msgstr "Giỏ Hàng Nút"
+
+#: inc/class-razzi-header.php:742 inc/class-razzi-header.php:763
+#: inc/class-razzi-options.php:175 inc/class-razzi-options.php:241
+#: inc/class-razzi-options.php:3249
+msgid "Cart Icon"
+msgstr "Biểu Tượng Giỏ"
+
+#: inc/class-razzi-options.php:3234
+msgid "Cart Icon Behaviour"
+msgstr "Giỏ Hàng Biểu Tượng Hành Vi"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:767
+msgid "Cart Notification Auto Hide"
+msgstr "Giỏ Hàng Thông Báo Động Ẩn"
+
+#: inc/class-razzi-options.php:6234
+msgid "Cart Page"
+msgstr "Giỏ Hàng Trang"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1335
+msgid "Catalog Badges"
+msgstr "Cửa Hàng Phù Hiệu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1761
+msgid "Catalog Content Width"
+msgstr "Cửa Hàng Nội Dung Rộng"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:87
+msgid "Catalog Filters Mobile"
+msgstr "Mục Bộ Di Động"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:77
+msgid "Catalog Filters Sidebar"
+msgstr "Cửa Hàng Bên Bộ Lọc"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:181
+#: inc/woocommerce/class-razzi-woo-customizer.php:1750
+msgid "Catalog Layout"
+msgstr "Mục Bố Trí"
+
+#: inc/class-razzi-options.php:6233
+msgid "Catalog Page"
+msgstr "Cửa Hàng Trang"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:67
+msgid "Catalog Sidebar"
+msgstr "Cửa Hàng Bên"
+
+#: inc/class-razzi-options.php:7366
+#: inc/woocommerce/class-razzi-woo-customizer.php:207
+#: inc/woocommerce/class-razzi-woo-customizer.php:2243
+msgid "Catalog Toolbar"
+msgstr "Mục Thanh Công Cụ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2311
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:927
+msgid "Categories"
+msgstr "Loại"
+
+#: inc/class-razzi-options.php:3754
+msgid "Categories Filter"
+msgstr "Loại Lọc"
+
+#: inc/class-razzi-options.php:3822
+msgid "Categories Number"
+msgstr "Loại Số"
+
+#: inc/class-razzi-options.php:3811
+msgid "Categories Order"
+msgstr "Loại Trật Tự"
+
+#: inc/class-razzi-options.php:3799
+msgid "Categories Orderby"
+msgstr "Loại Thay Đổi Theo Thứ Tự"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:374
+#: inc/woocommerce/class-razzi-woo-customizer.php:1007
+#: inc/woocommerce/class-razzi-woo-customizer.php:1118
+msgid "Category"
+msgstr "Mục"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2388
+#: inc/woocommerce/class-razzi-woo-customizer.php:2612
+msgid "Category ID"
+msgstr "Mục ID"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2387
+#: inc/woocommerce/class-razzi-woo-customizer.php:2611
+msgid "Category Name"
+msgstr "Mục Tên"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2386
+#: inc/woocommerce/class-razzi-woo-customizer.php:2610
+msgid "Category Order"
+msgstr "Để Loại"
+
+#: woocommerce/single-product/meta.php:44
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Mục:"
+
+#: inc/class-razzi-options.php:3392 inc/class-razzi-options.php:5970
+#: inc/class-razzi-options.php:5990 inc/class-razzi-options.php:7497
+#: inc/admin/class-razzi-admin-meta-boxes.php:461
+#: inc/admin/class-razzi-admin-meta-boxes.php:472
+#: inc/woocommerce/class-razzi-woo-customizer.php:264
+msgid "Center"
+msgstr "Trung tâm"
+
+#: inc/class-razzi-options.php:1396 inc/class-razzi-options.php:1870
+#: inc/class-razzi-options.php:1999 inc/class-razzi-options.php:4129
+msgid "Center Items"
+msgstr "Trung Tâm Mục"
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr "Thay đổi địa chỉ"
+
+#: inc/class-razzi-options.php:3298
+msgid "Change color button counter cart"
+msgstr "Thay đổi màu sắc nút quầy hàng"
+
+#: inc/class-razzi-options.php:3171
+msgid "Change color button counter compare"
+msgstr "Thay đổi màu sắc nút phản so sánh"
+
+#: inc/class-razzi-options.php:3080
+msgid "Change color button counter wishlist"
+msgstr "Thay đổi màu sắc nút truy cập danh sách ưa thích"
+
+#: inc/class-razzi-options.php:3563
+msgid "Change color header department"
+msgstr "Thay đổi màu sắc đầu bộ phận"
+
+#: inc/class-razzi-options.php:1337
+msgid "Check this option to enable a topbar above the site header"
+msgstr "Chọn chỗ này để cho phép một topbar trên những trang web tiêu đề"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:997
+msgid "Check this option to enable add to cart with AJAX on the product page."
+msgstr "Chọn chỗ này để cho phép thêm vào giỏ với AJAX trên trang sản phẩm."
+
+#: inc/class-razzi-options.php:2749
+msgid "Check this option to enable AJAX search in the header"
+msgstr "Chọn chỗ này để cho phép AJAX tìm kiếm trong đầu"
+
+#: inc/class-razzi-options.php:6215
+msgid "Check this option to hide the recently viewed products when empty."
+msgstr "Chọn chỗ này để che giấu những sản phẩm đã xem khi trống rỗng."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1324
+msgid "Check this option to open external product link on new tab."
+msgstr "Chọn chỗ này để mở từ bên ngoài sản phẩm liên kết mới, tab."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:850
+msgid "Check this option to show cross-sells products in product cart page"
+msgstr "Chọn chỗ này để cho cross-bán sản phẩm trang giỏ"
+
+#: inc/class-razzi-options.php:3912
+msgid "Check this option to show related posts."
+msgstr "Chọn chỗ này để liên bài viết."
+
+#: inc/class-razzi-options.php:3869
+msgid "Check this option to show socials share in the single post."
+msgstr "Chọn chỗ này để cho xã hội chủ phần trong bài duy nhất."
+
+#: inc/class-razzi-options.php:7589
+msgid "Check this option to show the compare counter in the navigation bar."
+msgstr "Kiểm tra này để so sánh truy cập trong việc chuyển hướng bar."
+
+#: inc/class-razzi-options.php:3055 inc/class-razzi-options.php:3146
+msgid "Check this option to show the counter in the header."
+msgstr "Kiểm tra này để truy cập vào các tiêu đề."
+
+#: inc/class-razzi-options.php:6193
+msgid ""
+"Check this option to show the recently viewed products above the footer."
+msgstr "Chọn chỗ này để cho các sản phẩm đã xem trên chân."
+
+#: inc/class-razzi-options.php:7577
+msgid "Check this option to show the wishlist counter in the navigation bar."
+msgstr "Chọn chỗ này để cho danh sách truy cập trong việc chuyển hướng bar."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1237
+msgid "Check this option to show up-sells products in single product page"
+msgstr "Chọn chỗ này để xuất hiện-bán sản phẩm ở trang sản phẩm duy nhất"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:836
+msgid "Check this option to update cart page automatically"
+msgstr "Kiểm tra này lựa chọn để cập nhật trang giỏ hàng tự động"
+
+#: inc/class-razzi-options.php:4416
+msgid "Check this to show back to top."
+msgstr "Kiểm tra này để quay lại hàng đầu."
+
+#: inc/woocommerce/class-razzi-woo-modules-mini-cart.php:180
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: inc/class-razzi-options.php:3372
+msgid "Checkout Button"
+msgstr "Nút Kiểm Tra"
+
+#: inc/class-razzi-options.php:6235
+msgid "Checkout Page"
+msgstr "Trang Kiểm Tra"
+
+#: woocommerce/add-to-wishlist-popup.php:65
+msgid "Choose a wishlist"
+msgstr "Chọn một danh sách ưa thích"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:283
+msgid "Classic"
+msgstr "Cổ điển"
+
+#: inc/class-razzi-options.php:3432 inc/class-razzi-options.php:6958
+#: inc/class-razzi-options.php:7551
+msgid "Click to icon"
+msgstr "Nhấn để biểu tượng"
+
+#: inc/class-razzi-options.php:3431 inc/class-razzi-options.php:6957
+#: inc/class-razzi-options.php:7550
+msgid "Click to item"
+msgstr "Bấm vào mục"
+
+#: inc/class-razzi-options.php:7402
+#: inc/woocommerce/class-razzi-woo-customizer.php:1173
+msgid "Close all tabs"
+msgstr "Đóng tất cả các tab"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1898
+msgid "Close Filter Sidebar before filtering"
+msgstr "Đóng bộ Lọc Bên trước khi lọc"
+
+#: inc/class-razzi-options.php:202 inc/class-razzi-topbar.php:277
+msgid "Close Icon"
+msgstr "Biểu Tượng Gần"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1800
+#: inc/woocommerce/class-razzi-woo-customizer.php:2455
+msgid "Collapse Widget"
+msgstr "Sụp Đổ Phụ Tùng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1820
+#: inc/woocommerce/class-razzi-woo-customizer.php:2474
+msgid "Collapse Widget Status"
+msgstr "Sụp Đổ Do Tình Trạng"
+
+#: inc/class-razzi-options.php:2436 inc/class-razzi-options.php:4352
+#: inc/admin/class-razzi-admin-meta-boxes.php:556
+#: inc/woocommerce/class-razzi-woo-customizer.php:1420
+#: inc/woocommerce/class-razzi-woo-customizer.php:1502
+#: inc/woocommerce/class-razzi-woo-customizer.php:1569
+#: inc/woocommerce/class-razzi-woo-customizer.php:1635
+#: inc/woocommerce/class-razzi-woo-customizer.php:1701
+msgid "Color"
+msgstr "Màu sắc"
+
+#: inc/class-razzi-options.php:633
+msgid "Color Scheme"
+msgstr "Màu Sắc"
+
+#: inc/class-razzi-options.php:334
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: inc/class-razzi-options.php:3673 inc/class-razzi-options.php:3936
+#: inc/class-razzi-options.php:6314
+msgid "Columns"
+msgstr "Cột"
+
+#: inc/class-razzi-maintenance.php:76 inc/class-razzi-options.php:929
+msgid "Coming Soon"
+msgstr "Đến Sớm"
+
+#: inc/class-razzi-comments.php:105
+msgid "Comments are closed."
+msgstr "Ý kiến đều đóng cửa."
+
+#: inc/class-razzi-comments.php:88
+#, php-format
+msgctxt "comments title"
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] "Bình luận (%1$s)"
+
+#: inc/class-razzi-options.php:226 inc/class-razzi-options.php:435
+#: inc/woocommerce/class-razzi-woo-customizer.php:319
+#: template-parts/navigation-bar/compare.php:30
+#: woocommerce/loop/add-to-compare.php:27
+#: woocommerce/loop/add-to-compare.php:30
+msgid "Compare"
+msgstr "So sánh"
+
+#: woocommerce/loop/add-to-compare.php:26
+#, php-format
+msgid "Compare %s"
+msgstr "So sánh %s"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1046
+msgid "Compare button"
+msgstr "So sánh nút"
+
+#: inc/class-razzi-options.php:7586
+msgid "Compare Counter"
+msgstr "So Sánh Truy Cập"
+
+#: inc/class-razzi-header.php:744 inc/class-razzi-header.php:765
+#: inc/class-razzi-options.php:177 inc/class-razzi-options.php:243
+msgid "Compare Icon"
+msgstr "So Sánh Biểu Tượng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:819
+msgid "Compare Notification Auto Hide"
+msgstr "So Sánh Thông Báo Động Ẩn"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:100
+msgid "Contact Form 7"
+msgstr "Hình Thức Liên Lạc 7"
+
+#: inc/class-razzi-options.php:6051
+#: inc/admin/class-razzi-admin-meta-boxes.php:506
+msgid "Contain"
+msgstr "Chứa"
+
+#: inc/class-razzi-comments.php:107
+msgid "Content"
+msgstr "Nội dung"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:395
+msgid "Content Bottom Spacing"
+msgstr "Nội Dung Dưới Khoảng Cách"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:358
+msgid "Content Settings"
+msgstr "Cài Đặt Nội Dung"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:373
+msgid "Content Top Spacing"
+msgstr "Nội Dung Đầu Khoảng Cách"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:364
+msgid "Content Width"
+msgstr "Nội Dung Rộng"
+
+#: inc/woocommerce/class-razzi-woo-template-general.php:577
+#: woocommerce/cart/mini-cart.php:129
+msgid "Continue Shopping"
+msgstr "Tiếp Tục Mua Sắm"
+
+#: inc/class-razzi-options.php:4130
+msgid "Control center items of the footer"
+msgstr "Trung tâm điều khiển mục của chân"
+
+#: inc/class-razzi-options.php:6471
+msgid "Control icons on the right side of mobile header"
+msgstr "Kiểm soát các biểu tượng trên bên phải của điện thoại di động tiêu đề"
+
+#: inc/class-razzi-options.php:2000
+msgid "Control items at the center of header bottom"
+msgstr "Kiểm soát mặt tại trung tâm của tiêu đề dưới"
+
+#: inc/class-razzi-options.php:1871
+msgid "Control items at the center of header main"
+msgstr "Kiểm soát mặt tại trung tâm của tiêu đề chính"
+
+#: inc/class-razzi-options.php:4424
+msgid "Control items of the extra footer"
+msgstr "Mục kiểm soát của thêm chân"
+
+#: inc/class-razzi-options.php:1397
+msgid "Control items on the center side of the topbar"
+msgstr "Mục kiểm soát về phía trung tâm của topbar"
+
+#: inc/class-razzi-options.php:1974
+msgid "Control items on the left side of header bottom"
+msgstr "Mục kiểm soát vào phía bên trái của đầu dưới"
+
+#: inc/class-razzi-options.php:1845
+msgid "Control items on the left side of header main"
+msgstr "Mục kiểm soát vào phía bên trái của đầu chính,"
+
+#: inc/class-razzi-options.php:1377
+msgid "Control items on the left side of the topbar"
+msgstr "Mục kiểm soát vào phía bên trái của topbar"
+
+#: inc/class-razzi-options.php:2026
+msgid "Control items on the right of header bottom"
+msgstr "Mục kiểm soát trên bên phải của tiêu đề dưới"
+
+#: inc/class-razzi-options.php:1897
+msgid "Control items on the right of header main"
+msgstr "Mục kiểm soát trên bên phải của tiêu đề chính"
+
+#: inc/class-razzi-options.php:1417
+msgid "Control items on the right side of the topbar"
+msgstr "Mục kiểm soát trên bên phải của topbar"
+
+#: inc/class-razzi-options.php:6371
+msgid "Control items on the topbar mobile"
+msgstr "Mục kiểm soát trên topbar điện thoại di động"
+
+#: inc/class-razzi-options.php:4111
+msgid "Control left items of the footer"
+msgstr "Kiểm soát lại mục của chân"
+
+#: inc/class-razzi-options.php:4149
+msgid "Control right items of the footer"
+msgstr "Điều khiển mục bên phải của chân"
+
+#: inc/class-razzi-footer.php:109 inc/class-razzi-options.php:151
+#: inc/class-razzi-options.php:541
+msgid "Copyright"
+msgstr "Bản quyền"
+
+#: inc/class-razzi-options.php:3804
+msgid "Count"
+msgstr "Đếm"
+
+#: inc/class-razzi-options.php:3052 inc/class-razzi-options.php:3143
+msgid "Counter"
+msgstr "Truy cập"
+
+#: woocommerce/cart/cart.php:157
+msgid "Coupon code:"
+msgstr "Mã phiếu:"
+
+#: inc/class-razzi-options.php:6050
+#: inc/admin/class-razzi-admin-meta-boxes.php:505
+msgid "Cover"
+msgstr "Bìa"
+
+#: woocommerce/add-to-wishlist-popup.php:67
+#: woocommerce/add-to-wishlist-popup.php:83
+msgid "Create a new list"
+msgstr "Tạo ra một danh sách mới"
+
+#: template-parts/modals/account.php:49
+msgid "Create An Account"
+msgstr "Tạo Ra Một Tài Khoản"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:138
+msgid "Cross Sells Products"
+msgstr "Cross Bán Sản Phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:868
+msgid "Cross-Sells Products Numbers"
+msgstr "Cross-Bán Sản Phẩm Số"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:855
+msgid "Cross-Sells Products Title"
+msgstr "Cross-Bán Sản Phẩm Tiêu Đề"
+
+#: inc/class-razzi-header.php:747 inc/class-razzi-options.php:180
+msgid "Currencies"
+msgstr "Tệ"
+
+#: inc/class-razzi-options.php:459
+msgid "Currency"
+msgstr "Tệ"
+
+#: inc/class-razzi-options.php:198 inc/class-razzi-topbar.php:272
+msgid "Currency Switcher"
+msgstr "Tệ Tắc"
+
+#: inc/class-razzi-options.php:2345
+msgid "Current Color"
+msgstr "Màu Hiện Tại"
+
+#: inc/class-razzi-options.php:3721 inc/class-razzi-options.php:4710
+#: inc/class-razzi-options.php:5744 inc/class-razzi-options.php:7162
+#: inc/admin/class-razzi-admin-meta-boxes.php:182
+#: inc/admin/class-razzi-admin-meta-boxes.php:315
+#: inc/admin/class-razzi-admin-meta-boxes.php:379
+#: inc/admin/class-razzi-admin-meta-boxes.php:401
+#: inc/admin/class-razzi-admin-meta-boxes.php:552
+#: inc/woocommerce/class-razzi-woo-customizer.php:1988
+msgid "Custom"
+msgstr "Tuỳ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1676
+msgid "Custom Badge"
+msgstr "Tùy Huy Hiệu"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:109
+msgid "Custom Badge Background"
+msgstr "Tùy Huy Hiệu Nền"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:119
+msgid "Custom Badge Color"
+msgstr "Tùy Chỉnh Màu Huy Hiệu"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:99
+msgid "Custom Badge Text"
+msgstr "Tùy Văn Bản Huy Hiệu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:611
+msgid "Custom Button Color"
+msgstr "Tùy Chỉnh Nút Màu"
+
+#: inc/class-razzi-options.php:3775
+#: inc/woocommerce/class-razzi-woo-customizer.php:2536
+msgid "Custom Categories"
+msgstr "Tùy Loại"
+
+#: inc/class-razzi-options.php:3767
+msgid "Custom Categories List"
+msgstr "Tùy Loại Sách"
+
+#: inc/class-razzi-options.php:668 inc/class-razzi-options.php:1521
+#: inc/class-razzi-options.php:2837 inc/class-razzi-options.php:3560
+msgid "Custom Color"
+msgstr "Tùy Chỉnh Màu"
+
+#: inc/class-razzi-options.php:3077 inc/class-razzi-options.php:3168
+#: inc/class-razzi-options.php:3295
+msgid "Custom Color Counter"
+msgstr "Tùy Chỉnh Màu Truy"
+
+#: inc/class-razzi-options.php:3653
+msgid "Custom Currency"
+msgstr "Tùy Tệ"
+
+#: inc/class-razzi-options.php:7420
+msgid "Custom Homepage"
+msgstr "Tuỳ Chỉnh Trang Web"
+
+#: inc/class-razzi-options.php:6994
+msgid "Custom Logo"
+msgstr "Tùy Logo"
+
+#: inc/class-razzi-options.php:4066 inc/class-razzi-options.php:4202
+#: inc/class-razzi-options.php:4478 inc/class-razzi-options.php:4555
+#: inc/class-razzi-options.php:4660
+msgid "Custom Padding"
+msgstr "Tùy Đệm"
+
+#: inc/class-razzi-header.php:750 inc/class-razzi-header.php:769
+#: inc/class-razzi-options.php:183 inc/class-razzi-options.php:247
+#: inc/class-razzi-options.php:455 inc/class-razzi-options.php:553
+#: inc/class-razzi-options.php:1474 inc/class-razzi-options.php:3647
+#: inc/class-razzi-options.php:4263 inc/class-razzi-options.php:6424
+msgid "Custom Text"
+msgstr "Tùy Văn Bản"
+
+#: inc/class-razzi-footer.php:111 inc/class-razzi-options.php:153
+msgid "Custom text"
+msgstr "Tùy văn bản"
+
+#: inc/class-razzi-options.php:201 inc/class-razzi-topbar.php:275
+msgid "Custom Text 1"
+msgstr "Tùy Văn Bản 1"
+
+#: inc/class-razzi-options.php:206 inc/class-razzi-options.php:1504
+#: inc/class-razzi-topbar.php:276
+msgid "Custom Text 2"
+msgstr "Tùy Văn Bản 2"
+
+#: inc/class-razzi-options.php:1460
+msgid "Custom Text SVG"
+msgstr "Tùy Văn bản BONNIE"
+
+#: inc/class-razzi-options.php:1490
+msgid "Custom Text SVG 2"
+msgstr "Tùy Văn bản BONNIE 2"
+
+#: inc/class-razzi-options.php:5721 inc/class-razzi-options.php:6108
+msgid "Custom Title"
+msgstr "Tùy Chỉnh Tiêu Đề"
+
+#: inc/class-razzi-options.php:3059 inc/class-razzi-options.php:3150
+msgid "Custom Wishlist Link"
+msgstr "Tùy Thích Liên Kết"
+
+#: inc/class-razzi-options.php:964
+msgid "Customize the body font"
+msgstr "Tùy cơ thể chữ"
+
+#: inc/class-razzi-options.php:1183
+msgid "Customize the font of blog header"
+msgstr "Tuỳ các chữ của blog tiêu đề"
+
+#: inc/class-razzi-options.php:1227
+msgid "Customize the font of blog post excerpt"
+msgstr "Tuỳ các chữ của blog bài trích"
+
+#: inc/class-razzi-options.php:1205
+msgid "Customize the font of blog post title"
+msgstr "Tuỳ các chữ của blog tiêu đề bài"
+
+#: inc/class-razzi-options.php:1272
+msgid "Customize the font of footer extra"
+msgstr "Tuỳ các chữ của chân thêm"
+
+#: inc/class-razzi-options.php:1312
+msgid "Customize the font of footer main"
+msgstr "Tuỳ các chữ của chân chính"
+
+#: inc/class-razzi-options.php:1292
+msgid "Customize the font of footer widgets"
+msgstr "Tuỳ các chữ số vật dụng chân"
+
+#: inc/class-razzi-options.php:986
+msgid "Customize the H1 font"
+msgstr "Tùy chỉnh 1 giờ chữ"
+
+#: inc/class-razzi-options.php:1008
+msgid "Customize the H2 font"
+msgstr "Tuỳ các H 2 chữ"
+
+#: inc/class-razzi-options.php:1030
+msgid "Customize the H3 font"
+msgstr "Tuỳ các H3 chữ"
+
+#: inc/class-razzi-options.php:1052
+msgid "Customize the H4 font"
+msgstr "Tuỳ 4 giờ chữ"
+
+#: inc/class-razzi-options.php:1074
+msgid "Customize the H5 font"
+msgstr "Tuỳ các H5 chữ"
+
+#: inc/class-razzi-options.php:1096
+msgid "Customize the H6 font"
+msgstr "Tuỳ các H6 chữ"
+
+#: inc/class-razzi-options.php:1119
+msgid "Customize the menu font"
+msgstr "Tuỳ các đơn chữ"
+
+#: inc/class-razzi-options.php:1160
+msgid "Customize the page title font"
+msgstr "Tuỳ các tiêu đề trang chữ"
+
+#: inc/class-razzi-options.php:1139
+msgid "Customize the sub-menu font"
+msgstr "Tuỳ các đơn phụ chữ"
+
+#: inc/class-razzi-options.php:1250
+msgid "Customize the widget title font"
+msgstr "Tuỳ các phụ tùng đề chữ"
+
+#: inc/class-razzi-breadcrumbs.php:107
+msgid "Daily:"
+msgstr "Hàng ngày:"
+
+#: inc/class-razzi-options.php:2631 inc/class-razzi-options.php:4707
+#: inc/admin/class-razzi-admin-meta-boxes.php:166
+msgid "Dark"
+msgstr "Tối"
+
+#: inc/class-razzi-options.php:3726
+msgid "Date Format"
+msgstr "Ngày Dạng"
+
+#: inc/class-razzi-options.php:3715
+msgid "Date Format Select"
+msgstr "Ngày Định Chọn"
+
+#: woocommerce/myaccount/orders.php:46 woocommerce/order/order-details.php:61
+msgid "Date:"
+msgstr "Ngày:"
+
+#: inc/class-razzi-options.php:3720 inc/class-razzi-options.php:6258
+#: inc/admin/class-razzi-admin-meta-boxes.php:135
+#: inc/admin/class-razzi-admin-meta-boxes.php:155
+#: inc/admin/class-razzi-admin-meta-boxes.php:165
+#: inc/admin/class-razzi-admin-meta-boxes.php:181
+#: inc/admin/class-razzi-admin-meta-boxes.php:246
+#: inc/admin/class-razzi-admin-meta-boxes.php:296
+#: inc/admin/class-razzi-admin-meta-boxes.php:314
+#: inc/admin/class-razzi-admin-meta-boxes.php:377
+#: inc/admin/class-razzi-admin-meta-boxes.php:399
+#: inc/admin/class-razzi-admin-meta-boxes.php:459
+#: inc/admin/class-razzi-admin-meta-boxes.php:470
+#: inc/admin/class-razzi-admin-meta-boxes.php:481
+#: inc/admin/class-razzi-admin-meta-boxes.php:493
+#: inc/admin/class-razzi-admin-meta-boxes.php:503
+#: inc/admin/class-razzi-admin-meta-boxes.php:541
+#: inc/admin/class-razzi-admin-meta-boxes.php:551
+#: inc/woocommerce/class-razzi-woo-settings-product.php:286
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/class-razzi-options.php:716
+msgid "Default Icon"
+msgstr "Mặc Định Biểu Tượng"
+
+#: inc/class-razzi-options.php:890
+msgid "Delay Time"
+msgstr "Thời Gian Trễ"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:112
+#: inc/woocommerce/class-razzi-woo-settings-category.php:137
+#: inc/woocommerce/class-razzi-woo-settings-category.php:183
+#: inc/woocommerce/class-razzi-woo-settings-category.php:196
+#: inc/woocommerce/class-razzi-woo-settings-category.php:230
+#: inc/woocommerce/class-razzi-woo-settings-category.php:242
+#: inc/woocommerce/class-razzi-woo-settings-category.php:269
+#: inc/woocommerce/class-razzi-woo-settings-category.php:305
+#: inc/woocommerce/class-razzi-woo-settings-category.php:317
+msgid "Delete"
+msgstr "Xóa"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:111
+#: inc/woocommerce/class-razzi-woo-settings-category.php:136
+#: inc/woocommerce/class-razzi-woo-settings-category.php:183
+#: inc/woocommerce/class-razzi-woo-settings-category.php:195
+#: inc/woocommerce/class-razzi-woo-settings-category.php:230
+#: inc/woocommerce/class-razzi-woo-settings-category.php:241
+#: inc/woocommerce/class-razzi-woo-settings-category.php:268
+#: inc/woocommerce/class-razzi-woo-settings-category.php:305
+#: inc/woocommerce/class-razzi-woo-settings-category.php:316
+msgid "Delete image"
+msgstr "Xóa hình ảnh"
+
+#: inc/class-razzi-header.php:748 inc/class-razzi-options.php:181
+#: inc/class-razzi-options.php:451
+msgid "Department"
+msgstr "Bộ phận"
+
+#: inc/class-razzi-options.php:3475
+msgid "Department Icon"
+msgstr "Bộ Phận Biểu Tượng"
+
+#: inc/class-razzi-setup.php:106
+msgid "Department Menu"
+msgstr "Bộ Phận Thực Đơn"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:204
+msgid "Department Menu Display"
+msgstr "Bộ Phận Đơn Màn Hình"
+
+#: inc/class-razzi-options.php:3816
+msgid "DESC"
+msgstr "Quyết định"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:581
+msgid "Description Length"
+msgstr "Mô Tả Chiều Dài"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:938
+msgid "Detect background color from product main image"
+msgstr "Phát hiện màu nền sản phẩm từ những hình ảnh chính"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:436
+msgid "Disable Boxed Layout"
+msgstr "Vô Hiệu Hóa Bố Trí Đóng Hộp"
+
+#: inc/libs/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Bỏ thông báo này"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1550
+msgid "Display a badge for featured products."
+msgstr "Hiển thị huy hiệu cho sản phẩm đặc trưng."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1468
+msgid "Display a badge for new products."
+msgstr "Hiển thị huy hiệu cho sản phẩm mới."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1616
+msgid "Display a badge for out of stock products."
+msgstr "Hiển thị huy hiệu cho ra các sản phẩm chứng khoán."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1377
+msgid "Display a badge for sale products."
+msgstr "Hiển thị huy hiệu bán sản phẩm."
+
+#: inc/class-razzi-options.php:2354
+msgid ""
+"Display a bar bellow site header. This bar will be hidden when the header "
+"background is transparent."
+msgstr ""
+"Hiển thị một thanh rống lên trang đầu. Thanh này sẽ được ẩn khi tiêu đề nền "
+"trong suốt."
+
+#: inc/class-razzi-options.php:3988 inc/class-razzi-options.php:4038
+#: inc/class-razzi-options.php:4174 inc/class-razzi-options.php:4450
+#: inc/class-razzi-options.php:4527 inc/class-razzi-options.php:4632
+msgid "Display a divide line on top"
+msgstr "Hiển thị chia đường trên đầu"
+
+#: inc/class-razzi-options.php:2785
+msgid "Display a list of links bellow the search field"
+msgstr "Hiển thị một danh sách của các liên kết dưới lĩnh vực tìm kiếm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:702
+msgid "Display a notification when a product is added to cart."
+msgstr "Hiển thị thông báo khi một sản phẩm được thêm vào giỏ."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:812
+msgid "Display a notification when a product is added to compare"
+msgstr "Hiển thị thông báo khi một sản phẩm được thêm vào so sánh"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:789
+msgid "Display a notification when a product is added to wishlist"
+msgstr "Hiển thị thông báo khi một sản phẩm được thêm vào danh sách ưa thích"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:988
+msgid "Display breadcrumb on top of product page"
+msgstr "Hiển thị mẩu bánh mì trên đầu trang sản phẩm"
+
+#: inc/class-razzi-options.php:3761
+msgid "Display categories list above posts list"
+msgstr "Hiển thị loại danh sách trên danh sách bài viết"
+
+#: inc/class-razzi-options.php:3463
+msgid "Display copyright"
+msgstr "Hiển thị bản quyền"
+
+#: inc/class-razzi-options.php:4247
+msgid "Display copyright info on the left side of footer"
+msgstr "Hiển thị bản quyền thông tin ở phía bên trái của chân"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1138
+msgid "Display empty star on right of product title"
+msgstr "Hiển thị rỗng sao trên bên phải của sản phẩm tiêu đề"
+
+#: inc/class-razzi-options.php:6757
+msgid "Display footer extra on mobile"
+msgstr "Hiển thị chân thêm trên điện thoại di động"
+
+#: inc/class-razzi-options.php:6820
+msgid "Display footer links on mobile"
+msgstr "Hiển thị liên kết chân trên điện thoại di động"
+
+#: inc/class-razzi-options.php:6693
+msgid "Display footer main on mobile"
+msgstr "Hiển thị chân chính trên điện thoại di động"
+
+#: inc/class-razzi-options.php:6565
+msgid "Display footer newsletter on mobile"
+msgstr "Hiển thị chân bản tin trên điện thoại di động"
+
+#: inc/class-razzi-options.php:6629
+msgid "Display footer widget on mobile"
+msgstr "Hiển thị phụ tùng chân trên điện thoại di động"
+
+#: inc/class-razzi-options.php:6227
+msgid "Display On Page"
+msgstr "Hiển Thị Trên Trang"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:716
+msgid "Display recommended products on the cart popup"
+msgstr "Hiển thị đề nghị sản phẩm trên giỏ hàng bật lên"
+
+#: inc/class-razzi-options.php:3451
+msgid "Display social menu"
+msgstr "Hiển thị xã hội menu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1131
+msgid "Display stock on right of product price"
+msgstr "Chứng khoán hiển thị trên bên phải của sản phẩm giá"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1488
+msgid "Display the \"New\" badge for how many days?"
+msgstr "Hiển thị các \"Mới\" huy hiệu cho bao nhiêu ngày?"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1336
+msgid "Display the badges in the catalog page"
+msgstr "Hiển thị các huy hiệu trong cửa hàng trang"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1344
+msgid "Display the badges in the single page"
+msgstr "Hiển thị các huy hiệu trong trang duy nhất"
+
+#: inc/class-razzi-options.php:3842
+msgid "Display the featured image on the post"
+msgstr "Hiển thị các hình ảnh trên the post"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:883
+msgid "Display the product thumbnail"
+msgstr "Hiển thị các sản phẩm thu nhỏ"
+
+#: inc/class-razzi-options.php:6362
+msgid "Display topbar on mobile"
+msgstr "Hiển thị topbar trên điện thoại di động"
+
+#: inc/class-razzi-options.php:851
+msgid ""
+"Do NOT show the popup to the same visitor again until this much days has "
+"passed."
+msgstr ""
+"KHÔNG hiển thị lên đến cùng một người khách, một lần nữa cho đến khi điều "
+"này nhiều, ngày đã qua."
+
+#: template-parts/popup/newsletter-popup.php:52
+msgid "Don't show this popup again"
+msgstr "Đừng show này bật lên lần nữa"
+
+#: inc/class-razzi-options.php:6348
+#: inc/woocommerce/class-razzi-woo-customizer.php:1265
+msgid "Dots"
+msgstr "Dấu chấm"
+
+#. Author of the theme
+msgid "DrFuri"
+msgstr "DrFuri"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1737
+msgid "Dropdown"
+msgstr "Thả xuống"
+
+#: inc/class-razzi-comments.php:249
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: inc/woocommerce/class-razzi-woo-template-account.php:65
+msgid "Edit Account"
+msgstr "Sửa Tài Khoản"
+
+#: inc/class-razzi-options.php:6259
+msgid "Effect Hover"
+msgstr "Hiệu Ứng Di"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:84
+msgid "Elementor Page Builder"
+msgstr "Elementor Trang Xây Dựng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1967
+msgid "Elements"
+msgstr "Tố"
+
+#: inc/class-razzi-comments.php:158 inc/class-razzi-options.php:3890
+#: inc/woocommerce/class-razzi-woo-customizer.php:1292
+msgid "Email"
+msgstr "Email"
+
+#: template-parts/modals/account.php:74
+msgid "Email address"
+msgstr "Địa chỉ Email"
+
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-login.php:79
+msgid "Email Address *"
+msgstr "Địa Chỉ Email *"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1137
+msgid "Empty Star"
+msgstr "Trống Rỗng Sao"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:429
+msgid "Empty Stars"
+msgstr "Trống Rỗng Sao"
+
+#: inc/class-razzi-options.php:3758 inc/class-razzi-options.php:3911
+#: inc/woocommerce/class-razzi-woo-customizer.php:1467
+#: inc/woocommerce/class-razzi-woo-customizer.php:1549
+#: inc/woocommerce/class-razzi-woo-customizer.php:1615
+msgid "Enable"
+msgstr "Cho phép"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1887
+msgid "Enable Active Product Filters"
+msgstr "Cho Phép Hoạt Động Sản Phẩm Bộ Lọc"
+
+#: inc/class-razzi-options.php:7392
+msgid "Enable Breadcrumb"
+msgstr "Cho Phép Mẩu Bánh Mì"
+
+#: inc/class-razzi-options.php:3832 inc/class-razzi-options.php:6557
+msgid "Enable breadcrumb"
+msgstr "Cho phép mẩu bánh mì"
+
+#: inc/class-razzi-options.php:3839
+msgid "Enable featured image"
+msgstr "Kích hoạt hình ảnh đặc trưng"
+
+#: inc/class-razzi-options.php:776
+msgid "Enable Homepage only"
+msgstr "Cho phép Chủ chỉ"
+
+#: inc/class-razzi-options.php:916
+msgid "Enable Maintenance Mode"
+msgstr "Kích Hoạt Chế Độ Bảo Trì"
+
+#: inc/class-razzi-options.php:5654 inc/class-razzi-options.php:6066
+#: inc/class-razzi-options.php:6496 inc/class-razzi-options.php:6529
+#: inc/class-razzi-options.php:7102
+msgid "Enable Page Header"
+msgstr "Kích Hoạt Đầu Trang"
+
+#: inc/class-razzi-options.php:768
+msgid "Enable Popup"
+msgstr "Cho Phép Bật Lên"
+
+#: inc/class-razzi-options.php:681
+msgid "Enable Preloader"
+msgstr "Cho Phép Nạp Trước"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2229
+msgid "Enable this option to allow HTML in the Taxonomy Description"
+msgstr "Cho phép lựa chọn này để cho phép HTML trong các mô Tả Phân loại"
+
+#: inc/class-razzi-options.php:7510
+msgid "Enable to display the item label."
+msgstr "Cho phép để hiển thị các nhãn hàng."
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:128
+msgid ""
+"Enable to set this product as a new product. A \"New\" badge will be added "
+"to this product."
+msgstr ""
+"Cho phép để thiết lập sản phẩm này như một sản phẩm mới. Một cái \"Mới\" huy "
+"hiệu sẽ được thêm vào sản phẩm này."
+
+#: inc/class-razzi-options.php:5656 inc/class-razzi-options.php:6068
+#: inc/class-razzi-options.php:6498 inc/class-razzi-options.php:6531
+msgid "Enable to show a page header for the page below the site header"
+msgstr ""
+"Cho phép để cho một đầu trang cho các trang dưới đây, tiêu đề trang web"
+
+#: inc/class-razzi-options.php:7104
+msgid "Enable to show a page header for the shop page below the site header"
+msgstr ""
+"Cho phép để cho một đầu trang cho các cửa hàng trang dưới đây, tiêu đề trang "
+"web"
+
+#: inc/class-razzi-options.php:7394
+msgid ""
+"Enable to show a page header for the single product page below the site "
+"header"
+msgstr ""
+"Cho phép để cho một đầu trang cho các sản phẩm duy nhất trang dưới đây, tiêu "
+"đề trang web"
+
+#: inc/class-razzi-options.php:7360
+msgid "Enable Top Categories"
+msgstr "Cho Phép Loại Hàng Đầu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1376
+msgid "Enalble"
+msgstr "Enalble"
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr "Nhập một địa chỉ khác nhau"
+
+#: woocommerce/cart/cart.php:160
+msgid "Enter coupon code"
+msgstr "Nhập mã phiếu"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:124
+#: inc/woocommerce/class-razzi-woo-settings-category.php:209
+msgid "Enter links for each banner here. Divide links with linebreaks (Enter)."
+msgstr "Nhập liên kết với mỗi cờ ở đây. Chia liên kết với linebreaks (Nhập)."
+
+#: inc/class-razzi-options.php:819
+msgid "Enter popup content. HTML and shortcodes are allowed."
+msgstr "Nhập bật lên nội dung. HTML và mã ngắn được phép."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2550
+msgid "Enter product category name, separate by commas."
+msgstr "Nhập sản phẩm loại tên riêng của dấu phẩy."
+
+#: inc/class-razzi-options.php:835 inc/class-razzi-options.php:4618
+msgid "Enter the shortcode of MailChimp or MailPoet form."
+msgstr "Nhập ngắn của Mail hoặc MailPoet mẫu."
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:101
+msgid "Enter this optional to show your badges."
+msgstr "Nhập này tùy chọn để cho phù hiệu của bạn."
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:216
+msgid ""
+"Enter URL of Youtube or Vimeo or specific filetypes such as mp4, webm, ogv."
+msgstr ""
+"Nhập địa chỉ của Youtube hoặc Vimeo hoặc cụ thể loại file như mp4, avi, ogv."
+
+#: woocommerce/add-to-wishlist-popup.php:91
+msgid "Enter wishlist name"
+msgstr "Nhập ưa thích tên"
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr "Nhập địa chỉ của bạn phải xem vận chuyển lựa chọn."
+
+#: inc/class-razzi-options.php:3707
+msgid "Excerpt Length"
+msgstr "Đoạn Trích Chiều Dài"
+
+#: inc/class-razzi-options.php:718
+msgid "External image URL"
+msgstr "Bên ngoài hình ảnh địa chỉ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:172
+msgid "External Product"
+msgstr "Sản Phẩm Bên Ngoài"
+
+#: inc/libs/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Nguồn Bên Ngoài"
+
+#: inc/class-razzi-options.php:3956
+msgid "Extra Content"
+msgstr "Thêm Nội Dung"
+
+#: inc/class-razzi-options.php:3730
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/class-razzi-options.php:3881
+#: inc/woocommerce/class-razzi-woo-customizer.php:1285
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:285
+msgid "Fadein"
+msgstr "Fadein"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1544
+msgid "Featured Badge"
+msgstr "Các Huy Hiệu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:311
+msgid "Featured Icons"
+msgstr "Các Biểu Tượng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:722
+msgid "Featured products"
+msgstr "Sản phẩm đặc trưng"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:966
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:988
+msgid "Filter"
+msgstr "Bộ lọc"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:732
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:1110
+msgid "Filter By"
+msgstr "Bộ Lọc Bởi"
+
+#: inc/class-razzi-options.php:7378
+msgid "Filter Label"
+msgstr "Bộ Lọc Nhãn"
+
+#: inc/class-razzi-options.php:6031
+#: inc/admin/class-razzi-admin-meta-boxes.php:495
+msgid "Fixed"
+msgstr "Cố định"
+
+#: inc/class-razzi-options.php:7556
+msgid "Floating Action Button"
+msgstr "Hành Động Nổi Nút"
+
+#: inc/class-razzi-options.php:957
+msgid "Font Family Default"
+msgstr "Gia Đình Chữ Định"
+
+#: inc/class-razzi-options.php:340
+msgid "Fonts Families"
+msgstr "Phông Chữ Gia Đình"
+
+#: inc/class-razzi-options.php:297 inc/class-razzi-options.php:368
+#: inc/class-razzi-options.php:594 inc/class-razzi-widgets.php:66
+msgid "Footer"
+msgstr "Chân"
+
+#: inc/class-razzi-options.php:535
+msgid "Footer Background"
+msgstr "Nền Chân"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:536
+msgid "Footer Border"
+msgstr "Chân Biên Giới"
+
+#: inc/class-razzi-options.php:4246
+msgid "Footer Copyright"
+msgstr "Bản Quyền Chân"
+
+#: inc/class-razzi-options.php:4826
+msgid "FOOTER EXTRA"
+msgstr "CHÂN THÊM"
+
+#: inc/class-razzi-options.php:517 inc/class-razzi-options.php:1271
+#: inc/class-razzi-options.php:6756
+msgid "Footer Extra"
+msgstr "Chân Thêm"
+
+#: inc/class-razzi-options.php:499
+msgid "Footer Layout"
+msgstr "Bố Trí Chân"
+
+#: inc/class-razzi-options.php:5516
+msgid "FOOTER LINKS"
+msgstr "LIÊN KẾT CHÂN"
+
+#: inc/class-razzi-options.php:529 inc/class-razzi-options.php:3959
+#: inc/class-razzi-options.php:6819 inc/class-razzi-widgets.php:61
+msgid "Footer Links"
+msgstr "Liên Kết Chân"
+
+#: inc/class-razzi-options.php:5393
+msgid "FOOTER MAIN"
+msgstr "CHÂN CHÍNH"
+
+#: inc/class-razzi-options.php:523 inc/class-razzi-options.php:1311
+#: inc/class-razzi-options.php:3958 inc/class-razzi-options.php:6692
+msgid "Footer Main"
+msgstr "Chân Chính"
+
+#: inc/class-razzi-options.php:4950
+msgid "FOOTER NEWSLETTER"
+msgstr "CHÂN BẢN TIN"
+
+#: inc/class-razzi-options.php:505 inc/class-razzi-options.php:6564
+msgid "Footer Newsletter"
+msgstr "Chân Bản Tin"
+
+#: inc/class-razzi-options.php:3951
+msgid "Footer Sections"
+msgstr "Chân Phần"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:523
+msgid "Footer Settings"
+msgstr "Cài Đặt Chân"
+
+#: inc/class-razzi-options.php:511 inc/class-razzi-options.php:6628
+msgid "Footer Widget"
+msgstr "Phụ Tùng Chân"
+
+#: inc/class-razzi-options.php:5218
+msgid "FOOTER WIDGETS"
+msgstr "VẬT DỤNG CHÂN"
+
+#: inc/class-razzi-options.php:1291 inc/class-razzi-options.php:3957
+msgid "Footer Widgets"
+msgstr "Vật Dụng Chân"
+
+#: inc/class-razzi-options.php:3970
+msgid "Footer Width"
+msgstr "Chân Chiều Rộng"
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "Forgot Password?"
+msgstr "Quên Mật Khẩu?"
+
+#: inc/class-razzi-options.php:4617
+msgid "Form"
+msgstr "Hình thức"
+
+#: inc/class-razzi-options.php:850
+msgid "Frequency"
+msgstr "Tần số"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1098
+msgid "From Page"
+msgstr "Từ Trang"
+
+#: inc/class-razzi-options.php:3701 inc/class-razzi-options.php:3856
+msgid "Full Content"
+msgstr "Đầy Đủ Nội Dung"
+
+#: inc/class-razzi-options.php:2610
+msgid "Full Width"
+msgstr "Đầy Đủ Rộng"
+
+#: inc/class-razzi-options.php:266
+msgid "General"
+msgstr "Tổng"
+
+#: inc/class-razzi-options.php:3471
+msgid ""
+"Go to Appearance > Menus > create a new menu and check to Department Menu "
+"location"
+msgstr ""
+
+#: inc/class-razzi-options.php:4522
+msgid "Go to Appearance > Widgets > Footer Links to add widgets content."
+msgstr ""
+
+#: inc/class-razzi-options.php:3695 inc/class-razzi-options.php:3850
+msgid "Go to appearance > widgets find to blog sidebar to edit your sidebar"
+msgstr ""
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1781
+msgid "Go to appearance > widgets find to catalog sidebar to edit your sidebar"
+msgstr ""
+
+#: inc/class-razzi-options.php:4016
+msgid "Go to appearance > widgets find to footer sidebar to edit your sidebar"
+msgstr ""
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:924
+msgid "Go to Appearance > Widgets find to Product Sidebar to edit your sidebar"
+msgstr ""
+
+#: 404.php:21
+msgid "Go to homepage"
+msgstr "Đi tới trang web"
+
+#: inc/class-razzi-options.php:3883
+#: inc/woocommerce/class-razzi-woo-customizer.php:1287
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/class-razzi-options.php:4709
+msgid "Gray"
+msgstr "Màu xám"
+
+#: inc/class-razzi-options.php:3666
+#: inc/woocommerce/class-razzi-woo-customizer.php:1753
+msgid "Grid"
+msgstr "Lưới"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2310
+msgid "Groups"
+msgstr "Nhóm"
+
+#: inc/class-razzi-header.php:740 inc/class-razzi-options.php:173
+msgid "Hamburger Icon"
+msgstr "Biểu Tượng Hamburger"
+
+#: inc/class-razzi-options.php:447 inc/class-razzi-setup.php:104
+msgid "Hamburger Menu"
+msgstr "Bánh Hamburger Menu"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:282
+msgid "has been added to your cart."
+msgstr "đã được thêm vào giỏ hàng của bạn."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:314
+msgid "has been added to your compare."
+msgstr "đã được thêm vào danh so sánh."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:302
+msgid "has been added to your wishlist."
+msgstr "đã được thêm vào danh sách ưa thích."
+
+#: woocommerce/myaccount/orders.php:42 woocommerce/order/order-details.php:58
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:315
+msgid "have been added to your compare."
+msgstr "đã được thêm vào danh so sánh."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:303
+msgid "have been added to your wishlist."
+msgstr "đã được thêm vào danh sách ưa thích."
+
+#: inc/class-razzi-options.php:277 inc/class-razzi-options.php:352
+#: inc/class-razzi-options.php:586
+#: inc/woocommerce/class-razzi-woo-customizer.php:963
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: inc/class-razzi-options.php:1732
+msgid "Header Account"
+msgstr "Tiêu Đề Tài Khoản"
+
+#: inc/class-razzi-options.php:411
+#: inc/admin/class-razzi-admin-meta-boxes.php:151
+msgid "Header Background"
+msgstr "Nền Đầu"
+
+#: inc/class-razzi-options.php:407 inc/class-razzi-options.php:1834
+msgid "Header Bottom"
+msgstr "Tiêu Đề Dưới"
+
+#: inc/class-razzi-options.php:2240
+msgid "Header Bottom Custom Color"
+msgstr "Tiêu Đề Dưới Chỉnh Màu"
+
+#: inc/class-razzi-options.php:1786
+msgid "Header Cart"
+msgstr "Tiêu Đề Giỏ"
+
+#: inc/class-razzi-options.php:1768
+msgid "Header Compare"
+msgstr "Tiêu Đề So Sánh"
+
+#: inc/class-razzi-options.php:1927 inc/class-razzi-options.php:2056
+#: inc/class-razzi-options.php:6446
+msgid "Header Height"
+msgstr "Tiêu Đề Cao"
+
+#: inc/class-razzi-options.php:6469
+msgid "Header Icons"
+msgstr "Tiêu Biểu Tượng"
+
+#: inc/class-razzi-options.php:399 inc/class-razzi-options.php:1687
+#: inc/admin/class-razzi-admin-meta-boxes.php:131
+msgid "Header Layout"
+msgstr "Bố Trí Tiêu Đề"
+
+#: inc/class-razzi-options.php:403 inc/class-razzi-options.php:1833
+msgid "Header Main"
+msgstr "Tiêu Đề Chính"
+
+#: inc/class-razzi-options.php:2141
+msgid "Header Main Custom Color"
+msgstr "Tiêu Đề Chính Tùy Chỉnh Màu"
+
+#: inc/class-razzi-options.php:6949
+msgid "Header Menu Panel"
+msgstr "Tiêu Đề Đơn Bảng Điều Khiển"
+
+#: inc/class-razzi-options.php:1714
+msgid "Header Search"
+msgstr "Đầu Tìm Kiếm"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:111
+msgid "Header Settings"
+msgstr "Cài Đặt Tiêu Đề"
+
+#: inc/class-razzi-options.php:2114
+msgid "Header Spacing"
+msgstr "Tiêu Đề Khoảng Cách"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:160
+msgid "Header Text Color"
+msgstr "Tiêu Đề Bản Màu"
+
+#: inc/class-razzi-options.php:1676
+msgid "Header Type"
+msgstr "Loại Tiêu Đề"
+
+#: inc/class-razzi-options.php:1691
+#: inc/admin/class-razzi-admin-meta-boxes.php:136
+msgid "Header v1"
+msgstr "Tiêu đề v1"
+
+#: inc/class-razzi-options.php:1700
+#: inc/admin/class-razzi-admin-meta-boxes.php:145
+msgid "Header v10"
+msgstr "Tiêu đề v10"
+
+#: inc/class-razzi-options.php:1701
+#: inc/admin/class-razzi-admin-meta-boxes.php:146
+msgid "Header v11"
+msgstr "Tiêu đề v11"
+
+#: inc/class-razzi-options.php:1702
+#: inc/admin/class-razzi-admin-meta-boxes.php:147
+msgid "Header v12"
+msgstr "Tiêu đề v12"
+
+#: inc/class-razzi-options.php:1692
+#: inc/admin/class-razzi-admin-meta-boxes.php:137
+msgid "Header v2"
+msgstr "Tiêu đề v2"
+
+#: inc/class-razzi-options.php:1693
+#: inc/admin/class-razzi-admin-meta-boxes.php:138
+msgid "Header v3"
+msgstr "Tiêu đề v3"
+
+#: inc/class-razzi-options.php:1694
+#: inc/admin/class-razzi-admin-meta-boxes.php:139
+msgid "Header v4"
+msgstr "Tiêu đề 4"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:177
+msgid "Header V4 Spacing"
+msgstr "Tiêu Đề 4 Khoảng Cách"
+
+#: inc/class-razzi-options.php:1695
+#: inc/admin/class-razzi-admin-meta-boxes.php:140
+msgid "Header v5"
+msgstr "Tiêu đề v5"
+
+#: inc/class-razzi-options.php:1696
+#: inc/admin/class-razzi-admin-meta-boxes.php:141
+msgid "Header v6"
+msgstr "Tiêu đề v6"
+
+#: inc/class-razzi-options.php:1697
+#: inc/admin/class-razzi-admin-meta-boxes.php:142
+msgid "Header v7"
+msgstr "Tiêu đề 7"
+
+#: inc/class-razzi-options.php:1698
+#: inc/admin/class-razzi-admin-meta-boxes.php:143
+msgid "Header v8"
+msgstr "Tiêu đề v8"
+
+#: inc/class-razzi-options.php:1699
+#: inc/admin/class-razzi-admin-meta-boxes.php:144
+msgid "Header v9"
+msgstr "Tiêu đề v9"
+
+#: inc/class-razzi-options.php:1817
+msgid "Header Width"
+msgstr "Tiêu Đề Rộng"
+
+#: inc/class-razzi-options.php:1750
+msgid "Header Wishlist"
+msgstr "Tiêu Đề Danh Sách Ưa Thích"
+
+#: inc/class-razzi-options.php:985
+msgid "Heading 1"
+msgstr "Hướng 1"
+
+#: inc/class-razzi-options.php:1007
+msgid "Heading 2"
+msgstr "Nhóm 2"
+
+#: inc/class-razzi-options.php:1029
+msgid "Heading 3"
+msgstr "Hướng 3"
+
+#: inc/class-razzi-options.php:1051
+msgid "Heading 4"
+msgstr "Nhóm 4"
+
+#: inc/class-razzi-options.php:1073
+msgid "Heading 5"
+msgstr "Nhóm 5"
+
+#: inc/class-razzi-options.php:1095
+msgid "Heading 6"
+msgstr "Hướng 6"
+
+#: inc/class-razzi-options.php:4750 inc/class-razzi-options.php:5009
+#: inc/class-razzi-options.php:5302 inc/class-razzi-options.php:5574
+msgid "Heading Color"
+msgstr "Nhóm Màu"
+
+#: inc/class-razzi-options.php:348
+msgid "Headings"
+msgstr "Tiêu đề"
+
+#: inc/class-razzi-options.php:1349 inc/class-razzi-options.php:2376
+msgid "Height"
+msgstr "Chiều cao"
+
+#: inc/class-razzi-options.php:3525
+msgid "Height (Scrollable)"
+msgstr "Chiều Cao (Cuộn)"
+
+#. 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:37
+#, php-format
+msgid "Hello %1$s <span>(not %1$s? <a href=\"%2$s\">Log out</a>)</span>"
+msgstr ""
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:542
+msgid "Hide"
+msgstr "Hide"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:171
+msgid "Hide Border Bottom"
+msgstr "Ẩn Dưới Biên Giới"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:285
+msgid "Hide Breadcrumb"
+msgstr "Ẩn Mẩu Bánh Mì"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:124
+msgid "Hide Campain Bar"
+msgstr "Ẩn Đội Quân Thanh"
+
+#: inc/class-razzi-options.php:6212
+msgid "Hide Empty Products"
+msgstr "Ẩn Rỗng Sản Phẩm"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:529
+msgid "Hide Footer Section"
+msgstr "Giấu Chân Phần"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:117
+msgid "Hide Header Section"
+msgstr "Che Giấu Mục Tiêu Đề"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2668
+msgid "Hide More Product tab"
+msgstr "Che giấu nhiều Hơn sản Phẩm tab"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:583
+msgid "Hide Navigation Bar"
+msgstr "Ẩn Hướng Bar"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:271
+msgid "Hide Page Header"
+msgstr "Ẩn Trang Đầu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1842
+#: inc/woocommerce/class-razzi-woo-customizer.php:2496
+msgid "Hide the content"
+msgstr "Các nội dung ẩn"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:277
+msgid "Hide Title"
+msgstr "Ẩn Danh"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2661
+msgid "Hide Vendor Info tab"
+msgstr "Ẩn Nhà cung cấp thông Tin tab"
+
+#: inc/class-razzi-breadcrumbs.php:100 inc/class-razzi-options.php:221
+#: template-parts/navigation-bar/home.php:11
+msgid "Home"
+msgstr "Nhà"
+
+#: inc/class-razzi-options.php:7426
+msgid "Homepage"
+msgstr "Chủ"
+
+#: inc/woocommerce/class-razzi-woo-modules-badges.php:153
+msgid "Hot"
+msgstr "Nóng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2327
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:883
+msgid "Hot Products"
+msgstr "Đang HOT"
+
+#: inc/class-razzi-options.php:3928
+msgid "How many related posts would you like to show"
+msgstr "Bao nhiêu bài liên quan bạn có muốn thấy"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:768
+#: inc/woocommerce/class-razzi-woo-customizer.php:797
+#: inc/woocommerce/class-razzi-woo-customizer.php:820
+msgid "How many seconds you want to hide the notification."
+msgstr "Bao nhiêu giây, ngươi muốn che giấu thông báo."
+
+#. URI of the theme
+msgid "http://demo4.drfuri.com/razzi"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://drfuri.com"
+msgstr ""
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1039
+#: inc/woocommerce/class-razzi-woo-customizer.php:1051
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1040
+#: inc/woocommerce/class-razzi-woo-customizer.php:1052
+msgid "Icon & Title"
+msgstr "Biểu Tượng Và Tiêu Đề"
+
+#: inc/class-razzi-options.php:2591
+msgid "Icon and categories"
+msgstr "Biểu tượng và loại"
+
+#: inc/class-razzi-options.php:2592
+msgid "Icon and search field"
+msgstr "Biểu tượng và lĩnh vực tìm kiếm"
+
+#: inc/class-razzi-options.php:2910
+msgid "Icon Color"
+msgstr "Biểu Tượng Màu"
+
+#: inc/class-razzi-options.php:2593
+msgid "Icon only"
+msgstr "Chỉ là biểu tượng"
+
+#: inc/class-razzi-options.php:3277 inc/class-razzi-options.php:3501
+msgid "Icon SVG code"
+msgstr "Biểu tượng BONNIE mã"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:245
+msgid "Icons & Add to cart button"
+msgstr "Biểu tượng và Thêm vào giỏ hàng nút"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:250
+msgid "Icons & Add to cart text"
+msgstr "Biểu tượng và Thêm vào giỏ hàng văn bản"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:244
+msgid "Icons & Quick view button"
+msgstr "Biểu tượng và Nhanh chóng nút xem"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:246
+msgid "Icons on the bottom"
+msgstr "Biểu tượng trên phía dưới"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:243
+msgid "Icons over thumbnail on hover"
+msgstr "Biểu tượng hơn thu nhỏ trên di"
+
+#: inc/class-razzi-options.php:3806
+msgid "ID"
+msgstr "ID"
+
+#: inc/class-razzi-options.php:925
+#, php-format
+msgid ""
+"If you are putting your site into maintenance mode for a longer perior of "
+"time, you should set this to \"Coming Soon\". Maintenance will return HTTP "
+"503, Comming Soon will set HTTP to 200. <a href=\"%s\" target=\"_blank\">"
+"Learn more</a>"
+msgstr ""
+
+#: inc/class-razzi-options.php:803 inc/class-razzi-options.php:2455
+#: inc/class-razzi-options.php:4274 inc/class-razzi-options.php:4279
+#: inc/class-razzi-options.php:4295 inc/class-razzi-options.php:5686
+#: inc/class-razzi-options.php:7143
+#: inc/admin/class-razzi-admin-meta-boxes.php:302
+#: inc/woocommerce/class-razzi-woo-customizer.php:1954
+#: inc/woocommerce/class-razzi-woo-customizer.php:2176
+#: inc/woocommerce/class-razzi-woo-customizer.php:2181
+msgid "Image"
+msgstr "Ảnh"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1072
+msgid "Image Lightbox"
+msgstr "Hình Ảnh Hộp"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1064
+msgid "Image Zoom"
+msgstr "Hình Phóng To"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2172
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: inc/blog/class-razzi-blog-post.php:301
+msgid "in"
+msgstr "trong"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1099
+msgid "In Popup"
+msgstr "Trong Bật Lên"
+
+#: inc/woocommerce/class-razzi-woo-modules-wishlist.php:143
+msgid "In Stock"
+msgstr "Trong Kho"
+
+#: inc/woocommerce/class-razzi-woo-template-general.php:407
+msgid "In stock"
+msgstr "Trong kho"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1738
+msgid "Incremental"
+msgstr "Gia tăng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1915
+msgid "Infinite Scroll"
+msgstr "Di Chuyển Vô Hạn"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:249
+msgid "Info on hover"
+msgstr "Thông tin về di"
+
+#: inc/libs/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Cài đặt"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:146
+#: inc/libs/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Cài Đặt Bổ Sung"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:145
+#: inc/libs/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Cài Đặt Cần Bổ Sung"
+
+#. 1: install status, 2: update status
+#: inc/libs/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/libs/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Cài Đặt, Nhưng Không Được Kích Hoạt"
+
+#: inc/libs/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Cài đặt phiên bản:"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt và kích Hoạt Cắm %1$s (%2$d/%3$d)"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài Cắm %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: inc/admin/class-razzi-admin-plugin-install.php:147
+#: inc/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Cài Cắm: %s"
+
+#: inc/woocommerce/class-razzi-woo-modules-quick-view.php:124
+msgid "Invalid product."
+msgstr "Không sản phẩm."
+
+#: template-parts/content/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Có vẻ như chúng ta không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm "
+"kiếm có thể giúp."
+
+#: inc/class-razzi-options.php:1382 inc/class-razzi-options.php:1402
+#: inc/class-razzi-options.php:1422 inc/class-razzi-options.php:1851
+#: inc/class-razzi-options.php:1877 inc/class-razzi-options.php:1903
+#: inc/class-razzi-options.php:1980 inc/class-razzi-options.php:2006
+#: inc/class-razzi-options.php:2032 inc/class-razzi-options.php:4116
+#: inc/class-razzi-options.php:4135 inc/class-razzi-options.php:4154
+#: inc/class-razzi-options.php:4429 inc/class-razzi-options.php:6378
+#: inc/class-razzi-options.php:6476 inc/class-razzi-options.php:7476
+msgid "Item"
+msgstr "Mục"
+
+#: inc/class-razzi-options.php:7509
+msgid "Item label"
+msgstr "Nhãn hàng"
+
+#: inc/class-razzi-options.php:4423 inc/class-razzi-options.php:7461
+msgid "Items"
+msgstr "Mục"
+
+#. If there are characters in your language that are not
+#. supported by Montserrat, translate this to 'off'. Do not translate
+#. into your own language.
+#: inc/class-razzi-helper.php:49
+msgctxt "Jost font: on or off"
+msgid "on"
+msgstr "trên"
+
+#: inc/class-razzi-options.php:3385
+msgid "Justify Content"
+msgstr "Biện Minh Cho Nội Dung"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:70
+msgid "Kirki"
+msgstr "Kirki"
+
+#: inc/class-razzi-options.php:199 inc/class-razzi-topbar.php:273
+msgid "Language Switcher"
+msgstr "Ngôn Ngữ Tắc"
+
+#: inc/class-razzi-header.php:746 inc/class-razzi-options.php:179
+msgid "Languages"
+msgstr "Ngôn ngữ"
+
+#: inc/class-razzi-options.php:1822 inc/class-razzi-options.php:3975
+#: inc/admin/class-razzi-admin-meta-boxes.php:369
+#: inc/woocommerce/class-razzi-woo-customizer.php:915
+#: inc/woocommerce/class-razzi-woo-customizer.php:1766
+msgid "Large"
+msgstr "Lớn"
+
+#: inc/class-razzi-options.php:3847 inc/class-razzi-options.php:4017
+#: inc/class-razzi-options.php:4599 inc/class-razzi-options.php:5662
+#: inc/class-razzi-options.php:6254 inc/class-razzi-options.php:7108
+#: inc/admin/class-razzi-admin-meta-boxes.php:292
+#: inc/woocommerce/class-razzi-woo-customizer.php:1941
+msgid "Layout"
+msgstr "Bố trí"
+
+#: inc/class-razzi-options.php:4603 inc/class-razzi-options.php:5666
+#: inc/class-razzi-options.php:7112
+#: inc/admin/class-razzi-admin-meta-boxes.php:297
+#: inc/woocommerce/class-razzi-woo-customizer.php:899
+#: inc/woocommerce/class-razzi-woo-customizer.php:1355
+#: inc/woocommerce/class-razzi-woo-customizer.php:1946
+msgid "Layout 1"
+msgstr "Bố trí 1"
+
+#: inc/class-razzi-options.php:4604 inc/class-razzi-options.php:5667
+#: inc/class-razzi-options.php:7113
+#: inc/admin/class-razzi-admin-meta-boxes.php:298
+#: inc/woocommerce/class-razzi-woo-customizer.php:900
+#: inc/woocommerce/class-razzi-woo-customizer.php:1356
+#: inc/woocommerce/class-razzi-woo-customizer.php:1947
+msgid "Layout 2"
+msgstr "2 bố trí"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:901
+msgid "Layout 3"
+msgstr "Bố trí 3"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:902
+msgid "Layout 4"
+msgstr "Bố trí 4"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:903
+msgid "Layout 5"
+msgstr "Bố trí 5"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:904
+msgid "Layout 6"
+msgstr "Bố trí 6"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2254
+msgid "Layout V1"
+msgstr "Bố Trí V1"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2255
+msgid "Layout V2"
+msgstr "Bố Trí V2"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2256
+msgid "Layout V3"
+msgstr "Bố Trí V3"
+
+#. %s: post title
+#: inc/class-razzi-helper.php:505
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/class-razzi-options.php:3390 inc/class-razzi-options.php:5969
+#: inc/class-razzi-options.php:7495
+#: inc/admin/class-razzi-admin-meta-boxes.php:460
+#: inc/woocommerce/class-razzi-woo-customizer.php:265
+msgid "Left"
+msgstr "Trái"
+
+#: inc/class-razzi-options.php:1376 inc/class-razzi-options.php:1844
+#: inc/class-razzi-options.php:1973 inc/class-razzi-options.php:4110
+msgid "Left Items"
+msgstr "Trái Mục"
+
+#: inc/class-razzi-options.php:3700 inc/class-razzi-options.php:3855
+#: inc/woocommerce/class-razzi-woo-customizer.php:928
+#: inc/woocommerce/class-razzi-woo-customizer.php:1785
+msgid "Left Sidebar"
+msgstr "Bên Trái"
+
+#: inc/class-razzi-options.php:2632 inc/class-razzi-options.php:4708
+#: inc/admin/class-razzi-admin-meta-boxes.php:167
+msgid "Light"
+msgstr "Ánh sáng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2596
+msgid "Limit"
+msgstr "Giới hạn"
+
+#: inc/class-razzi-options.php:2797 inc/class-razzi-options.php:4284
+#: inc/woocommerce/class-razzi-woo-customizer.php:2186
+msgid "Link"
+msgstr "Link"
+
+#: inc/class-razzi-options.php:3886
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/class-razzi-options.php:2791
+msgid "Links"
+msgstr "Liên kết"
+
+#. used between list items, there is a space after the comma
+#: inc/class-razzi-helper.php:492
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/class-razzi-options.php:6370
+msgid "List Items"
+msgstr "Mục Danh Sách"
+
+#: inc/class-razzi-options.php:3665
+msgid "Listing"
+msgstr "Danh sách"
+
+#: inc/class-razzi-helper.php:114
+#: inc/woocommerce/class-razzi-woo-customizer.php:1914
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:530
+msgid "Load More"
+msgstr "Tải Trọng Hơn"
+
+#: inc/class-razzi-options.php:6198
+msgid "Load With Ajax"
+msgstr "Tải Với Ajax"
+
+#: inc/class-razzi-options.php:3744
+msgid "Loading Text"
+msgstr "Tải Văn Bản"
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: woocommerce/myaccount/form-login.php:28
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: inc/class-razzi-footer.php:114 inc/class-razzi-header.php:737
+#: inc/class-razzi-options.php:156 inc/class-razzi-options.php:170
+#: inc/class-razzi-options.php:419 inc/class-razzi-options.php:565
+#: inc/class-razzi-options.php:2481 inc/class-razzi-options.php:4322
+#: inc/woocommerce/class-razzi-woo-customizer.php:1021
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/class-razzi-options.php:2544 inc/class-razzi-options.php:4397
+#: inc/class-razzi-options.php:6926 inc/class-razzi-options.php:7012
+msgid "Logo Dimension"
+msgstr "Logo Kích"
+
+#: inc/class-razzi-options.php:2560 inc/class-razzi-options.php:4372
+msgid "Logo Font"
+msgstr "Logo Chữ"
+
+#: inc/class-razzi-options.php:2513 inc/class-razzi-options.php:6913
+msgid "Logo Light"
+msgstr "Biểu Tượng Ánh Sáng"
+
+#: inc/class-razzi-options.php:2494
+msgid "Logo Light SVG"
+msgstr "Biểu tượng Ánh sáng BONNIE"
+
+#: inc/class-razzi-options.php:2462 inc/class-razzi-options.php:4303
+msgid "Logo SVG"
+msgstr "Logo BONNIE"
+
+#: inc/class-razzi-options.php:2526 inc/class-razzi-options.php:4335
+msgid "Logo Text"
+msgstr "Biểu Tượng Văn Bản"
+
+#: inc/class-razzi-options.php:2451 inc/class-razzi-options.php:4291
+msgid "Logo Type"
+msgstr "Loại Logo"
+
+#: template-parts/headers/account.php:36
+msgid "Logout"
+msgstr "Thoát"
+
+#: template-parts/modals/account.php:37 woocommerce/myaccount/form-login.php:48
+msgid "Lost your password?"
+msgstr "Mất mật khẩu?"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:107
+msgid "MailChimp for WordPress"
+msgstr "Mail cho WordPress"
+
+#: inc/class-razzi-options.php:344
+msgid "Main"
+msgstr "Chính"
+
+#: inc/class-razzi-options.php:313 inc/class-razzi-options.php:928
+msgid "Maintenance"
+msgstr "Bảo trì"
+
+#: inc/class-razzi-options.php:942
+msgid "Maintenance Page"
+msgstr "Bảo Trì Trang"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1754
+msgid "Masonry"
+msgstr "Nề"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:255
+msgid "Max"
+msgstr "Max"
+
+#: inc/class-razzi-footer.php:110 inc/class-razzi-options.php:152
+#: inc/class-razzi-options.php:222 inc/class-razzi-options.php:547
+#: inc/class-razzi-options.php:1118 inc/class-razzi-options.php:1437
+#: inc/class-razzi-options.php:4254 inc/class-razzi-options.php:7528
+#: template-parts/navigation-bar/menu.php:11
+msgid "Menu"
+msgstr "Đơn"
+
+#: inc/class-razzi-header.php:767 inc/class-razzi-options.php:245
+msgid "Menu Icon"
+msgstr "Biểu Tượng Menu"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:63
+msgid "Meta Box"
+msgstr "Siêu Hộp"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:254
+msgid "Min"
+msgstr "Min"
+
+#: inc/class-razzi-options.php:3367
+msgid "Mini Cart Buttons"
+msgstr "Giỏ Nhỏ Nút"
+
+#: inc/libs/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Tối thiểu cần phiên bản:"
+
+#: inc/class-razzi-options.php:303
+msgid "Mobile"
+msgstr "Điện thoại di động"
+
+#: inc/class-razzi-options.php:7073
+msgid "Mobile Landscape(767px)"
+msgstr "Điện thoại di động Cảnh(767px)"
+
+#: inc/class-razzi-options.php:6896
+msgid "Mobile Logo"
+msgstr "Điện Thoại Di Động Logo"
+
+#: inc/class-razzi-setup.php:107
+msgid "Mobile Menu"
+msgstr "Đơn Điện Thoại Di Động"
+
+#: inc/class-razzi-options.php:7084
+msgid "Mobile Portrait(479px)"
+msgstr "Điện thoại di động chân Dung(479px)"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:577
+msgid "Mobile Settings"
+msgstr "Điện Thoại Di Động, Thiết Lập"
+
+#: inc/class-razzi-options.php:623 inc/class-razzi-options.php:7409
+msgid "Mobile Version"
+msgstr "Phiên Bản Di Động"
+
+#: inc/class-razzi-options.php:923
+msgid "Mode"
+msgstr "Chế độ"
+
+#: inc/class-razzi-breadcrumbs.php:108
+msgid "Monthly:"
+msgstr "Hàng tháng:"
+
+#: woocommerce/myaccount/orders.php:82
+msgid "more"
+msgstr "hơn"
+
+#: inc/woocommerce/class-razzi-woo-modules-quick-view.php:185
+msgid "More Product Info"
+msgstr "Thêm Thông Tin Sản Phẩm"
+
+#. Description of the theme
+msgid "Multipurpose WooCommerce WordPress Theme"
+msgstr "Đa Tạp Chí Blog & Video Chủ Đề"
+
+#: woocommerce/order/order-details-customer.php:42
+#: woocommerce/order/order-details-customer.php:60
+#: woocommerce/single-product/meta.php:36
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/class-razzi-comments.php:154
+msgid "Name"
+msgstr "Tên"
+
+#: inc/class-razzi-options.php:6343
+msgid "Navigation"
+msgstr "Chuyển hướng"
+
+#: inc/class-razzi-options.php:7448
+msgid "Navigation Bar"
+msgstr "Chuyển Hướng Bar"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1910
+msgid "Navigation Type"
+msgstr "Chuyển Hướng Loại"
+
+#: inc/woocommerce/class-razzi-woo-modules-badges.php:148
+msgid "New"
+msgstr "Mới"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1462
+msgid "New Badge"
+msgstr "Mới Huy Hiệu"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:127
+msgid "New product?"
+msgstr "Sản phẩm mới?"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2328
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:884
+msgid "New Products"
+msgstr "Mới nhất"
+
+#: inc/class-razzi-options.php:3955
+msgid "Newsletter"
+msgstr "Bản tin"
+
+#: inc/class-razzi-options.php:833
+msgid "NewsLetter Form"
+msgstr "Bản Tin Hình Thức"
+
+#: inc/class-razzi-options.php:374 inc/class-razzi-options.php:578
+msgid "Newsletter Popup"
+msgstr "Bản Tin Sổ"
+
+#: inc/class-razzi-options.php:6987
+msgid "Newsletter_Popup"
+msgstr "Newsletter_Popup"
+
+#: woocommerce/myaccount/orders.php:112
+msgid "Next"
+msgstr "Tiếp theo"
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không có hành động thực hiện. Cắm %1$s đã hoạt động."
+
+#: woocommerce/myaccount/orders.php:120
+msgid "No order has been made yet."
+msgstr "Không có lệnh đã được thực hiện chưa."
+
+#: inc/libs/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Không bổ sung đang sẵn sàng để được kích hoạt tại thời điểm này."
+
+#: inc/libs/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Không bổ sung đang sẵn sàng để được cài đặt tại thời điểm này."
+
+#: inc/libs/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Không bổ sung đang sẵn sàng để được cập nhật tại thời điểm này."
+
+#: inc/libs/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Không bổ sung để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/libs/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Không bổ sung được lựa chọn để được kích hoạt. Không có hành động thực hiện."
+
+#: inc/libs/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Không bổ sung được lựa chọn để được cài đặt. Không có hành động thực hiện."
+
+#: inc/libs/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Không bổ sung được lựa chọn để được cập nhật. Không có hành động thực hiện."
+
+#: inc/woocommerce/class-razzi-woo-modules-quick-view.php:114
+msgid "No product."
+msgstr "Không sản phẩm."
+
+#: inc/class-razzi-options.php:6009
+#: inc/admin/class-razzi-admin-meta-boxes.php:482
+msgid "No Repeat"
+msgstr "Không Lặp Lại"
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "Không có tùy chọn vận chuyển đã tìm thấy cho %s."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:929
+#: inc/woocommerce/class-razzi-woo-customizer.php:1786
+msgid "No Sidebar"
+msgstr "Không Bên"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:378
+#: inc/admin/class-razzi-admin-meta-boxes.php:400
+msgid "No spacing"
+msgstr "Không khoảng cách"
+
+#: inc/class-razzi-options.php:5968 inc/class-razzi-options.php:5988
+#: inc/class-razzi-options.php:6008 inc/class-razzi-options.php:6029
+#: inc/class-razzi-options.php:6048 inc/class-razzi-options.php:7452
+#: inc/woocommerce/class-razzi-woo-customizer.php:709
+#: inc/woocommerce/class-razzi-woo-customizer.php:720
+#: inc/woocommerce/class-razzi-woo-customizer.php:1010
+#: inc/woocommerce/class-razzi-woo-customizer.php:1038
+#: inc/woocommerce/class-razzi-woo-customizer.php:1050
+#: inc/woocommerce/class-razzi-woo-customizer.php:1945
+#: inc/woocommerce/class-razzi-woo-customizer.php:2754
+#: inc/woocommerce/class-razzi-woo-settings-product.php:287
+msgid "None"
+msgstr "Không có"
+
+#: inc/class-razzi-options.php:1821 inc/class-razzi-options.php:3974
+#: inc/admin/class-razzi-admin-meta-boxes.php:368
+#: inc/woocommerce/class-razzi-woo-customizer.php:914
+#: inc/woocommerce/class-razzi-woo-customizer.php:1765
+msgid "Normal"
+msgstr "Bình thường"
+
+#: inc/class-razzi-breadcrumbs.php:104
+msgid "Not Found"
+msgstr "Không Tìm Thấy"
+
+#: inc/libs/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Không Cài Đặt"
+
+#: woocommerce/order/order-details.php:132
+msgid "Note:"
+msgstr "Chú ý:"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Không Tìm Thấy Gì Cả"
+
+#: inc/class-razzi-modules-search-ajax.php:96
+msgid "Nothing matches your search"
+msgstr "Không có gì phù hợp với bạn tìm kiếm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:753
+msgid "Number of products"
+msgstr "Số các sản phẩm"
+
+#: inc/class-razzi-options.php:3927 inc/class-razzi-options.php:6329
+msgid "Numbers"
+msgstr "Số"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1913
+msgid "Numeric"
+msgstr "Số"
+
+#: inc/class-razzi-helper.php:95
+msgid "of"
+msgstr "của"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:208
+msgid "On Hover"
+msgstr "Vào Di"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:209
+msgid "On Page Load"
+msgstr "Trên Trang Tải"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:707
+msgid "Open cart popup"
+msgstr "Mở giỏ bật lên"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2437
+msgid "Open filters bellow"
+msgstr "Mở bộ lọc dưới"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2436
+msgid "Open filters on side"
+msgstr "Mở bộ lọc bên trên"
+
+#: inc/class-razzi-options.php:7403
+#: inc/woocommerce/class-razzi-woo-customizer.php:1174
+msgid "Open first tab"
+msgstr "Mở đầu, tab"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:706
+msgid "Open mini cart panel"
+msgstr "Mở nhỏ giỏ bảng điều khiển"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1322
+msgid "Open new tab"
+msgstr "Mở mới tab"
+
+#: inc/class-razzi-options.php:3045
+msgid "Open the account page"
+msgstr "Mở tài khoản trang"
+
+#: inc/class-razzi-options.php:3044
+msgid "Open the account panel"
+msgstr "Mở tài khoản bảng điều khiển"
+
+#: inc/class-razzi-options.php:3239
+msgid "Open the cart page"
+msgstr "Mở trang giỏ"
+
+#: inc/class-razzi-options.php:3238
+msgid "Open the cart panel"
+msgstr "Mở hàng bảng điều khiển"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1073
+msgid "Opens your images against a dark backdrop"
+msgstr "Mở ra hình ảnh của bạn với một nền tối"
+
+#: woocommerce/add-to-wishlist-popup.php:66
+#: woocommerce/add-to-wishlist-remove.php:61
+msgid "or"
+msgstr "hay"
+
+#: woocommerce/myaccount/orders.php:54 woocommerce/order/order-details.php:69
+msgid "Order Amount:"
+msgstr "Đặt Tiền:"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2382
+#: inc/woocommerce/class-razzi-woo-customizer.php:2606
+msgid "Order By"
+msgstr "Bởi Trật Tự"
+
+#: woocommerce/order/order-details.php:46
+msgid "Order item"
+msgstr "Đặt mục"
+
+#: woocommerce/order/order-details.php:43
+msgid "Order items"
+msgstr "Các trật tự"
+
+#: woocommerce/myaccount/orders.php:40 woocommerce/order/order-details.php:57
+msgid "Order No:"
+msgstr "Không Tự:"
+
+#: woocommerce/order/order-details.php:116
+msgid "Order Total"
+msgstr "Lệnh Tổng"
+
+#: inc/class-razzi-maintenance.php:78
+msgid ""
+"Our website is currently undergoing scheduled maintenance. Please check back "
+"soon."
+msgstr ""
+"Trang web của chúng ta đang bước vào lịch bảo trì. Xin vui lòng kiểm tra lại "
+"sớm."
+
+#: inc/class-razzi-maintenance.php:76
+msgid ""
+"Our website is under construction. We will be here soon with our new awesome "
+"site."
+msgstr ""
+"Trang web của chúng tôi đang được xây dựng. Chúng ta sẽ sớm đến đây với "
+"chúng tôi mới trang web tuyệt vời."
+
+#: inc/class-razzi-options.php:5890 inc/class-razzi-options.php:6157
+#: inc/class-razzi-options.php:6596 inc/class-razzi-options.php:6660
+#: inc/class-razzi-options.php:6724 inc/class-razzi-options.php:6788
+#: inc/class-razzi-options.php:6851 inc/class-razzi-options.php:7289
+#: inc/woocommerce/class-razzi-woo-customizer.php:2032
+msgid "Padding Bottom"
+msgstr "Dưới Đệm"
+
+#: inc/class-razzi-options.php:5853 inc/class-razzi-options.php:6125
+#: inc/class-razzi-options.php:6571 inc/class-razzi-options.php:6635
+#: inc/class-razzi-options.php:6699 inc/class-razzi-options.php:6763
+#: inc/class-razzi-options.php:6826 inc/class-razzi-options.php:7258
+#: inc/woocommerce/class-razzi-woo-customizer.php:2000
+msgid "Padding Top"
+msgstr "Đệm Đầu"
+
+#: inc/class-razzi-options.php:283 inc/class-razzi-options.php:356
+#: inc/class-razzi-options.php:602
+msgid "Page"
+msgstr "Trang"
+
+#: inc/class-razzi-options.php:465 inc/class-razzi-options.php:6491
+#: inc/class-razzi-options.php:6524 inc/class-razzi-options.php:7097
+#: inc/woocommerce/class-razzi-woo-customizer.php:186
+#: inc/woocommerce/class-razzi-woo-customizer.php:2279
+msgid "Page Header"
+msgstr "Trang Đầu"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:130
+#: inc/woocommerce/class-razzi-woo-settings-category.php:216
+#: inc/woocommerce/class-razzi-woo-settings-category.php:262
+#: inc/woocommerce/class-razzi-woo-settings-category.php:291
+msgid "Page Header Background"
+msgstr "Trang Nền Đầu"
+
+#: inc/class-razzi-options.php:5700 inc/class-razzi-options.php:6087
+#: inc/class-razzi-options.php:6502 inc/class-razzi-options.php:6535
+#: inc/class-razzi-options.php:7331
+msgid "Page Header Elements"
+msgstr "Trang Đầu Yếu Tố"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:265
+msgid "Page Header Settings"
+msgstr "Đầu Trang Thiết Lập"
+
+#: inc/class-razzi-page-header.php:98
+msgid "Page Not Found"
+msgstr "Không Tìm Thấy Trang"
+
+#: inc/class-razzi-options.php:7114
+#: inc/woocommerce/class-razzi-woo-customizer.php:1948
+msgid "Page Template"
+msgstr "Trang Mẫu"
+
+#: inc/class-razzi-options.php:1159
+msgid "Page Title"
+msgstr "Tiêu Đề Trang"
+
+#: inc/class-razzi-page.php:61 inc/blog/class-razzi-blog-post.php:383
+msgid "Pages:"
+msgstr "Trang:"
+
+#: inc/class-razzi-options.php:598
+msgid "Panel"
+msgstr "Bảng điều khiển"
+
+#: inc/class-razzi-options.php:2689
+msgid "Panel Search Title"
+msgstr "Bảng Điều Khiển Tìm Kiếm Đề"
+
+#: template-parts/modals/account.php:24 template-parts/modals/account.php:82
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:85
+msgid "Password *"
+msgstr "Mật khẩu *"
+
+#: inc/class-razzi-options.php:2464 inc/class-razzi-options.php:2496
+#: inc/class-razzi-options.php:4305
+msgid "Paste SVG code of your logo here"
+msgstr "Dán BONNIE mã của logo của bạn ở đây"
+
+#: inc/class-razzi-options.php:4270
+msgid "Payment Images"
+msgstr "Hình Ảnh Thanh Toán"
+
+#: woocommerce/order/order-details.php:73
+msgid "Payment method:"
+msgstr "Phương thức thanh toán:"
+
+#: inc/class-razzi-footer.php:112 inc/class-razzi-options.php:154
+#: inc/class-razzi-options.php:559
+msgid "Payments"
+msgstr "Thanh toán"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1386
+msgid "Percentage"
+msgstr "Tỷ lệ"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:142
+msgid ""
+"Pick a background color for product page. Or leave it empty to automatically "
+"detect the background from product main image."
+msgstr ""
+"Chọn một nền màu cho sản phẩm trang. Hoặc để nó trống để phát hiện tự động "
+"nền sản phẩm từ những hình ảnh chính."
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:110
+msgid "Pick background color for your badge"
+msgstr "Lựa chọn màu nền cho huy hiệu của bạn"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:120
+msgid "Pick color for your badge"
+msgstr "Lựa chọn màu cho huy hiệu của bạn"
+
+#: inc/class-razzi-options.php:662
+msgid "Pick my favorite color"
+msgstr "Lựa chọn màu yêu thích của tôi"
+
+#: inc/class-razzi-options.php:3885
+#: inc/woocommerce/class-razzi-woo-customizer.php:1288
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: template-parts/navigation-bar/add-to-order.php:10
+msgid "Place order"
+msgstr "Ra lệnh"
+
+#: inc/class-razzi-options.php:2716
+msgid "Placeholder"
+msgstr "Giữ chỗ"
+
+#: inc/woocommerce/class-razzi-woo-template-single-product.php:634
+msgid "Play Video"
+msgstr "Chơi Video"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1094
+msgid "Play video"
+msgstr "Chơi video"
+
+#: inc/libs/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Xin hãy liên lạc với người quản trị của trang web này để giúp đỡ."
+
+#: inc/libs/class-tgm-plugin-activation.php:1019
+#: inc/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Xin hãy liên lạc với cắm cung cấp và yêu cầu họ gói của họ cắm theo hàng "
+"hướng dẫn."
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Please enter your Email Address. You will receive a link to create a new "
+"password via Email."
+msgstr ""
+"Xin vui lòng nhập Địa chỉ Email của bạn. Bạn sẽ nhận được một liên kết để "
+"tạo ra một mật khẩu mới qua Email."
+
+#: inc/libs/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Cắm"
+
+#: inc/libs/class-tgm-plugin-activation.php:1206
+#: inc/libs/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:160
+#: inc/libs/class-tgm-plugin-activation.php:394
+#: inc/libs/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Cắm kích hoạt thành công."
+
+#: inc/libs/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Cắm kích hoạt thất bại."
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Cắm không được kích hoạt. Một phiên bản cao hơn của %s là cần thiết cho chủ "
+"đề này. Hãy cập nhật các cắm."
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: inc/class-razzi-options.php:3889
+msgid "Pocket"
+msgstr "Túi"
+
+#: inc/class-razzi-options.php:818
+msgid "Popup Content"
+msgstr "Bật Lên Nội Dung"
+
+#: inc/class-razzi-options.php:784
+msgid "Popup Layout"
+msgstr "Bật Lên Bố Trí"
+
+#: inc/class-razzi-options.php:870
+msgid "Popup Visible"
+msgstr "Bật Lên Thể Nhìn Thấy"
+
+#: inc/class-razzi-breadcrumbs.php:105 inc/class-razzi-breadcrumbs.php:165
+msgid "Portfolio"
+msgstr "Danh mục đầu tư"
+
+#: inc/class-razzi-options.php:2359
+#: inc/woocommerce/class-razzi-woo-customizer.php:388
+msgid "Position"
+msgstr "Vị trí"
+
+#: inc/class-razzi-helper.php:88
+msgid "post"
+msgstr "bài"
+
+#. %s: post author.
+#: inc/blog/class-razzi-blog-post.php:263
+#, php-format
+msgctxt "post author"
+msgid " by %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/class-razzi-helper.php:488
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Đăng trong %1$s"
+
+#: inc/class-razzi-helper.php:88
+msgid "posts"
+msgstr "bài"
+
+#: inc/libs/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Đóng Gói Sẵn"
+
+#: inc/class-razzi-options.php:380 inc/class-razzi-options.php:712
+#: template-parts/preloader/preloader.php:27
+msgid "Preloader"
+msgstr "Nạp trước"
+
+#: inc/class-razzi-options.php:731
+msgid "Preloader Image"
+msgstr "Nạp Trước Ảnh"
+
+#: inc/class-razzi-options.php:749
+msgid "Preloader URL"
+msgstr "Nạp trước URL"
+
+#: woocommerce/myaccount/orders.php:108
+msgid "Previous"
+msgstr "Trước đó"
+
+#: inc/woocommerce/class-razzi-woo-modules-wishlist.php:133
+msgid "Price"
+msgstr "Giá"
+
+#: inc/class-razzi-options.php:2344
+msgid "Primary Color"
+msgstr "Chính Màu"
+
+#: inc/class-razzi-header.php:738 inc/class-razzi-options.php:171
+#: inc/class-razzi-options.php:197 inc/class-razzi-options.php:443
+#: inc/class-razzi-setup.php:102 inc/class-razzi-topbar.php:270
+#: inc/admin/class-razzi-admin-meta-boxes.php:198
+msgid "Primary Menu"
+msgstr "Chính Menu"
+
+#: inc/class-razzi-options.php:1596
+msgid "Primary Menu Color"
+msgstr "Chính Đơn Màu"
+
+#: inc/class-razzi-options.php:1616
+msgid "Primary Menu Hover Color"
+msgstr "Chính Đơn Di Màu"
+
+#: template-parts/navigation-bar/add-to-checkout.php:21
+msgid "Proceed to checkout"
+msgstr "Tiến hành kiểm tra"
+
+#: woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: inc/class-razzi-helper.php:91
+msgid "product"
+msgstr "sản phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:499
+#: inc/woocommerce/class-razzi-woo-settings-product.php:294
+msgid "Product Attribute"
+msgstr "Sản Phẩm Thuộc Tính"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:514
+msgid "Product Attribute In"
+msgstr "Sản Phẩm Thuộc Tính"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:536
+#: inc/woocommerce/class-razzi-woo-settings-product.php:304
+msgid "Product Attribute Number"
+msgstr "Sản Phẩm Thuộc Tính Số"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:141
+msgid "Product Background Color"
+msgstr "Nền Sản Phẩm Màu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1343
+msgid "Product Badges"
+msgstr "Sản Phẩm Phù Hiệu"
+
+#: inc/class-razzi-options.php:614
+#: inc/woocommerce/class-razzi-woo-customizer.php:69
+msgid "Product Catalog"
+msgstr "Mục Sản Phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2346
+msgid ""
+"Product categories. Enter category names, separate by commas. Leave empty to "
+"get all categories. Enter a number to get limit number of top categories."
+msgstr ""
+"Sản phẩm loại. Nhập mục tên riêng của dấu phẩy. Bỏ trống để có được tất cả "
+"các loại. Nhập một số để có được giới hạn số loại hàng đầu."
+
+#: inc/class-razzi-options.php:7068
+msgid "Product Columns"
+msgstr "Sản Phẩm Cột"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:910
+msgid "Product Content Width"
+msgstr "Sản Phẩm Rộng Nội Dung"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2389
+#: inc/woocommerce/class-razzi-woo-customizer.php:2613
+msgid "Product Counts"
+msgstr "Sản Phẩm Đếm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2419
+msgid "Product Filter"
+msgstr "Sản Phẩm Lọc"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:278
+msgid "Product hover animation."
+msgstr "Sản phẩm di động."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:147
+#: inc/woocommerce/class-razzi-woo-customizer.php:895
+msgid "Product Layout"
+msgstr "Sản Phẩm Bố Trí"
+
+#: inc/class-razzi-options.php:7030
+#: inc/woocommerce/class-razzi-woo-customizer.php:102
+msgid "Product Loop"
+msgstr "Sản Phẩm Lặp"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:277
+msgid "Product Loop Hover"
+msgstr "Sản Phẩm Vòng Di"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:238
+msgid "Product Loop Layout"
+msgstr "Sản Phẩm Vòng Bố Trí"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1111
+msgid "Product Meta"
+msgstr "Sản Phẩm Siêu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1487
+msgid "Product Newness"
+msgstr "Sản Phẩm Mới Mẻ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:111
+msgid "Product Notifications"
+msgstr "Sản Phẩm Thông Báo"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:129
+msgid "Product Qty"
+msgstr "Sản Phẩm Số Lượng"
+
+#: woocommerce/global/quantity-input.php:44
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Sl"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:167
+#: inc/woocommerce/class-razzi-woo-customizer.php:1271
+msgid "Product Sharing"
+msgstr "Sản Phẩm Chia Sẻ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2514
+msgid "Product Sorting"
+msgstr "Sản Phẩm Sắp Xếp"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1151
+msgid "Product Tabs Position"
+msgstr "Sản Phẩm Tab Vị Trí"
+
+#: inc/class-razzi-options.php:7398
+#: inc/woocommerce/class-razzi-woo-customizer.php:1169
+msgid "Product Tabs Status"
+msgstr "Sản Phẩm Tab Tình Trạng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:369
+#: inc/woocommerce/class-razzi-woo-customizer.php:1002
+msgid "Product Taxonomy"
+msgstr "Sản Phẩm Phân Loại"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1016
+msgid "Product Taxonomy Type"
+msgstr "Sản Phẩm Loại Phân Loại"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1216
+msgid "Product Variable Style"
+msgstr "Sản Phẩm Biến Phong Cách"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:238
+msgid "Product Video"
+msgstr "Sản Phẩm Video"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:927
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: inc/class-razzi-helper.php:91
+msgid "products"
+msgstr "sản phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2589
+msgid "Products Count"
+msgstr "Sản Phẩm Đếm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2433
+msgid "Products Filter Open"
+msgstr "Sản Phẩm Lọc Mở"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2306
+msgid "Products Tabs"
+msgstr "Sản Phẩm Tab"
+
+#: inc/class-razzi-options.php:917
+msgid "Put your site into maintenance mode"
+msgstr "Đưa trang web của bạn vào chế độ bảo trì"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1733
+msgid "Qty Input"
+msgstr "Số Lượng Đầu Vào"
+
+#: woocommerce/cart/mini-cart.php:67
+msgid "QTY:"
+msgstr "Số LƯỢNG:"
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: inc/class-razzi-header.php:1127
+msgid "Quick Links"
+msgstr "Nhanh Chóng Liên Kết"
+
+#: inc/class-razzi-options.php:2784
+msgid "Quick links"
+msgstr "Nhanh chóng liên kết"
+
+#: inc/woocommerce/class-razzi-woo-template-product-loop.php:1283
+msgid "Quick Shop"
+msgstr "Cửa Hàng Nhanh"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:251
+msgid "Quick Shop button"
+msgstr "Nhanh Cửa hàng nút"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:212
+#: inc/woocommerce/class-razzi-woo-customizer.php:317
+#: inc/woocommerce/class-razzi-woo-helper.php:285
+#: inc/woocommerce/class-razzi-woo-helper.php:287
+msgid "Quick View"
+msgstr "Xem Nhanh"
+
+#. %s: rating
+#: inc/woocommerce/class-razzi-woo-template-general.php:383
+#: inc/woocommerce/class-razzi-woo-template-product-loop.php:1438
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Bình %s trong số 5"
+
+#. 1: rating 2: rating count
+#: inc/woocommerce/class-razzi-woo-template-general.php:380
+#, php-format
+msgid "Rated %s out of 5 based on %s customer rating"
+msgstr "Bình %s trong số 5 dựa trên %s khách hàng đánh giá"
+
+#. 1: rating 2: rating count
+#: inc/woocommerce/class-razzi-woo-template-general.php:377
+#, php-format
+msgid "Rated %s out of 5 based on %s customer ratings"
+msgstr "Bình %s trong số 5 dựa trên %s đánh giá của khách hàng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:364
+msgid "Rating"
+msgstr "Đánh giá"
+
+#. Name of the theme
+msgid "Razzi"
+msgstr "Razzi"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:91
+msgid "Razzi Addons"
+msgstr "Razzi Vụ"
+
+#: inc/blog/class-razzi-blog-post-loop.php:150
+msgid "Read more"
+msgstr "Đọc nhiều"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:723
+msgid "Recent products"
+msgstr "Sản phẩm gần đây"
+
+#: inc/class-razzi-options.php:572 inc/class-razzi-options.php:6190
+#: inc/woocommerce/class-razzi-woo-modules-recently-viewed.php:223
+msgid "Recently Viewed"
+msgstr "Gần Đây Xem"
+
+#: inc/woocommerce/class-razzi-woo-modules-recently-viewed.php:115
+msgid ""
+"Recently Viewed Products is a function which helps you keep track of your "
+"recent viewing history."
+msgstr ""
+"Xem gần đây là một chức năng giúp anh theo dõi các bạn gần đây xem lịch sử."
+
+#: inc/libs/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Đề nghị"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:715
+msgid "Recommended Products"
+msgstr "Đề Nghị Sản Phẩm"
+
+#: inc/class-razzi-options.php:3887
+msgid "Reddit"
+msgstr "Tin tức"
+
+#: woocommerce/myaccount/form-login.php:64
+#: woocommerce/myaccount/form-login.php:98
+#: woocommerce/myaccount/form-login.php:98
+msgid "Register"
+msgstr "Đăng ký"
+
+#: inc/class-razzi-options.php:3906
+#: inc/blog/class-razzi-blog-related-posts.php:67
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:157
+msgid "Related Products"
+msgstr "Các sản phẩm tương tự"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:726
+msgid "Related products"
+msgstr "Các sản phẩm tương tự"
+
+#: template-parts/modals/account.php:34 woocommerce/myaccount/form-login.php:45
+msgid "Remember me"
+msgstr "Nhớ tôi"
+
+#: woocommerce/cart/cart.php:136 woocommerce/cart/mini-cart.php:85
+msgid "Remove"
+msgstr "Bỏ"
+
+#: woocommerce/cart/cart.php:131 woocommerce/cart/mini-cart.php:80
+msgid "Remove this item"
+msgstr "Bỏ mục này"
+
+#: inc/class-razzi-options.php:6010
+#: inc/admin/class-razzi-admin-meta-boxes.php:483
+msgid "Repeat"
+msgstr "Lặp lại"
+
+#: inc/class-razzi-options.php:6012
+#: inc/admin/class-razzi-admin-meta-boxes.php:485
+msgid "Repeat Horizontal"
+msgstr "Lặp Lại Ngang"
+
+#: inc/class-razzi-options.php:6011
+#: inc/admin/class-razzi-admin-meta-boxes.php:484
+msgid "Repeat Vertical"
+msgstr "Lặp Lại Theo Chiều Dọc"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2364
+#: inc/woocommerce/class-razzi-woo-customizer.php:2582
+msgid "Replace by sub-categories"
+msgstr "Thay thế bởi tiểu mục"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1687
+msgid "Replacement Badges"
+msgstr "Thay Thế Phù Hiệu"
+
+#: inc/libs/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Yêu cầu"
+
+#: inc/libs/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Yêu cầu Cập nhật không Có"
+
+#: inc/libs/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Yêu Cầu Cập Nhật"
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Reset password"
+msgstr "Lại mật khẩu"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:159
+#: inc/libs/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Trở về để bổ sung yêu Cầu Cài đặt"
+
+#: inc/libs/class-tgm-plugin-activation.php:393
+#: inc/libs/class-tgm-plugin-activation.php:912
+#: inc/libs/class-tgm-plugin-activation.php:2618
+#: inc/libs/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Quay trở lại Bảng điều khiển"
+
+#: inc/woocommerce/class-razzi-woo-elements-product-slider.php:176
+#: inc/woocommerce/class-razzi-woo-template-product-loop.php:1430
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "Review (%s)"
+msgid_plural "Reviews (%s)"
+msgstr[0] "Xét (%s)"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:411
+msgid "Review Counter"
+msgstr "Xét Quầy"
+
+#: inc/class-razzi-options.php:3391 inc/class-razzi-options.php:5971
+#: inc/class-razzi-options.php:7496
+#: inc/admin/class-razzi-admin-meta-boxes.php:462
+msgid "Right"
+msgstr "Đúng"
+
+#: inc/class-razzi-options.php:874
+msgid "Right after page loads"
+msgstr "Ngay sau khi tải trang"
+
+#: inc/class-razzi-options.php:1416 inc/class-razzi-options.php:1896
+#: inc/class-razzi-options.php:2025 inc/class-razzi-options.php:4148
+msgid "Right Items"
+msgstr "Mục Bên Phải"
+
+#: inc/class-razzi-options.php:3699 inc/class-razzi-options.php:3854
+#: inc/woocommerce/class-razzi-woo-customizer.php:927
+#: inc/woocommerce/class-razzi-woo-customizer.php:1784
+msgid "Right Sidebar"
+msgstr "Bên Phải"
+
+#: inc/woocommerce/class-razzi-woo-modules-badges.php:188
+msgid "Sale"
+msgstr "Bán"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1372
+msgid "Sale Badge"
+msgstr "Huy Hiệu Bán"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2329
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:885
+msgid "Sale Products"
+msgstr "Đang giảm giá"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:724
+msgid "Sale products"
+msgstr "Bán sản phẩm"
+
+#: inc/class-razzi-options.php:6030
+#: inc/admin/class-razzi-admin-meta-boxes.php:494
+msgid "Scroll"
+msgstr "Di chuyển"
+
+#: inc/class-razzi-options.php:6347
+#: inc/woocommerce/class-razzi-woo-customizer.php:1263
+msgid "Scrollbar"
+msgstr "Cuộn"
+
+#: inc/class-razzi-options.php:223 inc/class-razzi-options.php:423
+#: template-parts/modals/search.php:20
+#: template-parts/navigation-bar/search.php:11
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: inc/class-razzi-options.php:2664
+msgid "Search For"
+msgstr "Tìm Kiếm"
+
+#: inc/class-razzi-options.php:2668
+msgid "Search for everything"
+msgstr "Tìm tất cả mọi thứ"
+
+#: template-parts/headers/search.php:12 template-parts/headers/search.php:17
+#: template-parts/mobile/header-panel-search.php:13
+#: template-parts/search-form/form-modal.php:45
+msgid "Search for items"
+msgstr "Tìm kiếm các mặt hàng"
+
+#: inc/class-razzi-options.php:2669
+msgid "Search for products"
+msgstr "Tìm cho sản phẩm"
+
+#: inc/class-razzi-options.php:2703
+msgid "Search Form"
+msgstr "Tìm Kiếm Thức"
+
+#: inc/class-razzi-options.php:2654
+msgid "Search Form Type"
+msgstr "Tìm Kiếm Kiểu Mẫu"
+
+#: inc/class-razzi-header.php:741 inc/class-razzi-header.php:768
+#: inc/class-razzi-options.php:174 inc/class-razzi-options.php:246
+msgid "Search Icon"
+msgstr "Biểu Tượng Tìm Kiếm"
+
+#: inc/class-razzi-options.php:2587
+msgid "Search Layout"
+msgstr "Bố Trí Tìm Kiếm"
+
+#: template-parts/modals/search.php:18
+msgid "Search Products"
+msgstr "Sản Phẩm Tìm Kiếm"
+
+#: inc/class-razzi-breadcrumbs.php:103
+msgid "Search results for"
+msgstr "Kết quả tìm kiếm cho"
+
+#: inc/class-razzi-page-header.php:96
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Kết Quả tìm kiếm: %s"
+
+#: inc/class-razzi-modules-search-ajax.php:106
+msgid "Search Results:"
+msgstr "Kết Quả Tìm Kiếm:"
+
+#: inc/class-razzi-options.php:2627
+msgid "Search Skin"
+msgstr "Tìm Kiếm Da"
+
+#: inc/class-razzi-options.php:2605
+msgid "Search Style"
+msgstr "Tìm Kiếm Phong Cách"
+
+#: inc/class-razzi-header.php:739 inc/class-razzi-options.php:172
+#: inc/class-razzi-setup.php:103 inc/class-razzi-topbar.php:271
+msgid "Secondary Menu"
+msgstr "Trung Thực Đơn"
+
+#: inc/class-razzi-options.php:1677
+msgid "Select a default header or custom header"
+msgstr "Chọn một định đầu chỉnh tiêu đề"
+
+#: inc/class-razzi-header.php:736 inc/class-razzi-options.php:169
+msgid "Select a item"
+msgstr "Chọn một mục"
+
+#: inc/class-razzi-options.php:3952
+msgid "Select and order footer contents"
+msgstr "Chọn và đặt chân dung"
+
+#: inc/class-razzi-options.php:118
+#: inc/woocommerce/class-razzi-woo-customizer.php:2701
+msgid "Select Category"
+msgstr "Chọn Loại"
+
+#: inc/class-razzi-options.php:3697 inc/class-razzi-options.php:3852
+msgid "Select default sidebar for the single post page."
+msgstr "Chọn định bên cho các trang bài duy nhất."
+
+#: inc/class-razzi-options.php:7618
+msgid "Select Menu"
+msgstr "Chọn Menu"
+
+#: inc/class-razzi-options.php:4018
+msgid "Select number of columns for displaying widgets"
+msgstr "Chọn số cột cho hiển thị vật dụng"
+
+#: inc/class-razzi-options.php:3776
+msgid "Select product categories you want to show."
+msgstr "Chọn sản phẩm loại bạn muốn thể hiện."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1277
+msgid "Select social media for sharing products"
+msgstr "Chọn xã hội để chia sẻ sản phẩm"
+
+#: inc/class-razzi-options.php:924
+msgid "Select the correct mode for your site"
+msgstr "Chọn chế độ chính xác của web"
+
+#: inc/class-razzi-options.php:3971
+msgid "Select the width of footer container"
+msgstr "Chọn rộng chân container"
+
+#: inc/class-razzi-options.php:871
+msgid "Select when the popup appear"
+msgstr "Chọn khi bật lên xuất hiện"
+
+#: inc/class-razzi-options.php:5708 inc/class-razzi-options.php:6095
+#: inc/class-razzi-options.php:6510 inc/class-razzi-options.php:6543
+#: inc/class-razzi-options.php:7339
+#: inc/woocommerce/class-razzi-woo-customizer.php:1975
+msgid "Select which elements you want to show."
+msgstr "Chọn các yếu tố mà bạn muốn thể hiện."
+
+#: inc/woocommerce/class-razzi-woo-template-single-product.php:461
+msgid "Share:"
+msgstr "Chia sẻ:"
+
+#: woocommerce/order/order-details-customer.php:58
+msgid "Shipping address"
+msgstr "Địa chỉ vận chuyển"
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr "Chi phí vận chuyển có tính toán trong thanh toán."
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr "Tùy chọn vận chuyển sẽ được cập nhật trong thanh toán."
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:51
+msgid "Shipping to"
+msgstr "Chuyển đến"
+
+#: inc/woocommerce/class-razzi-woo-elements-product-listing.php:99
+#: inc/woocommerce/class-razzi-woo-modules-recently-viewed.php:117
+msgid "Shop Now"
+msgstr "Mua hàng ngay"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:543
+msgid "Show"
+msgstr "Show"
+
+#: inc/class-razzi-options.php:769
+msgid "Show a newsletter popup after website loaded."
+msgstr "Show một bản tin sổ sau khi trang web nạp."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1004
+msgid "Show a taxonomy above the product title"
+msgstr "Hiện một phân loại trên các sản phẩm tiêu đề"
+
+#: inc/class-razzi-options.php:682
+msgid "Show a waiting screen when page is loading"
+msgstr "Cho một màn hình chờ đợi khi trang đang tải"
+
+#: inc/class-razzi-options.php:7054
+msgid "Show Add To Cart Button"
+msgstr "Cho Thêm Vào Giỏ Hàng Nút"
+
+#: inc/class-razzi-options.php:1445 inc/class-razzi-options.php:3379
+#: inc/class-razzi-options.php:3437
+msgid "Show Arrow Icon"
+msgstr "Chương Trình Biểu Tượng Mũi Tên"
+
+#: inc/class-razzi-options.php:6886
+msgid "Show back icon in the inner pages"
+msgstr "Quay lại biểu tượng trong trang bên trong"
+
+#: inc/class-razzi-options.php:3460 inc/class-razzi-options.php:6975
+msgid "Show Copyright"
+msgstr "Show Bản Quyền"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:848
+msgid "Show Cross-Sells Products"
+msgstr "Show Cross-Bán Sản Phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:567
+msgid "Show Description"
+msgstr "Chương Trình Mô Tả"
+
+#: inc/class-razzi-options.php:3417 inc/class-razzi-options.php:7536
+msgid "Show Menu"
+msgstr "Cho Thực Đơn"
+
+#: inc/class-razzi-options.php:6878
+msgid "Show Menu Left"
+msgstr "Chương Trình Đơn Trái"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:306
+msgid "Show number of the product attribute in the product card"
+msgstr "Cho số của các sản phẩm thuộc tính trong các sản phẩm thẻ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2166
+#: inc/woocommerce/class-razzi-woo-customizer.php:2575
+msgid "Show on Category Page"
+msgstr "Hiển thị trên Trang Mục"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2159
+#: inc/woocommerce/class-razzi-woo-customizer.php:2529
+msgid "Show on Shop Page"
+msgstr "Hiển thị trên Cửa hàng "
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:503
+msgid "Show product attribute in the product loop"
+msgstr "Chương trình sản phẩm thuộc tính trong các sản phẩm lặp"
+
+#: inc/class-razzi-options.php:6963
+msgid "Show Search"
+msgstr "Cho Tìm Kiếm"
+
+#: inc/class-razzi-options.php:3448 inc/class-razzi-options.php:6969
+msgid "Show Socials"
+msgstr "Chương Trình Xã Hội Chủ Nghĩa"
+
+#: inc/class-razzi-options.php:3427 inc/class-razzi-options.php:6953
+#: inc/class-razzi-options.php:7546
+msgid "Show Sub-Menus"
+msgstr "Cho Thực Đơn"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1841
+#: inc/woocommerce/class-razzi-woo-customizer.php:2495
+msgid "Show the content"
+msgstr "Hiển thị các nội dung"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:296
+msgid "Show the product attribute in the product card"
+msgstr "Hiển thị các sản phẩm thuộc tính trong các sản phẩm thẻ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1235
+msgid "Show Upsells Products"
+msgstr "Show Upsells Sản Phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:455
+msgid "Show Variations"
+msgstr "Chương Trình Biến Đổi"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:468
+msgid "Show Variations With AJAX"
+msgstr "Chương trình Biến đổi Với AJAX"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:539
+msgid "Show/hide a divide line on top of the footer"
+msgstr "Một chia đường trên đầu của chân"
+
+#: inc/class-razzi-helper.php:95
+msgid "Showing"
+msgstr "Hiển thị"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2280
+msgid "Showing Result"
+msgstr "Kết Quả Cho Thấy"
+
+#: inc/class-razzi-options.php:3422 inc/class-razzi-options.php:7541
+msgid "Side to left"
+msgstr "Bên trái"
+
+#: inc/class-razzi-options.php:3421 inc/class-razzi-options.php:7540
+msgid "Side to right"
+msgstr "Bên phải"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:923
+#: inc/woocommerce/class-razzi-woo-customizer.php:1780
+msgid "Sidebar"
+msgstr "Bên"
+
+#: template-parts/modals/account.php:45
+msgid "Siging in..."
+msgstr "Ký kết trong..."
+
+#: template-parts/modals/account.php:10 template-parts/modals/account.php:44
+#: template-parts/modals/account.php:46
+msgid "Sign in"
+msgstr "Đừng trong"
+
+#: template-parts/modals/account.php:93
+msgid "Sign up"
+msgstr "Đăng ký"
+
+#: template-parts/modals/account.php:46
+msgid "Signed In"
+msgstr "Đã Ký Vào"
+
+#: inc/class-razzi-options.php:7453
+#: inc/woocommerce/class-razzi-woo-customizer.php:247
+#: inc/woocommerce/class-razzi-woo-customizer.php:708
+msgid "Simple"
+msgstr "Đơn giản"
+
+#: inc/class-razzi-options.php:7454
+msgid "Simple Adaptive"
+msgstr "Đơn Giản Thích Nghi"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:519
+msgid "Simple Product"
+msgstr "Sản Phẩm Đơn Giản"
+
+#: inc/class-razzi-options.php:610
+msgid "Single Blog"
+msgstr "Blog Duy Nhất"
+
+#: inc/class-razzi-options.php:490
+msgid "Single Post"
+msgstr "Bài Duy Nhất"
+
+#: inc/class-razzi-options.php:618 inc/class-razzi-options.php:6232
+#: inc/woocommerce/class-razzi-woo-customizer.php:74
+msgid "Single Product"
+msgstr "Sản Phẩm Duy Nhất"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:107
+msgid "Single Product Extra Content"
+msgstr "Sản Phẩm Đơn Thêm Nội Dung"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:97
+msgid "Single Product Sidebar"
+msgstr "Sản Phẩm Duy Nhất Bên"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1116
+msgid "Sku"
+msgstr "Mã"
+
+#: woocommerce/single-product/meta.php:36
+msgid "SKU:"
+msgstr "MÃ:"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:284
+msgid "Slider"
+msgstr "Trượt"
+
+#: inc/class-razzi-setup.php:105
+msgid "Social Menu"
+msgstr "Xã Hội Menu"
+
+#: inc/class-razzi-footer.php:113 inc/class-razzi-header.php:749
+#: inc/class-razzi-options.php:155 inc/class-razzi-options.php:182
+#: inc/class-razzi-options.php:200 inc/class-razzi-topbar.php:274
+msgid "Socials"
+msgstr "Xã hội chủ nghĩa"
+
+#: inc/class-razzi-options.php:3877
+msgid "Socials List"
+msgstr "Xã Hội Chủ Danh Sách"
+
+#: inc/class-razzi-options.php:3868
+msgid "Socials Share"
+msgstr "Xã Hội Chủ Chia Sẻ"
+
+#: inc/woocommerce/class-razzi-woo-modules-badges.php:143
+msgid "Sold Out"
+msgstr "Bán Hết"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1611
+msgid "Sold Out Badge"
+msgstr "Được Bán Ra Huy Hiệu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:253
+msgid "Solid Border"
+msgstr "Rắn Biên Giới"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:148
+#: inc/libs/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Một cái gì đó đã đi sai với việc cắm CHÍNH."
+
+#: template-parts/content/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, nhưng không có gì phù hợp với bạn. Hãy cố gắng một lần nữa với một "
+"số khác nhau, từ khóa."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:154
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Xin lỗi, nhưng anh không có quyền chính xác để kích hoạt các %s cắm. Liên hệ "
+"với quản trị của trang web này cho giúp về việc cắm kích hoạt."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:151
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Xin lỗi, nhưng anh không có quyền chính xác đến cài đặt %s cắm. Liên hệ với "
+"quản trị của trang web này cho giúp về việc cắm cài đặt."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:156
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Xin lỗi, nhưng anh không có quyền chính xác để cập nhật các %s cắm. Liên hệ "
+"với quản trị của trang web này cho giúp về việc cắm cập nhật."
+
+#: 404.php:18
+msgid ""
+"Sorry, we couldn&rsquo;t find the page you where looking for. We suggest "
+"that you return to homepage."
+msgstr ""
+"Xin lỗi, chúng tôi không thể tìm thấy trang bạn mà tìm kiếm. Chúng tôi đề "
+"nghị anh quay trở lại chủ."
+
+#: inc/libs/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/class-razzi-options.php:3389
+msgid "Space Between"
+msgstr "Không Gian Giữa"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:186
+#: inc/admin/class-razzi-admin-meta-boxes.php:213
+#: inc/admin/class-razzi-admin-meta-boxes.php:310
+msgid "Spacing"
+msgstr "Khoảng cách"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:871
+msgid ""
+"Specify how many numbers of Cross-Sells products you want to show on product "
+"cart page"
+msgstr ""
+"Xác định có bao nhiêu số của Cross-Bán sản phẩm bạn muốn cho sản phẩm trên "
+"trang giỏ"
+
+#: inc/class-razzi-options.php:6324 inc/class-razzi-options.php:6339
+msgid ""
+"Specify how many numbers of recently viewed products you want to show on page"
+msgstr ""
+"Xác định có bao nhiêu con số của các sản phẩm vừa xem bạn muốn thể hiện trên "
+"trang"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1254
+msgid ""
+"Specify how many numbers of up-sells products you want to show on single "
+"product page"
+msgstr ""
+"Xác định có bao nhiêu số của lên-bán sản phẩm bạn muốn thể hiện trên trang "
+"sản phẩm duy nhất"
+
+#: inc/class-razzi-options.php:7455
+msgid "Standard"
+msgstr "Chuẩn"
+
+#: inc/class-razzi-options.php:7456
+msgid "Standard Adaptive"
+msgstr "Chuẩn Thích Nghi"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:254
+msgid "Standard button"
+msgstr "Chuẩn nút"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:248
+msgid "Standard button ( Solid Border )"
+msgstr "Chuẩn nút ( Rắn Biên giới )"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:252
+msgid "Standard button on hover"
+msgstr "Chuẩn nút trên di"
+
+#: inc/libs/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Tình trạng"
+
+#: woocommerce/myaccount/orders.php:50 woocommerce/order/order-details.php:65
+msgid "Status:"
+msgstr "Tình trạng:"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:152
+#: inc/woocommerce/class-razzi-woo-customizer.php:1191
+msgid "Sticky Add To Cart"
+msgstr "Dính Thêm Vào Giỏ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1199
+msgid "Sticky Bar Position"
+msgstr "Thanh Chú Ý Vị Trí"
+
+#: inc/class-razzi-options.php:1811
+msgid "Sticky Header"
+msgstr "Tiêu Đề Dính"
+
+#: inc/class-razzi-options.php:1828
+msgid "Sticky Header Elements"
+msgstr "Chú Ý Tiêu Đề Yếu Tố"
+
+#: inc/class-razzi-options.php:1945 inc/class-razzi-options.php:2074
+msgid "Sticky Header Height"
+msgstr "Chú Ý Tiêu Đề Cao"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1861
+msgid "Sticky Sidebar"
+msgstr "Dính Bên"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1129
+#: inc/woocommerce/class-razzi-woo-modules-wishlist.php:140
+msgid "Stock"
+msgstr "Cổ phiếu"
+
+#: inc/class-razzi-options.php:1138
+msgid "Sub-Menu"
+msgstr "Sub-Menu"
+
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:63
+msgid "Subtotal"
+msgstr "Tổng"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:101
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:283
+msgid "Successfully added to your cart."
+msgstr "Thêm thành công vào giỏ hàng của bạn."
+
+#: inc/class-razzi-options.php:2456 inc/class-razzi-options.php:4296
+msgid "SVG"
+msgstr "BONNIE"
+
+#: inc/class-razzi-options.php:3254 inc/class-razzi-options.php:3480
+msgid "SVG Code"
+msgstr "BONNIE Mã"
+
+#: inc/class-razzi-options.php:6403
+msgid "SVG code"
+msgstr "BONNIE mã"
+
+#: woocommerce/single-product/meta.php:50
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Thẻ:"
+
+#. 1: list of tags.
+#: inc/class-razzi-helper.php:495
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Được dán %1$s"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1117
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:363
+msgid "Taxonomy"
+msgstr "Phân loại"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:192
+#: inc/woocommerce/class-razzi-woo-customizer.php:2201
+msgid "Taxonomy Description"
+msgstr "Mô Tả Phân Loại"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2227
+msgid "Taxonomy Description HTML"
+msgstr "Mô Tả phân loại HTML"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2208
+msgid "Taxonomy Description Position"
+msgstr "Phân Loại Mô Tả Vị Trí"
+
+#: inc/class-razzi-options.php:3888
+#: inc/woocommerce/class-razzi-woo-customizer.php:1290
+msgid "Telegram"
+msgstr "Bức điện"
+
+#: inc/class-razzi-options.php:7126
+#: inc/woocommerce/class-razzi-woo-customizer.php:2140
+msgid "Template"
+msgstr "Mẫu"
+
+#: inc/class-razzi-options.php:2424 inc/class-razzi-options.php:2457
+#: inc/class-razzi-options.php:2803 inc/class-razzi-options.php:3519
+#: inc/class-razzi-options.php:4297
+#: inc/woocommerce/class-razzi-woo-customizer.php:1387
+#: inc/woocommerce/class-razzi-woo-customizer.php:1401
+#: inc/woocommerce/class-razzi-woo-customizer.php:1474
+#: inc/woocommerce/class-razzi-woo-customizer.php:1556
+#: inc/woocommerce/class-razzi-woo-customizer.php:1622
+msgid "Text"
+msgstr "Văn bản"
+
+#: inc/class-razzi-options.php:1547 inc/class-razzi-options.php:2171
+#: inc/class-razzi-options.php:2266 inc/class-razzi-options.php:2870
+#: inc/class-razzi-options.php:3116 inc/class-razzi-options.php:3207
+#: inc/class-razzi-options.php:3322 inc/class-razzi-options.php:3607
+#: inc/class-razzi-options.php:4771 inc/class-razzi-options.php:4885
+#: inc/class-razzi-options.php:5328 inc/class-razzi-options.php:5451
+#: inc/class-razzi-options.php:5600
+#: inc/woocommerce/class-razzi-woo-customizer.php:649
+msgid "Text Color"
+msgstr "Màu Chữ"
+
+#: inc/class-razzi-options.php:5066
+msgid "Text Field Background Color"
+msgstr "Văn Bản Lĩnh Vực Màu Nền"
+
+#: inc/class-razzi-options.php:5123
+msgid "Text Field Color"
+msgstr "Văn Bản Lĩnh Vực Màu"
+
+#: inc/class-razzi-options.php:5097
+msgid "Text Field Placehoder Color"
+msgstr "Văn Bản Lĩnh Vực Placehoder Màu"
+
+#: inc/class-razzi-options.php:1571 inc/class-razzi-options.php:2195
+#: inc/class-razzi-options.php:2294 inc/class-razzi-options.php:4792
+#: inc/class-razzi-options.php:4911 inc/class-razzi-options.php:5354
+#: inc/class-razzi-options.php:5477 inc/class-razzi-options.php:5626
+msgid "Text Hover Color"
+msgstr "Văn Bản Di Màu"
+
+#: inc/class-razzi-options.php:2894
+msgid "Text Placeholder Color"
+msgstr "Văn Bản Giữ Chỗ Màu"
+
+#. %s: version number
+#: inc/libs/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-razzi-options.php:1475 inc/class-razzi-options.php:1505
+#: inc/class-razzi-options.php:6426
+msgid "The content of Custom Text item"
+msgstr "Các nội dung của Tùy Văn bản mục"
+
+#: inc/class-razzi-options.php:3648 inc/class-razzi-options.php:4264
+msgid "The content of the Custom Text item"
+msgstr "Các nội dung của các Tùy Văn bản mục"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:155
+#: inc/libs/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Sau cắm cần được cập nhật của nó phiên bản mới nhất để bảo đảm tương thích "
+"tối đa với chủ đề này: %1$s."
+
+#: inc/libs/class-tgm-plugin-activation.php:395
+#: inc/libs/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "Sau cắm đã kích hoạt thành công:"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:153
+#: inc/libs/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Sau nên cắm là hiện đang hoạt động: %1$s."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:152
+#: inc/libs/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Sau cần thiết cắm là hiện đang hoạt động: %1$s."
+
+#: inc/libs/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Cài đặt và kích hoạt quá trình bắt đầu. Quá trình này có thể mất một trong "
+"khi trên một số máy, vì vậy hãy kiên nhẫn."
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Cài đặt %1$s thất bại."
+
+#: inc/libs/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt, đang bắt đầu. Quá trình này có thể mất một trong khi trên "
+"một số máy, vì vậy hãy kiên nhẫn."
+
+#: inc/class-razzi-page-header.php:102
+msgid "The Latest Posts"
+msgstr "Các Bài Viết Mới"
+
+#: inc/class-razzi-options.php:3662
+msgid "The layout of blog posts"
+msgstr "Bố trí các bài viết blog"
+
+#: inc/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Điều khiển từ xa cắm gói bao gồm nhiều hơn một tập tin, nhưng các tập tin "
+"được không đóng gói trong thư mục."
+
+#: inc/libs/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Điều khiển từ xa cắm gói không chứa một mục với mong muốn sên và tên đã "
+"không làm việc."
+
+#: inc/class-razzi-options.php:1461 inc/class-razzi-options.php:1491
+#: inc/class-razzi-options.php:6405
+msgid "The SVG before your text"
+msgstr "Các BONNIE trước khi văn bản của bạn"
+
+#: inc/class-razzi-options.php:891
+msgid ""
+"The time (in seconds) before the popup is displayed, after the page loaded."
+msgstr ""
+"Thời gian (trong giây) trước khi bật lên được hiển thị, sau khi trang nạp."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:336
+#, php-format
+msgid "There are %s items in your cart"
+msgstr "Có %s mục trong giỏ hàng của bạn"
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"Không có tùy chọn vận chuyển, sẵn có. Hãy đảm bảo rằng địa chỉ của bạn đã "
+"được nhập chính xác, hoặc liên lạc với chúng tôi nếu anh cần giúp đỡ."
+
+#: inc/libs/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Có một hoặc hơn cần thiết hoặc đề nghị bổ sung để cài đặt, cập nhật hoặc "
+"kích hoạt."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:338
+#, php-format
+msgid "There is %s item in your cart"
+msgstr "Đó là %s mục trong giỏ hàng của bạn"
+
+#: inc/libs/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Đó là một bản cập nhật cho sẵn: %1$s."
+
+#: inc/class-razzi-options.php:804
+msgid ""
+"This image will be used as background of the popup if the layout is 1 Column"
+msgstr "Hình ảnh này sẽ được dùng làm nền của bật lên nếu bố trí là 1 Cột"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2209
+msgid ""
+"This option works with the taxonomy such as product category, tag, brand..."
+msgstr ""
+"Này tùy chọn làm việc với các phân loại như sản phẩm loại, nhãn hiệu..."
+
+#: inc/libs/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Này cắm cần được cập nhật được tương thích với chủ đề của bạn."
+
+#: woocommerce/loop/add-to-cart-variable.php:26
+#: woocommerce/single-product/add-to-cart/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "Sản phẩm này hiện tại của cổ phiếu và không có."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:150
+#: inc/libs/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Chủ đề này khuyến cáo sau đây cắm: %1$s."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:149
+#: inc/libs/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Chủ đề này đã yêu cầu như sau cắm: %1$s."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1080
+msgid "Thumbnail Numbers"
+msgstr "Con Số Nhỏ"
+
+#: inc/class-razzi-options.php:3805 inc/class-razzi-options.php:3919
+#: inc/class-razzi-options.php:4610 inc/class-razzi-options.php:5706
+#: inc/class-razzi-options.php:6093 inc/class-razzi-options.php:6272
+#: inc/class-razzi-options.php:6508 inc/class-razzi-options.php:6541
+#: inc/class-razzi-options.php:7337
+#: inc/woocommerce/class-razzi-woo-customizer.php:740
+#: inc/woocommerce/class-razzi-woo-customizer.php:1020
+#: inc/woocommerce/class-razzi-woo-customizer.php:1973
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/class-razzi-options.php:5790 inc/class-razzi-options.php:7206
+#: inc/woocommerce/class-razzi-woo-customizer.php:2088
+msgid "Title Color"
+msgstr "Tiêu Đề Màu"
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2250
+msgid "Toolbar Layout"
+msgstr "Thanh Công Cụ Bố Trí"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2275
+msgid "Toolbar Left"
+msgstr "Thanh Công Cụ Trái"
+
+#: inc/class-razzi-options.php:4071 inc/class-razzi-options.php:4207
+#: inc/class-razzi-options.php:4483 inc/class-razzi-options.php:4560
+#: inc/class-razzi-options.php:4665 inc/class-razzi-options.php:5989
+#: inc/admin/class-razzi-admin-meta-boxes.php:471
+#: inc/woocommerce/class-razzi-woo-customizer.php:1203
+msgid "Top"
+msgstr "Đầu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:962
+msgid "Top bar"
+msgstr "Trên quầy bar"
+
+#: inc/class-razzi-options.php:7355
+#: inc/woocommerce/class-razzi-woo-customizer.php:202
+msgid "Top Categories"
+msgstr "Loại Hàng Đầu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:725
+msgid "Top rated products"
+msgstr "Top sản phẩm"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:320
+msgid "Top Spacing"
+msgstr "Đầu Khoảng Cách"
+
+#: inc/class-razzi-options.php:387 inc/class-razzi-options.php:582
+#: inc/class-razzi-options.php:1333 inc/class-razzi-options.php:6361
+msgid "Topbar"
+msgstr "Topbar"
+
+#: inc/class-razzi-options.php:395
+msgid "Topbar Background"
+msgstr "Topbar Nền"
+
+#: inc/class-razzi-options.php:391
+msgid "Topbar Items"
+msgstr "Topbar Mục"
+
+#: inc/class-razzi-options.php:196
+msgid "Topbar Menu"
+msgstr "Đơn Topbar"
+
+#: woocommerce/checkout/review-order.php:110
+msgid "Total"
+msgstr "Tổng"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:156
+msgid "Transparent"
+msgstr "Trong suốt"
+
+#: inc/class-razzi-options.php:3884
+#: inc/woocommerce/class-razzi-woo-customizer.php:1289
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/class-razzi-options.php:3882
+#: inc/woocommerce/class-razzi-woo-customizer.php:1286
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/libs/class-tgm-plugin-activation.php:2634
+#: inc/woocommerce/class-razzi-woo-customizer.php:1383
+msgid "Type"
+msgstr "Loại"
+
+#: inc/class-razzi-options.php:272
+msgid "Typography"
+msgstr "Chữ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1155
+msgid "Under Product Gallery"
+msgstr "Dưới Phòng Trưng Bày Sản Phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1156
+msgid "Under Product Summary"
+msgstr "Theo Sản Phẩm Tóm Tắt"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1258
+msgid "Up-sells Products Navigation"
+msgstr "Lên-bán sản Phẩm Hướng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1250
+msgid "Up-sells Products Numbers"
+msgstr "Lên-bán sản Phẩm Số"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1243
+msgid "Up-sells Products Title"
+msgstr "Lên-bán sản Phẩm tiêu Đề"
+
+#: inc/libs/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Cập nhật"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: woocommerce/cart/cart.php:171
+msgid "Update cart"
+msgstr "Cập nhật giỏ"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:835
+msgid "Update Cart Automatically"
+msgstr "Cập Nhật Giỏ Hàng Tự Động"
+
+#: inc/libs/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Cập nhật khuyến khích"
+
+#: inc/libs/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Cần Cập Nhật"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cập nhật Cắm %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Cập nhật Cắm: %s"
+
+#: inc/libs/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Nâng cấp thông điệp từ cắm tác giả:"
+
+#: inc/class-razzi-options.php:717
+msgid "Upload custom image"
+msgstr "Lên tuỳ chỉnh hình ảnh"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:113
+#: inc/woocommerce/class-razzi-woo-settings-category.php:138
+#: inc/woocommerce/class-razzi-woo-settings-category.php:197
+#: inc/woocommerce/class-razzi-woo-settings-category.php:243
+#: inc/woocommerce/class-razzi-woo-settings-category.php:270
+#: inc/woocommerce/class-razzi-woo-settings-category.php:318
+msgid "Upload/Add Images"
+msgstr "Tải Lên/Thêm Hình Ảnh"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:162
+msgid "Upsells Products"
+msgstr "Upsells Sản Phẩm"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:727
+msgid "Upsells products"
+msgstr "Upsells sản phẩm"
+
+#: inc/class-razzi-options.php:2807
+msgid "URL"
+msgstr "URL"
+
+#: inc/class-razzi-options.php:6898
+msgid "Use a different logo on mobile"
+msgstr "Sử dụng một biểu tượng khác nhau trên điện thoại di động"
+
+#: inc/class-razzi-options.php:6996
+msgid "Use a different logo on mobile panel"
+msgstr "Sử dụng một biểu tượng khác nhau trên bảng điều khiển di động"
+
+#: inc/class-razzi-options.php:2659
+msgid "Use a shortcode"
+msgstr "Sử dụng một ngắn"
+
+#: inc/class-razzi-options.php:2658
+msgid "Use by the theme"
+msgstr "Sử dụng bởi những chủ đề"
+
+#: inc/class-razzi-options.php:1681
+msgid "Use pre-build header"
+msgstr "Sử dụng trước khi xây dựng đầu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1402
+msgid ""
+"Use {%} to display discount percentages, {$} to display discount amount."
+msgstr ""
+
+#: inc/class-razzi-setup.php:108
+msgid "User Logged Menu"
+msgstr "Dùng Đăng Nhập Đơn"
+
+#: template-parts/modals/account.php:20 template-parts/modals/account.php:67
+msgid "Username"
+msgstr "Tên"
+
+#: woocommerce/myaccount/form-login.php:73
+msgid "Username *"
+msgstr "Tên *"
+
+#: inc/woocommerce/class-razzi-woo-modules-login-ajax.php:115
+msgid "Username is required."
+msgstr "Tên là cần thiết."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:518
+msgid "Variable Product"
+msgstr "Sản Phẩm Biến"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2635
+#: inc/woocommerce/class-razzi-woo-customizer.php:2648
+msgid "Vendor Name"
+msgstr "Nhà Cung Cấp Tên"
+
+#: woocommerce/single-product/review-meta.php:38
+msgid "verified owner"
+msgstr "xác minh sở hữu"
+
+#: inc/libs/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:230
+msgid "Video Position"
+msgstr "Vị Trí Video"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:221
+msgid "Video Thumbnail"
+msgstr "Hình Thu Nhỏ"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:212
+msgid "Video URL"
+msgstr "Địa chỉ Video"
+
+#: woocommerce/add-to-wishlist-remove.php:62
+msgid "View &rsaquo;"
+msgstr "Xem \""
+
+#: inc/class-razzi-modules-search-ajax.php:102
+#: inc/woocommerce/class-razzi-woo-modules-recently-viewed.php:219
+msgid "View All"
+msgstr "Xem Tất Cả"
+
+#: inc/class-razzi-options.php:3792
+msgid "View All Text"
+msgstr "Xem Tất Cả Các Văn Bản"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:284
+msgid "View Cart"
+msgstr "Xem Giỏ"
+
+#: inc/woocommerce/class-razzi-woo-modules-mini-cart.php:169
+msgid "View cart"
+msgstr "Xem giỏ"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:316
+msgid "View Compare"
+msgstr "Xem So Sánh"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:304
+msgid "View Wishlist"
+msgstr "Xem Danh Sách Ưa Thích"
+
+#: inc/class-razzi-options.php:875
+msgid "Wait for seconds"
+msgstr "Chờ đợi giây"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:128
+msgid "WCBoost - Products Compare"
+msgstr "WCBoost - Sản Phẩm So Sánh"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:114
+msgid "WCBoost - Variation Swatches"
+msgstr "WCBoost - Biến Đổi Mẫu"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:121
+msgid "WCBoost - Wishlist"
+msgstr "WCBoost - Ưa Thích"
+
+#: inc/class-razzi-comments.php:162
+msgid "Website"
+msgstr "Trang web"
+
+#: inc/class-razzi-maintenance.php:78
+msgid "Website Under Maintenance"
+msgstr "Trang Web Dưới Bảo Trì"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1291
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1304
+msgid "WhatsApp Phone Number"
+msgstr "WhatsApp Số Điện Thoại"
+
+#: inc/class-razzi-options.php:1823 inc/class-razzi-options.php:3976
+#: inc/woocommerce/class-razzi-woo-customizer.php:916
+#: inc/woocommerce/class-razzi-woo-customizer.php:1767
+msgid "Wide"
+msgstr "Rộng"
+
+#: inc/class-razzi-options.php:1249
+msgid "Widget Title"
+msgstr "Tiêu Đề Phụ Tùng"
+
+#: inc/class-razzi-options.php:364
+msgid "Widgets"
+msgstr "Vật dụng"
+
+#: inc/class-razzi-options.php:225 inc/class-razzi-options.php:431
+#: inc/woocommerce/class-razzi-woo-customizer.php:318
+#: template-parts/navigation-bar/wishlist.php:33
+#: woocommerce/loop/add-to-wishlist.php:29
+msgid "Wishlist"
+msgstr "Danh sách ưa thích"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1034
+msgid "Wishlist button"
+msgstr "Danh sách ưa thích nút"
+
+#: inc/class-razzi-options.php:7574
+msgid "Wishlist Counter"
+msgstr "Danh Sách Ưa Thích Truy Cập"
+
+#: inc/class-razzi-header.php:743 inc/class-razzi-header.php:764
+#: inc/class-razzi-options.php:176 inc/class-razzi-options.php:242
+msgid "Wishlist Icon"
+msgstr "Danh Sách Ưa Thích Biểu Tượng"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:796
+msgid "Wishlist Notification Auto Hide"
+msgstr "Danh Sách Ưa Thích Thông Báo Động Ẩn"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:77
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:64
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/libs/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "Kho Lưu Trữ WordPress"
+
+#: inc/class-razzi-breadcrumbs.php:109
+msgid "Yearly:"
+msgstr "Hàng năm:"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1489
+msgid ""
+"You can also add the NEW badge to each product in the Advanced setting tab "
+"of them."
+msgstr ""
+"Bạn cũng có thể thêm huy hiệu MỚI đến từng sản phẩm trong nâng Cao thiết lập "
+"tab của họ."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:241
+#: inc/woocommerce/class-razzi-woo-template-cart.php:90
+msgid "You may also like"
+msgstr "Bạn cũng có thể như thế"
+
+#: template-parts/modals/cart.php:10
+msgid "Your Cart"
+msgstr "Giỏ Hàng Của Bạn"
+
+#: woocommerce/cart/mini-cart.php:126
+msgid "Your cart is empty"
+msgstr "Giỏ hàng của bạn là trống rỗng"
+
+#: inc/class-razzi-comments.php:240
+msgid "Your comment is awaiting moderation."
+msgstr "Phần mềm."
+
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Your Email *"
+msgstr "Email Của *"
+
+#: woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr "Đánh giá của bạn là chờ duyệt"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:286
+msgid "Zoom"
+msgstr "Phóng to"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1065
+msgid "Zooms in where your cursor is on the image"
+msgstr "Phóng to của bạn ở đâu trỏ vào những hình ảnh"

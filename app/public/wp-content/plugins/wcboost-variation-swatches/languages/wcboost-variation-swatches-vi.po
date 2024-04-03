@@ -1,0 +1,310 @@
+# Copyright (C) 2023 WCBoost
+# This file is distributed under the same license as the WCBoost - Variation Swatches plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WCBoost - Variation Swatches 1.0.15\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wcboost-variation-"
+"swatches\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-12-04T14:49:18+00:00\n"
+"PO-Revision-Date: 2024-03-28 10:41+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: wcboost-variation-swatches\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3"
+
+#. Plugin Name of the plugin
+msgid "WCBoost - Variation Swatches"
+msgstr "WCBoost - Biến Đổi Mẫu"
+
+#. Plugin URI of the plugin
+msgid ""
+"https://wcboost.com/plugin/product-variation-swatches/?utm_source=wp-"
+"plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Transform boring dropdown variants into attractive and intuitive swatches, "
+"improving user experience and simplifying product selection."
+msgstr ""
+"Biến nhàm chán thả xuống biến thành hấp dẫn và quan mẫu cải thiện kinh "
+"nghiệm sử dụng và đơn giản hóa phẩm lựa chọn."
+
+#. Author of the plugin
+msgid "WCBoost"
+msgstr "WCBoost"
+
+#. Author URI of the plugin
+msgid ""
+"https://wcboost.com/?utm_source=wp-plugins&utm_campaign=author-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+
+#. translators: %s is a datetime
+#: includes/admin/backup.php:80
+msgid ""
+"Found a backup of your attributes type. This backup was generated at %s."
+msgstr ""
+"Tìm thấy một bản sao lưu của bạn thuộc loại. Sao lưu này được tạo ra ở %s."
+
+#: includes/admin/backup.php:84
+msgid "Restore attributes"
+msgstr "Khôi phục thuộc tính"
+
+#: includes/admin/backup.php:85
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+#: includes/admin/backup.php:94
+msgid "All attribute types have been restored."
+msgstr "Tất cả các loại thuộc tính đã được phục hồi."
+
+#: includes/admin/backup.php:245 includes/admin/backup.php:259
+#: includes/customizer/customizer.php:44
+msgid "Variation Swatches"
+msgstr "Biến Đổi Mẫu"
+
+#: includes/admin/backup.php:246 includes/admin/backup.php:260
+msgid "Attributes Swatches"
+msgstr "Thuộc Mẫu"
+
+#. translators: %s: image URL
+#: includes/admin/backup.php:525
+msgid "Not able to attach \"%s\"."
+msgstr "Không thể để gắn \"%s\"."
+
+#. translators: %s: image URL
+#: includes/admin/backup.php:534
+msgid "Unable to use image \"%s\"."
+msgstr "Không thể sử dụng hình ảnh \"%s\"."
+
+#: includes/admin/product-data.php:72
+msgid "Select terms"
+msgstr "Chọn điều khoản"
+
+#: includes/admin/product-data.php:89
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#: includes/admin/product-data.php:90
+msgid "Select none"
+msgstr "Không có chọn"
+
+#: includes/admin/product-data.php:91
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: includes/admin/product-data.php:105
+msgid "Swatches"
+msgstr "Mẫu"
+
+#: includes/admin/product-data.php:152
+msgid "Click to toggle"
+msgstr "Nhấn để chuyển"
+
+#: includes/admin/product-data.php:163
+msgid "Type"
+msgstr "Loại"
+
+#. translators: %s is attribute default type
+#: includes/admin/product-data.php:165
+msgid "The default type is: %s"
+msgstr "Mặc định loại là: %s"
+
+#: includes/admin/product-data.php:167 includes/admin/product-data.php:182
+#: includes/admin/product-data.php:196
+msgid "Default"
+msgstr "Mặc định"
+
+#: includes/admin/product-data.php:178
+msgid "Shape"
+msgstr "Hình dạng"
+
+#. translators: %s is the default swatch shape
+#: includes/admin/product-data.php:180
+msgid "The default shape is: %s"
+msgstr "Mặc định hình dạng là: %s"
+
+#: includes/admin/product-data.php:193
+msgid "Size"
+msgstr "Kích thước"
+
+#: includes/admin/product-data.php:197
+msgid "Custom"
+msgstr "Tuỳ"
+
+#: includes/admin/product-data.php:203
+msgid "Width"
+msgstr "Chiều rộng"
+
+#: includes/admin/product-data.php:204
+msgid "Height"
+msgstr "Chiều cao"
+
+#: includes/admin/product-data.php:318
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: includes/admin/product-data.php:320
+msgid "Delete Image"
+msgstr "Xóa Hình Ảnh"
+
+#: includes/admin/product-data.php:321 includes/admin/term-meta.php:219
+msgid "Remove"
+msgstr "Bỏ"
+
+#: includes/admin/product-data.php:407
+msgid "Wrong request"
+msgstr "Sai yêu cầu"
+
+#: includes/admin/product-data.php:411
+msgid "Not enough data"
+msgstr "Không đủ dữ liệu"
+
+#: includes/admin/product-data.php:419
+msgid "Taxonomy is not exists"
+msgstr "Phân loại là không tồn tại"
+
+#: includes/admin/product-data.php:423
+msgid "This term is already exists"
+msgstr "Này, thuật ngữ là đã tồn tại"
+
+#: includes/admin/product-data.php:431
+msgid "Added successfully"
+msgstr "Thêm thành công"
+
+#: includes/admin/product-data.php:459
+msgid "Close dialog"
+msgstr "Đóng hộp thoại"
+
+#: includes/admin/product-data.php:462
+msgid "Add New Term"
+msgstr "Thêm Mới Hạn"
+
+#: includes/admin/product-data.php:466
+msgid "Name"
+msgstr "Tên"
+
+#: includes/admin/product-data.php:473 includes/admin/term-meta.php:94
+msgid "Color"
+msgstr "Màu sắc"
+
+#: includes/admin/product-data.php:477 includes/admin/term-meta.php:95
+msgid "Image"
+msgstr "Ảnh"
+
+#: includes/admin/product-data.php:479 includes/admin/term-meta.php:217
+msgid "Upload"
+msgstr "Tải lên"
+
+#: includes/admin/product-data.php:480
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/admin/product-data.php:484 includes/admin/term-meta.php:96
+msgid "Label"
+msgstr "Nhãn"
+
+#: includes/admin/product-data.php:494
+msgid "Add New"
+msgstr "Thêm Mới"
+
+#: includes/admin/settings.php:137
+msgid "Circle"
+msgstr "Vòng tròn"
+
+#: includes/admin/settings.php:138
+msgid "Rounded corners"
+msgstr "Góc tròn"
+
+#: includes/admin/settings.php:139
+msgid "Square"
+msgstr "Square"
+
+#: includes/admin/settings.php:146
+msgid "Theme Default"
+msgstr "Chủ Đề Định"
+
+#: includes/admin/term-meta.php:97
+msgid "Button"
+msgstr "Nút"
+
+#: includes/admin/term-meta.php:136 includes/admin/term-meta.php:162
+msgid "This data will be used for variation swatches of variable products."
+msgstr "Dữ liệu này sẽ được sử dụng để biến đổi mẫu của các sản phẩm biến."
+
+#: includes/admin/term-meta.php:177
+msgid "Swatches Color"
+msgstr "Ô Màu Sắc"
+
+#: includes/admin/term-meta.php:178 includes/admin/term-meta.php:214
+msgid "Swatches Image"
+msgstr "Mẫu Ảnh"
+
+#: includes/admin/term-meta.php:179
+msgid "Swatches Label"
+msgstr "Mẫu Nhãn"
+
+#: includes/admin/term-meta.php:215
+msgid "Use image"
+msgstr "Sử dụng hình ảnh"
+
+#: includes/compatibility.php:93
+msgid ""
+"WCBoost - Variation Swatches requires WooCommerce to work. Please install "
+"and activate WooCommerce before using this extension."
+msgstr ""
+"WCBoost - Biến đổi Mẫu yêu cầu WooCommerce để làm việc. Xin vui lòng cài đặt "
+"và kích hoạt WooCommerce trước khi sử dụng mở rộng này."
+
+#: includes/compatibility.php:108
+msgid ""
+"WCBoost - Variation Swatches (Free) has been automatically deactivated "
+"because you have installed the Pro version."
+msgstr ""
+"WCBoost - Biến đổi Mẫu (miễn Phí) đã được tự động ngừng hoạt động vì các bạn "
+"đã cài đặt phiên bản Chuyên nghiệp."
+
+#: includes/customizer/customizer.php:45
+msgid "Some of these options can be overidden in product data settings."
+msgstr ""
+"Một số trong những lựa chọn có thể được overidden trong dữ liệu sản phẩm "
+"thiết lập."
+
+#: includes/customizer/customizer.php:64
+msgid "Swatches Shape"
+msgstr "Mẫu Hình Dạng"
+
+#: includes/customizer/customizer.php:65
+msgid "Choose the shape style of variation swatches"
+msgstr "Chọn những hình dạng của biến đổi mẫu"
+
+#: includes/customizer/customizer.php:89
+msgid "Swatches Size"
+msgstr "Mẫu Kích Thước"
+
+#: includes/customizer/customizer.php:90
+msgid "Set the default size of variation swatches."
+msgstr "Đặt các kích thước mặc định của sự thay đổi mẫu."
+
+#: includes/customizer/customizer.php:110
+msgid "Enable tooltip"
+msgstr "Cho phép chú thích"
+
+#: includes/customizer/customizer.php:130
+msgid "Convert default dropdowns to buttons"
+msgstr "Chuyển đổi định thả xuống để nút"
+
+#: includes/customizer/customizer.php:150
+msgid "Show the selected attribute's label"
+msgstr "Hiển thị các lựa chọn của thuộc tính nhãn"
+
+#: includes/plugin.php:143
+msgid "Go Pro"
+msgstr "Đi Chuyên"
