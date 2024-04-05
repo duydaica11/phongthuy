@@ -96,7 +96,7 @@
 		if ( ! attributes.chosenCount ) {
 			self.$form.find( '.wcboost-variation-swatches__item' ).removeClass( 'selected disabled' ).data( 'disabled', false ).attr( 'tabindex', 0 );
 
-			return;
+			// return;
 		}
 
 		setTimeout( function() {
@@ -108,7 +108,7 @@
 					values = [];
 
 				$options.each( function( index, option ) {
-					if ( option.value !== '' ) {
+					if ( option.value !== '' && ! option.disabled ) {
 						values.push( option.value );
 					}
 				} );
@@ -231,7 +231,7 @@
 		init_compatibility();
 
 		// Support third-party plugins.
-		$( document.body ).on( 'init_variation_swatches.wcboost-variation-swatches', init_variation_swatches );
+		$( document.body ).on( 'init_variation_swatches.wcboost-variation-swatches, wc_variation_form.wcboost-variation-swatches', init_variation_swatches );
 
 		$( document.body ).trigger( 'wcboost_variation_swatches_initialized' );
 	} );

@@ -1,53 +1,122 @@
 === WCBoost - Variation Swatches ===
 Contributors: wcboost
-Tags: woocommerce, product attribute, product color, product size, variation swatches, variable products
-Tested up to: 6.4
-Stable tag: 1.0.15
+Tags: woocommerce, product attribute, product color, variation swatches, variable products
+Tested up to: 6.5
+Stable tag: 1.0.16
 Requires PHP: 7.0
 Requires at least: 4.5
 WC requires at least: 3.0.0
-WC tested up to: 8.3
+WC tested up to: 8.6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-
-Enhanced shopping experience with our WooCommerce Variation Swatches plugin. Say goodbye to boring dropdowns and upgrade them to aesthetically beautiful swatches that conveniently highlight product variants. Easily navigate options, explore variations, and make informed decisions, all while adding a touch of elegance to the online shopping journey.
+WCBoost – Variation Swatches is the ultimate plugin to display WooCommerce product variations in style.
 
 == Description ==
 
-WCBoost - Variation Swatches plugin provides a much nicer way to display variations of variable products. This plugin will help you to set the style for each attribute as color, image, label, or button. With this plugin, you can present product colors, sizes, styles, and many other things in a better way that is not supported by WooCommerce.
-This plugin only adds more options to show product variations with swatches. It doesn't touch the default drop-down style of WooCommerce.
+[WCBoost – Variation Swatches](https://wcboost.com/plugin/woocommerce-variation-swatches/) is a WooCommerce extension that enhances the appearance and functionality of variable products. By replacing the default dropdown menus with visually appealing swatches, this plugin allows customers to quickly view and select product variations such as colors, sizes, and styles at a glance.
 
-With a friendly and easy-to-use interface, you can add a default color, image, or label to each attribute on the attributes management page. It can also help you pick the right style for quick-add attributes right inside the editing product page.
+WCBoost Variation Swatches elevates your store’s aesthetic and simplifies the selection process for your customers. With this plugin, you can showcase your products in a way that’s not only pleasing to the eye but also intuitive to use.
 
-== Why store owners and developers choose this plugin ==
+[Live Demo](https://demo.wcboost.com/) | [Documentation](https://wcboost.com/docs-category/wcboost-variation-swatches/)
 
-This plugin truly cares about your website. It is not only developed to add functionality to your store but also to care about the performance, SEO score, and your customers. This plugin is carefully developed by experienced developers.
+Whether you're selling clothing, accessories, electronics, or any other type of product with variations, this plugin empowers you to showcase your offerings in a visually stunning and user-friendly manner, helping you stand out in today's competitive e-commerce landscape.
 
-1. It works with all themes. No more customization, it will work with your theme in the first run. With the API this plugin provides, theme developers are also able to make it more beautiful and suitable with the style of the theme.
-1. It is very easy to use, even with beginners.
-1. You own and control your data - forever. This plugin won't never take any data from your store.
-1. It will not mess up your admin dashboard with a new menu and strange pages. It follows and uses the standard options of WooCommerce. You will find it is very easy to use.
-1. No Ads, of course. This is a free plugin but it doesn't mean you have to accept Ads in your admin dashboard.
-1. It is easy to customize. Even if you are not a developer, with some simple CSS or snippet, you are able to customize the product swatches swatches.
-1. It is lightweight. With a simple feature like this, you don't need to be concerned about how it impacts your website's speed.
+== Why you need variation swatches for your store? ==
+
+The default WooCommerce dropdowns are not very appealing and user-friendly. They can cause some problems for your customers, such as:
+
+- Default variation dropdowns do not provide any visual feedback of the product variations, making it hard for customers to find the right option.
+- They can reduce the conversion rate of your product page, as customers may lose interest or get confused by the dropdowns.
+
+== How this plugin can help you improve your store? ==
+
+WCBoost – Variation Swatches can solve these problems and provides some benefits for your customers:
+
+- They provide a visual representation of the product variations, making it easy for customers to see and select the right option.
+- They can increase the conversion rate of your product page, as customers can be more engaged and satisfied by the swatches.
+
+== Key features of the WCBoost Variation Swatches plugin ==
+
+This plugin has all the features that other WooCommerce variation swatches plugins have, and more. It also includes many features that make it the best plugin to display WooCommerce product variations in style.
+
+- **Auto convert all variation dropdowns to button swatches**
+
+  This plugin can automatically convert all your variation dropdowns to button swatches by default, without having to create swatches for each attribute manually. If you want to restore the default dropdown, you just need to disable this option.
+
+- **Supports color, image, label, and button swatches for product attributes.**
+
+  You can use swatches of color, image, label, or button to show the different options of your products. For example, you can use color swatches to show the available colors of a shirt, image swatches to show the different patterns of a dress, label swatches to show the sizes of a shoe, or button swatches to show the styles of a hat.
+
+- **Customizable style of swatches, such as shape, size, tooltip, etc.**
+
+  You can control the style of swatches, such as shape, size, border, spacing, alignment, etc. You can also enable tooltip for swatches, which can show the name or description of the attribute.
+
+- **Enable tooltip for swatches**
+
+  You can enable tooltip to show more details of your swatches. The tooltip feature will show the attribute name and the option name when the user hovers over the swatch.
+
+- **Allows global or individual management of attribute swatches.**
+
+  You can create and display swatches for both global product attributes and custom attributes in each singular product. Global product attributes are the attributes that you create and manage in the Products → Attributes, and apply to multiple products. Custom attributes are the attributes that you create and assign to each individual product. You can use both types of attributes to create swatches for your products, and customize them separately.
+
+- **Allow customizing swatches per product**
+
+  You can use the plugin to customize swatches per product, and override the global settings for swatches of each product attribute. You can change the style, size of your swatches for each product.
+
+- **Hide/blur invalid swatches**
+
+  Hiding invalid swatches is essential for a streamlined user experience. Invalid swatches are the ones that do not match the current selection of the other attributes. For example, if you have a product with two attributes, color and size, and you select red as the color, the plugin will hide or blur the swatches that are not available in red, such as XL or XXL. This will help you to avoid confusing your customers with unavailable options, and improve your conversion rate.
+
+- **Easy to use with the simple interface**
+
+  Never mess up the admin area with additional menus. The plugin does not add any additional menus to your admin area, and integrates seamlessly with the WooCommerce settings and product pages. You can create and manage your swatches from the same place where you create and manage your products and attributes, and use the plugin’s settings to customize your swatches globally or per product.
+
+- **Seamlessly integrated with all themes and easy to customize**
+
+  You can use the plugin with most WordPress themes, and it will work flawlessly. The plugin is designed to adapt to your theme’s style and layout. You can also use the plugin’s settings or custom CSS to further customize your swatches to match your theme’s design. It also supports multilingual and RTL websites.
+
+- **Provide API that allows themes and plugins to extend easily**
+
+  You can use the plugin’s API to extend its functionality and compatibility with other themes or plugins. The plugin provides hooks and filters that allow you to modify or add your own code to the plugin, and create custom features or integrations. You can also use the plugin’s documentation and support to learn more about the plugin’s API and how to use it.
+
+- **Completely integrated with the WooCommerce plugin**
+
+  You can use the plugin with the WooCommerce plugin, and it will work perfectly. The plugin is built to enhance the WooCommerce plugin, and does not interfere with any of its features or settings. You can use the plugin to create and display swatches for your WooCommerce products, and enjoy all the benefits of the WooCommerce plugin, such as inventory management, order processing, payment gateways, shipping methods, and more.
+
+- **Support the default exporter and importer of WooCommerce**
+
+  Swatches data will be included with other product data when you export or import with the default tool of WooCommerce. This will save you time and effort, and ensure consistency across your WooCommerce store.
+
+- **It is lightweight and has minimal impact on your website’s performance**
+
+  The plugin is lightweight and optimized for speed. The plugin does not load any unnecessary files or scripts, and uses caching and minification techniques to reduce the load time and bandwidth usage. The plugin also follows the WordPress coding standards and best practices, and ensures the security and stability of your website.
 
 
-== Features provided with this plugin ==
+== Unlock Premium Features to Elevate Your WooCommerce Store to New Level 🏆 ==
 
-* Completely integrated with the WooCommerce plugin
-* Work on variable products only
-* Auto-convert the default dropdowns to buttons
-* Enable Color swatches for product attributes
-* Enable Image swatches for product attributes
-* Enable Label/Text swatches for product attributes
-* Enable Button swatches for product attributes
-* Manage attribute swatches globally
-* Edit product swatches for every single product
-* Control the style of swatches, including shape, size, etc.
-* Enable the tooltip for swatches
-* Provide inner API that allows themes/plugins to extend
-* Create a new attribute swatch in the product editing page
+Upgrade to [WCBoost Variation Swatches PRO](https://wcboost.com/plugin/woocommerce-variation-swatches/) and unlock a treasure trove of advanced features and customization options to take your WooCommerce store to the next level. With the PRO version, you'll supercharge your product variation display capabilities and provide an unparalleled shopping experience for your customers.
+
+- **Display swatches on catalog and singular pages**
+
+  Besides the single product page, swatches are supported on the product catalog pages, such as the shop page. You can also choose to show swatches of simple products, if they have attributes you chosen.
+
+- **Allow purchasing variable products on archive pages**
+
+  You can enable your customers to buy variable products directly from the archive pages, such as shop, category, or tag pages. By enabling the swatches selection on the archive page, your potential customers can preview variations right on the archive page and add variations to the cart. This feature can help you increase your sales and conversions by reducing the number of clicks and page loads.
+
+- **Show variation swatches in the desired position of archive pages**
+
+  You can choose where to display your swatches on archive pages, such as before or after the add to cart button.
+
+- **Limit the view if there are too many swatches**
+
+  You can set a limit on how many swatches to show on archive pages, and use a “show more” button to toggle the rest of the swatches. This will help you to avoid cluttering your pages with too many swatches, and improve the user experience.
+
+- **Disable out-of-stock swatches**
+
+  You can disable out-of-stock swatches but keep them visible on your product or archive pages. You can also customize the appearance and behavior of the out-of-stock swatches.
+
 
 
 == Installation ==
@@ -112,6 +181,11 @@ WooCommerce has an option to hide out-of-stock products from the catalog, it wor
 1. Manage attribute swatches in each variable product
 
 == Changelog ==
+
+= 1.0.16 =
+* Improve compatibility with themes and other plugins.
+* Fix issues with disabled swatches.
+* Ensured compatibility with WordPress 6.5
 
 = 1.0.15 =
 * Tweak the CSS for swatches to improve the accessibility.
