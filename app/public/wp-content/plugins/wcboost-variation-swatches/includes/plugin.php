@@ -12,7 +12,7 @@ final class Plugin {
 	 *
 	 * @var string
 	 */
-	public $version = '1.0.15';
+	public $version = '1.0.16';
 
 	/**
 	 * Options mapping object.
